@@ -1,0 +1,31 @@
+{
+  "madrid": [],
+  "barcelona": [
+    "municipal_barcelona_estacionaments-dum.json",
+    "municipal_barcelona_zones-estacionament-zona-bus.geojson",
+    "municipal_barcelona_infraestructures-inventari-reserves.csv",
+    "municipal_barcelona_aparcaments-sota-superficie.json",
+    "municipal_barcelona_horaris-aparcaments-superficie.csv",
+    "municipal_barcelona_trams-aparcament-superficie.csv",
+    "municipal_barcelona_tarifes-aparcament-superficie.csv",
+    "municipal_barcelona_colors-aparcaments-superficie.csv",
+    "municipal_barcelona_aparcaments-servei-bicis.csv"
+  ],
+  "valencia": [],
+  "zaragoza": [],
+  "malaga": [
+    "municipal_malaga_aparcamientos-bici.csv",
+    "municipal_malaga_aparcamientos-motos.csv",
+    "municipal_malaga_plazas-aparcamientos-2013.csv",
+    "municipal_malaga_uso-aparcamientos-2013.csv",
+    "municipal_malaga_ocupacion-aparcamientos-publicos-municip.csv",
+    "municipal_malaga_aparcamientos-en-rotacion.csv",
+    "municipal_malaga_aparcamientos-para-residentes.csv",
+    "municipal_malaga_aparcamientos-movilidad-reducida.csv",
+    "municipal_malaga_plazas-aparcamientos-s-a-re.csv",
+    "municipal_malaga_tarifas-motos-aparcamientos-l-d.csv"
+  ],
+  "euskadi": [],
+  "sevilla": [],
+  "gijon": []
+}

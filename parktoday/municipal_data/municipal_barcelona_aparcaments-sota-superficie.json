@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="ca" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortlink" href="/ca/node/2408" />
+<link rel="canonical" href="/ca/tokens" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<meta name="theme-color" content="#1e529e">
+<link rel="shortcut icon" href="https://www.barcelona.cat/favicon.ico">
+  <title>Token d&#039;accés | Open Data BCN</title>
+  <link type="text/css" rel="stylesheet" href="https://opendata-ajuntament.barcelona.cat/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://opendata-ajuntament.barcelona.cat/sites/default/files/css/css_rKIKr7DSobmErUqWcdtvAV1fxvb8AzeHqvjQt4yJu-o.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://opendata-ajuntament.barcelona.cat/sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.barcelona.cat/assets/core/stylesheets/core.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://opendata-ajuntament.barcelona.cat/sites/default/files/css/css_1Nru4F1X4oYAWmjRM1FGhNOsmMMeysj7nCwimwD0CFg.css" media="all" />
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <script src="https://opendata-ajuntament.barcelona.cat/sites/default/files/js/js_xvYJgU6LChHqbcSh4y1AvdXfD5QBIwT3GVGVUeuksbM.js"></script>
+<script src="https://opendata-ajuntament.barcelona.cat/sites/default/files/js/js_kvyagmdCev_MtA4X6gzcZGXLh0oO7TEX9afpuo4JFPw.js"></script>
+<script src="https://opendata-ajuntament.barcelona.cat/sites/default/files/js/js_JFPEpveOSlEOinstefSDglNJpRRmZak84qIc49CNm2c.js"></script>
+<script src="https://www.barcelona.cat/assets/core/javascripts/core.js"></script>
+<script src="https://opendata-ajuntament.barcelona.cat/sites/default/files/js/js_qKljz6TkonSHSDrS8hLO0sGmKDdCfs_h9YJgqMffoTA.js"></script>
+<script src="https://opendata-ajuntament.barcelona.cat/sites/default/files/js/js_lz9tYBgWDiTv7cWlR-cl8pgzb_xIeFV-NQNFW_YjIRk.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"ca\/","ajaxPageState":{"theme":"bcn_bootstrap","theme_token":"y_5cWSdlyGMrAYQ1MqOTTGAwIkYadS-tVeeTksQ90f4","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/bcn_megamenu\/js\/bcn_megamenu.js":1,"public:\/\/languages\/ca_NXOXCWX1JXy_C97MX1TRKslBVjLde44UXAPTK-C6rJE.js":1,"https:\/\/www.barcelona.cat\/assets\/core\/javascripts\/core.js":1,"sites\/all\/modules\/bcn_brand\/js\/bcn_brand.js":1,"sites\/all\/themes\/bcn_bootstrap\/bootstrap\/js\/affix.js":1,"sites\/all\/themes\/bcn_bootstrap\/bootstrap\/js\/alert.js":1,"sites\/all\/themes\/bcn_bootstrap\/bootstrap\/js\/button.js":1,"sites\/all\/themes\/bcn_bootstrap\/bootstrap\/js\/carousel.js":1,"sites\/all\/themes\/bcn_bootstrap\/bootstrap\/js\/collapse.js":1,"sites\/all\/themes\/bcn_bootstrap\/bootstrap\/js\/dropdown.js":1,"sites\/all\/themes\/bcn_bootstrap\/bootstrap\/js\/modal.js":1,"sites\/all\/themes\/bcn_bootstrap\/bootstrap\/js\/tooltip.js":1,"sites\/all\/themes\/bcn_bootstrap\/bootstrap\/js\/popover.js":1,"sites\/all\/themes\/bcn_bootstrap\/bootstrap\/js\/scrollspy.js":1,"sites\/all\/themes\/bcn_bootstrap\/bootstrap\/js\/tab.js":1,"sites\/all\/themes\/bcn_bootstrap\/bootstrap\/js\/transition.js":1,"sites\/all\/themes\/bcn_bootstrap\/js\/materialize.js":1,"sites\/all\/themes\/bcn_bootstrap\/js\/buttons.js":1,"sites\/all\/themes\/bcn_bootstrap\/js\/waves.js":1,"sites\/all\/themes\/bcn_bootstrap\/js\/forms.js":1,"sites\/all\/themes\/bcn_bootstrap\/js\/core.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/bcn_megamenu\/less\/bcn_megamenu.less":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/menu_attach_block\/menu_attach_block.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"https:\/\/www.barcelona.cat\/assets\/core\/stylesheets\/core.css":1,"sites\/all\/themes\/bcn_bootstrap\/less\/style.less":1}},"urlIsAjaxTrusted":{"\/tokens?resource_id=1f8bbdb6-e9d8-43d8-80df-338bf933d1d2\u0026package_id=68b29854-7c61-4126-9004-83ed792d675c":true},"bcn_brand":{"langs":{"en":"https:\/\/opendata-ajuntament.barcelona.cat\/en\/tokens","es":"https:\/\/opendata-ajuntament.barcelona.cat\/es\/tokens","ca":"https:\/\/opendata-ajuntament.barcelona.cat\/ca\/tokens"},"alter":false},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":"1","popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":"1","tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-2408 node-type-page i18n-ca">
+<!-- NIRON_opendata_2026-06-30T12:17:09Z  -->
+<header id="brand" alias="opendata" brand="opendata_2026-06-30T12:17:09Z" class="v2025 bcnbrand-legacy lang-ca"  data-lwid="5946bccf-fb42-4b09-93b4-4edcaf700cdc" data-plausible="bcn0257" data-matomo="LYVTvL8u" data-avisos="auto" data-plausible-track-id="pa-ZwG7ND9DlU8v3FLSo9G1j" data-web-cerca="https%3A%2F%2Fopendata-ajuntament.barcelona.cat%2F"  data-web-nom="Open Data BCN" data-cercador="true">
+  <div id="ajuntament-avisos-header"></div>
+  <div class="bcnbrand-navs-container container">
+    <!-- Logo -->
+    <div class="bcnbrand-logo-main">
+       <a class="plausible-event-name=barra-logo" target="_blank" href="https://www.barcelona.cat/ca/" data-ga="L'Ajuntament">
+         <img src="https://www.barcelona.cat/assets/images/brand/banner/2025/logo-ajbcn.svg" alt="Logo Ajuntament de Barcelona">
+      </a>
+    </div>
+    <div class="bcnbrand-navs-wrapper">
+      <!-- Idiomas -->
+      <nav class="bcnbrand-lang lang" id="bcnbrand-lang-nav" aria-label="Selecciona idioma">
+        <div class="bcnbrand-dropdown bcnbrand-lang-dropdown" id="bcnbrand-lang-dropdown">
+          <button id="bcnbrand-lang-toggle" class="bcnbrand-dropdown-toggle bcnbrand-nav-link plausible-event-name=barra-idioma-desplegar"
+                  aria-expanded="false" aria-controls="bcnbrand-language-dropdown-list" aria-label="Català (Canviar idioma)">
+            <span class="bcnbrand-icon icobcn-mon2-l-light" aria-hidden="true"></span>
+            Català
+            <span class="bcnbrand-icon icobcn-fletxa-baix3" aria-hidden="true"></span>
+            <span class="custom-tooltip">Selecciona un idioma</span>
+          </button>
+          <div class="bcnbrand-dropdown-menu bcnbrand-list" id="bcnbrand-language-dropdown-list" aria-label="Selecciona idioma">
+            <h2 class="header-menu-bcnbrand-lang" tabindex="-1">Selecciona idioma</h2>
+            <ul>
+              <li><a href="/ca" aria-current="true" class="active" lang="ca" data-ga="CA">Català</a></li>
+<li><a href="/es" lang="es" data-ga="ES">Castellano</a></li>
+<li><a href="/en" lang="en" data-ga="EN">English</a></li>
+
+            </ul>
+            <!--<h2 class="header-menu-bcnbrand-lang-extended" tabindex="-1">Contingut específic en altres idiomes:</h2>
+            <ul class="bcnbrand-language-extended">
+              <li>
+                <a href="https://www.ciutatrefugi.barcelona/es/bienvenido-barcelona" class="plausible-event-name=barra-idioma-refugiat-ES" title="Si eres un refugiado" lang="es">Si eres un refugiado</a>
+              </li>
+              <li>
+                <a href="https://www.ciutatrefugi.barcelona/en/welcome-barcelona" class="plausible-event-name=barra-idioma-refugiat-EN" title="If you are a refugee" lang="en">If you are a refugee</a>
+              </li>
+              <li>
+                <a href="https://www.ciutatrefugi.barcelona/fr/bienvenue-barcelone" class="plausible-event-name=barra-idioma-refugiat-FR" title="Si vous êtes réfugié(e)" lang="fr">Si vous êtes réfugié(e)</a>
+              </li>
+              <li>
+                <a href="https://www.ciutatrefugi.barcelona/ar/hl-bk-fy-brshlwn" class="plausible-event-name=barra-idioma-refugiat-AR" title="إذا كنت لاجئا " lang="ar">إذا كنت لاجئا </a>
+              </li>
+              <li>
+                <a href="https://www.ciutatrefugi.barcelona/ru/dobro-pozhalovat-v-barselonu" class="plausible-event-name=barra-idioma-refugiat-RU" title="если вы являетесь беженцем" lang="ru">если вы являетесь беженцем</a>
+              </li>
+              <li>
+                <a href="https://www.ciutatrefugi.barcelona/ur/brslwn-myn-khwsh-amdyd" class="plausible-event-name=barra-idioma-refugiat-UR" title="اگر آپ مہاجر ہیں " lang="ur">اگر آپ مہاجر ہیں </a>
+              </li>
+              <li>
+                <a href="https://www.ciutatrefugi.barcelona/uk/vitayemo-v-barseloni" class="plausible-event-name=barra-idioma-refugiat-UK" title="Якщо ви біженець" lang="uk">Якщо ви біженець</a>
+              </li>
+            </ul>-->
+          </div>
+        </div>
+      </nav>
+
+      <!-- Buscador -->
+      <nav class="bcnbrand-navbar-search" aria-label="Cerca en el web">
+        <div class="bcnbrand-dropdown" id="bcnbrand-search-dropdown">
+          <button id="bcnbrand-search-toggle" class="bcnbrand-dropdown-toggle bcnbrand-nav-link plausible-event-name=barra-cerca-desplegar"
+                  aria-expanded="false" aria-controls="bcnbrand-search-menu" aria-describedby="tooltip-search">
+                  <span class="bcnbrand-icon icobcn-lupa-l" aria-hidden="true"></span>
+                  <span id="tooltip-search" role="tooltip" class="custom-tooltip">Cerca en el web</span>
+          </button>
+          <div class="bcnbrand-dropdown-menu" id="bcnbrand-search-menu">
+            <form action="https://cercador.barcelona.cat/ca" method="get">
+              <div class="bcnbrand-search-wrapper">
+                <label for="bcnbrand-search-input" class="bcnbrand-search-input-label">Cerca en el web</label>
+                <input id="bcnbrand-search-input" type="text" name="query"/>
+                <button type="button" id="bcnbrand-search-clear" hidden aria-label="Esborra el text">
+                  <span class="bcnbrand-icon icobcn-creu-l" aria-hidden="true"></span>
+                </button>
+                <button type="submit" aria-label="Cerca en el web" data-ga="Cerca en el web" class="plausible-event-name=barra-cerca">
+                  <span class="bcnbrand-icon icobcn-lupa-l" aria-hidden="true"></span>
+                </button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </nav>
+
+      <!-- Atajos -->
+      <nav class="bcnbrand-navbar-shortcuts" aria-label="Altres webs municipals">
+        <div class="bcnbrand-dropdown" id="bcnbrand-shortcuts-dropdown">
+          <button id="bcnbrand-shortcuts-toggle" class="bcnbrand-dropdown-toggle bcnbrand-nav-link plausible-event-name=barra-drecera-desplegar"
+                  aria-expanded="false" aria-controls="bcnbrand-shortcuts-menu">
+            <span class="bcnbrand-icon icobcn-grid" aria-hidden="true"></span>
+            <span class="custom-tooltip">Altres webs</span>
+          </button>
+          <div class="bcnbrand-dropdown-menu" id="bcnbrand-shortcuts-menu">
+            <div class="bcnbrand-list">
+              <h2>Altres webs de l'Ajuntament de Barcelona</h2>
+              <div role="list">
+                <div class="bcnbrand-row">
+                  <div role="listitem">
+                    <a target="_blank" href="https://ajuntament.barcelona.cat/ca/" class="plausible-event-name=barra-drecera-ajuntament">
+                      <img src="https://www.barcelona.cat/assets/images/brand/banner/2025/ico-ajuntament.svg" alt="">
+                      <span class="bcnbrand-link">L'Ajuntament</span>
+                    </a>
+                  </div>
+                  <div role="listitem">
+                    <a target="_blank" href="https://ajuntament.barcelona.cat/canals-comunicacio-ciutadana/" class="plausible-event-name=barra-drecera-Canals%20de%20comunicaci%C3%B3">
+                      <img src="https://www.barcelona.cat/assets/images/brand/banner/2025/ico-iris.svg" alt="">
+                      <span class="bcnbrand-link">Contacte</span>
+                    </a>
+                  </div>
+                  <div role="listitem">
+                    <a target="_blank" href="https://seuelectronica.ajuntament.barcelona.cat/oficinavirtual/ca/" class="plausible-event-name=barra-drecera-Tr%C3%A0mits">
+                      <img src="https://www.barcelona.cat/assets/images/brand/banner/2025/ico-tramits.svg" alt="">
+                      <span class="bcnbrand-link">Tràmits</span>
+                    </a>
+                  </div>
+                </div>
+
+                <div class="bcnbrand-row">
+                  <div role="listitem">
+                    <a target="_blank" href="https://seuelectronica.ajuntament.barcelona.cat/processosselectius/ca" class="plausible-event-name=barra-drecera-Processos-selectius">
+                      <img src="https://www.barcelona.cat/assets/images/brand/banner/2025/ico-difusio.svg" alt="">
+                      <span class="bcnbrand-link">Treballa a l'Ajuntament</span>
+                    </a>
+                  </div>
+                  <div role="listitem">
+                    <a target="_blank" href="https://www.barcelona.cat/infobarcelona/ca/" class="plausible-event-name=barra-drecera-Info%20Barcelona">
+                      <img src="https://www.barcelona.cat/assets/images/brand/banner/2025/ico-premsa.svg" alt="">
+                      <span class="bcnbrand-link">Notícies</span>
+                    </a>
+                  </div>
+                  <div role="listitem">
+                    <a target="_blank" href="https://guia.barcelona.cat/ca/" class="plausible-event-name=barra-drecera-Guia%20BCN">
+                      <img src="https://www.barcelona.cat/assets/images/brand/banner/2025/ico-agenda.svg" alt="">
+                      <span class="bcnbrand-link">Agenda</span>
+                    </a>
+                  </div>
+                </div>
+
+                <div class="bcnbrand-row bcnbrand-row--center">
+                  <div role="listitem">
+                    <a target="_blank" href="https://geoportal.barcelona.cat/planolbcn/ca/" class="plausible-event-name=barra-drecera-Pl%C3%A0nol%20BCN">
+                      <img src="https://www.barcelona.cat/assets/images/brand/banner/2025/ico-planol.svg" alt="">
+                      <span class="bcnbrand-link">Mapa</span>
+                    </a>
+                  </div>
+                  <div role="listitem">
+                    <a target="_blank" href="https://www.barcelona.cat/com-shi-va/ca/" class="plausible-event-name=barra-drecera-Com%20Com%20s%27hi%20va">
+                      <img src="https://www.barcelona.cat/assets/images/brand/banner/2025/ico-comshiva.svg" alt="">
+                      <span class="bcnbrand-link">Com s'hi va</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+    </div>
+  </div>
+</header>  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Vés al contingut</a>
+  </div>
+  <div id="wrapper">
+	  	  
+  <header id="navbar" role="banner">
+	<div class="container">
+		<div id="portal-title">
+			<h1 id="site-name" class="hidden-xs">
+			  <a href="/ca" title="Inici" rel="home">
+				Open Data BCN			  </a>
+			</h1>
+			<p class="slogan">Servei de dades obertes de l'Ajuntament de Barcelona</p>
+		</div>
+	</div>
+      <div class="region region-navigation">
+    <section id="block-bcn-megamenu-bcn-megamenu-main-menu" class="block block-bcn-megamenu clearfix">
+
+      
+  <div data-spy="affix" data-smart-affix><nav class="navbar navbar-default container megamenu-main-menu">
+  <div class="menu-overlay"></div>
+    <div class="navbar-header">
+      <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#megamenu-collapse-main-menu">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="bcn-icon-menu"></span>
+      </button><div class="site-title visible-xs-block"><a href="/ca/node" title="Inici">Open Data <span>BCN</span></a></div></div><div id="megamenu-collapse-main-menu" class="collapse navbar-collapse"><ul id="main-menu-ul" role="menubar" aria-controls="main-menu-ul" class="nav nav-same-width"><li class="depth-1 visible-xs-block text-right title-xs"><a tabindex="0" href="/ca/node" title="Inici">Open Data BCN</a></li><li class="depth-1 home-link"><a tabindex="0" class="active btn-home active-trail" href="/ca/node" title="Inici"><i class="bcn-icon-casa hidden-xs"></i><strong class="visible-xs-inline-block">Pàgina principal</strong></a></li><li class="dropdown mega-dropdown depth-1 "><a tabindex="0" aria-haspopup="true" href="/ca/%3Cdroplink%3E" class="dropdown-toggle" data-toggle="dropdown"><span>Sobre aquest lloc&nbsp;<i class="arrow bcn-icon-baix-medium"></i></span></a><div aria-hidden="true" class="dropdown-menu  megamenu-cols-1 mega-dropdown-menu"><ul class="row-height"><li class="col-megamenu col-xs-12 col-height " tabindex="0" tabindex="-1" aria-controls="main-menu-ul" aria-checked="false"><ul><li class="menu-item depth-2 " tabindex="-1" aria-controls="main-menu-ul" aria-checked="false"><a class="" href="/ca/open-data-bcn"><span><i class="bcn-icon-right-medium"></i> Open Data BCN</span></a></li><li class="menu-item depth-2 " tabindex="-1" aria-controls="main-menu-ul" aria-checked="false"><a class="" href="/ca/caracteristiques-portal"><span><i class="bcn-icon-right-medium"></i> Característiques del Portal</span></a></li><li class="menu-item depth-2 " tabindex="-1" aria-controls="main-menu-ul" aria-checked="false"><a class="" href="/ca/iniciatives-relacionades"><span><i class="bcn-icon-right-medium"></i> Iniciatives relacionades</span></a></li><li class="menu-item depth-2 " tabindex="-1" aria-controls="main-menu-ul" aria-checked="false"><a class="" href="/ca/faqs"><span><i class="bcn-icon-right-medium"></i> FAQs</span></a></li></ul></li></ul></div></li><li class=" depth-1 "><a tabindex="0" href="http://opendata-ajuntament.barcelona.cat/data/ca/dataset"><span>Catàleg de Datasets</span></a></li><li class=" depth-1 "><a tabindex="0" href="/ca/analytics"><span>Estadístiques</span></a></li><li class=" depth-1 "><a tabindex="0" href="/ca/desenvolupadors"><span><span style="font-size:14px">Desenvolupadors</span></span></a></li><li class=" depth-1 "><a tabindex="0" href="/ca/dades-alt-valor"><span>DADES D'ALT VALOR</span></a></li><li class=" depth-1 "><a tabindex="0" href="/ca/ods-agenda2030"><span>Agenda 2030-ODS</span></a></li><li class="dropdown mega-dropdown depth-1 "><a tabindex="0" aria-haspopup="true" href="/ca/%3Cdroplink%3E" class="dropdown-toggle" data-toggle="dropdown"><span>Projectes de difusió&nbsp;<i class="arrow bcn-icon-baix-medium"></i></span></a><div aria-hidden="true" class="dropdown-menu  megamenu-cols-1 mega-dropdown-menu"><ul class="row-height"><li class="col-megamenu col-xs-12 col-height " tabindex="0" tabindex="-1" aria-controls="main-menu-ul" aria-checked="false"><ul><li class="menu-item depth-2 " tabindex="-1" aria-controls="main-menu-ul" aria-checked="false"><a class="" href="/ca/repte-barcelona-dades-obertes"><span><i class="bcn-icon-right-medium"></i> Repte Barcelona Dades Obertes</span></a></li><li class="menu-item depth-2 " tabindex="-1" aria-controls="main-menu-ul" aria-checked="false"><a class="" href="/ca/data-viz-kobe-home"><span><i class="bcn-icon-right-medium"></i> World Data Viz Challenge Barcelona-Kobe</span></a></li></ul></li></ul></div></li></ul></div></nav></div>
+</section>
+  </div>
+  </header>
+
+<div class="main-container">
+
+  <header role="banner" id="page-header">
+      </header> <!-- /#page-header -->
+    <a id="main-content"></a>
+  <div class="container">
+                          <h2 class="element-invisible">Esteu aquí</h2><div class="breadcrumb"><span class="inline odd first"><a href="/ca">Inici</a></span> <span class="delimiter">/</span> <span class="inline even last">Token d&#039;accés</span></div>      </div>
+  
+    
+  	  <div class="container content">
+		  		    <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <article id="node-2408" class="node node-page clearfix" about="/ca/tokens" typeof="foaf:Document">
+    <header>
+            <span property="dc:title" content="Token d&#039;accés" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>      </header>
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><div>
+<div>
+<div>
+<h1>Token d'accés</h1>
+<p>El portal Open Data BCN ofereix al seu catàleg datasets amb diferent freqüència d'actualització. Per tal de millorar l'accés a les dades, en especial les que s'actualitzen més sovint, i per evitar que s'exhaureixi la quota d'accessos a causa de peticions recurrents i per tant amb afectació del temps de resposta o disponibilitat del portal per a la resta d'usuaris, caldrà accedir amb un <strong>token d'accés</strong> d'usuari a alguns recursos. Aquest accés, convenientment indicat, requereix <strong>estar registrat</strong> al portal i <strong>identificat</strong> prèvia sol·licitud explícita.</p>
+<h2>Com utilitzar-lo?</h2>
+<p>Una vegada es disposi del token d'accés: </p>
+<p>- Es pot incloure a la capçalera "Authorization" a la petició de la URL de descàrrega del recurs.</p>
+<pre>
+GET /data/dataset/8214557a-.../resource/d6b5a09c-.../download/recurs.json HTTP/1.1
+Host: opendata-ajuntament.barcelona.cat
+Accept: application/json
+Authorization: 4f0d4dfaa06a4...
+</pre><p>Per exemple, per fer la petició amb la llibreria urllib2 de Python, es pot incloure aquesta capçalera amb el mètode <em>add_header</em>:</p>
+<pre>
+request = urllib2.Request('http://opendata-ajuntament.barcelona.cat/data/dataset/8214557a-.../resource/d6b5a09c-.../download/recurs.json')
+request.add_header('Authorization', '4f0d4dfaa06a4...')
+response = urllib2.urlopen(request)
+</pre><p><br /></p>
+<p>- També es poden descarregar els recursos amb el navegador i en aquest cas es pot fer una petició utilitzant un complement que permeti afegir o modificar les capçaleres de les peticions.</p>
+<p>Tot i que tots els navegadors ofereixen opcions similars, posem per exemple l'extensió "Modify Header Value" de <strong>Mozilla Firefox</strong>. Per a descarregar-la cal accedir a la <a href="https://addons.mozilla.org/ca/firefox/addon/modify-header-value/" target="_blank">pàgina corresponent</a> de Firefox Add-ons i s'ha de configurar de la següent manera:</p>
+<ul><li><strong>URL</strong>: https://opendata-ajuntament.barcelona.cat/data/dataset</li>
+<li><strong>Header Name</strong>: Authorization</li>
+<li><strong>Header Value</strong>: [el token proporcionat]</li>
+</ul><p>Per a més informació sobre complements en l'esmentat navegador, clicar <a href="https://support.mozilla.org/es/kb/encontrar-e-instalar-complementos-para-agregar-car#w_lcahmo-busco-e-instalo-complementos">aquí</a>.</p>
+</div>
+</div>
+</div>
+</div></div></div>     <footer>
+          <ul class="links list-inline"><li class="translation_en first"><a href="/en/tokens" title="Access token" class="translation-link" xml:lang="en">English</a></li>
+<li class="translation_es last"><a href="/es/tokens" title="Token de acceso" class="translation-link" xml:lang="es">Español</a></li>
+</ul>  </footer>
+      </article>
+
+</section>
+  </div>
+	  </div>
+  	  
+    <div class="container bottom">
+    <div class="container">
+		<div class="row">
+		  <div class="col-md-12">
+			  <div class="region region-page-post-content">
+    <section id="block-opendata-tokens-opendata-tokens" class="block block-opendata-tokens clearfix">
+
+      
+  <div class="tokens"><a id="download"></a><div class="modal fade in" id="downloadModal" tabindex="-1" role="dialog" aria-labelledby="downloadModalLabel">
+                          <div class="modal-dialog modal-lg" role="document">
+                            <div class="modal-content">
+                              <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                <h4 class="modal-title" id="downloadModalLabel">Avís</h4>
+                              </div>
+                              <div class="modal-body">
+                                <i class="bcn-icon-proteccio-dades pull-right" style="font-size: 4em"> </i><p>Per descarregar aquest recurs, és necessari <strong>un token d'accés</strong>.</p>
+                              <div class="clearfix"></div>
+                              </div>
+                              <div class="modal-footer">
+                                <button type="button" class="btn btn-default" data-dismiss="modal">Continuar</button>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <script type="text/javascript">
+                            jQuery(document).ready(function($) {
+                                $("#downloadModal").modal("show");
+                                $("#download-resource").click(function (event) {
+                                    $(this).attr("disabled", true);
+                                    $(this).addClass("btn-loading");
+									$("#opendata-tokens-form-download").submit();
+                                });
+                            });
+                        </script><div><h2>Com obtenir-lo?</h2><p>Per a poder obtenir el <strong>token d'accés</strong> s'ha d'estar identificat al portal i, per identificar-se, és necessari ser usuari registrat.</p><a href="user/register">Registreu-vos</a> o <a href="user/login?redirect=http://opendata-ajuntament.barcelona.cat/ca/tokens">identifiqueu-vos</a>.</p></div></div>
+</section>
+  </div>
+		  </div>
+		</div>
+    </div>
+  </div>
+  </div>
+<div class="container pre_footer">
+	</div>
+  <footer class="footer">
+    <div class="container">
+        <div class="region region-footer">
+    <section id="block-block-1" class="block block-block clearfix">
+
+      
+  <p><a href="/" class="logo-peu"><img alt="Logo de l'Ajuntament de Barcelona" class="logo" src="https://www.barcelona.cat/assetsdi/img/logo.svg" height="36" /></a></p>
+<ul class="menu-peu"><li>Ajuntament de Barcelona</li>
+<li><a href="/ca/user">El meu compte</a></li>
+<li><a href="http://www.bcn.cat/cgi-bin/consultesIRIS?id=239">Contacteu-nos</a></li>
+<li><a href="http://ajuntament.barcelona.cat/accessibilitat/ca/">Accessibilitat</a></li>
+<li><a href="/ca/avis-legal">Avís legal</a></li>
+<li><a href="/ca/condicions-us">Condicions d'ús<img src="/sites/all/themes/bcn_bootstrap/img/common/cc-by.png" alt="" style="height: 30px;" /></a></li>
+</ul>
+</section>
+  </div>
+    </div>
+  </footer>
+	  <script src="https://opendata-ajuntament.barcelona.cat/sites/default/files/js/js_MRdvkC2u4oGsp5wVxBG1pGV5NrCPW3mssHxIn6G9tGE.js"></script>
+  </div>
+
+</body>
+</html>
