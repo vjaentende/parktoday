@@ -1,0 +1,604 @@
+﻿<!DOCTYPE html>
+<!--[if IE 6]>
+<html class="ie ie6" lang="es-ES">
+<![endif]-->
+<!--[if IE 7]>
+<html class="ie ie7" lang="es-ES">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="es-ES">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="es-ES">
+<!--<![endif]-->
+<head>
+<script type="text/javascript">
+	if (!window.console) window.console = {log: function() {}};
+</script>
+
+<meta http-equiv="expires" content="0" />
+<meta http-equiv="cache-control" content="no-cache, no-store" />
+<meta http-equiv="pragma" content="no-cache" />
+
+<meta charset="UTF-8" />
+<meta user-scalable="no" name="viewport" content="width=device-width, initial-scale=1" />
+<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE" />
+
+
+
+<title>Datos Abiertos Santander | Recurso   | aparcamientos-702 | 0ff63d6a-0e93-4e5d-b5b9-3f7fc7fcf740</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://datos.santander.es/xmlrpc.php" />
+<link rel="shortcut icon" href="http://datos.santander.es/wp-content/themes/viavansi-ogov-current/skin/santander/images/icons/favicon.ico" />
+
+
+
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/datos.santander.es\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.15"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='prettify-gc-syntax-highlighter-css'  href='http://datos.santander.es/wp-content/plugins/prettify-gc-syntax-highlighter/prettify.css?ver=4.5.15' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var util = {"counter":"Contador (CON)","add":"Suma (SUM)","maximum":"M\u00e1ximo (MAX)","minimum":"M\u00ednimo (MIN)","average":"Media Aritm\u00e9tica (AVG)","quantity":"Cantidad","total":"Total","max":"M\u00e1ximo","min":"M\u00ednimo","avg":"Promedio","error":"Se ha producido un error en","volumen":"Por volumen de sector","grid":"Por orden en el grid","serie":"Por volumen de la serie","inside":"Dentro","outside":"Fuera","noLabel":"Sin etiqueta","noMarker":"Sin marcador","cross":"Cruz","circle":"C\u00edrculo","diamond":"Diamante","triangle":"Tri\u00e1ngulo","invertedTri":"Tri\u00e1ngulo invertido","box":"Caja","individuals":"Individuales","stacked":"Apiladas","percentStacked":"Apiladas %","piechart":"Sectores","columnchart":"Columnas","linechart":"L\u00ednea","splinechart":"L\u00ednea curva","bezierchart":"Bezier","areachart":"\u00c1rea","scatterchart":"Dispersi\u00f3n","centered":"Centrado","upperleft":"Esquina superior izquierda","upperright":"Esquina superior derecha","lowerleft":"Esquina inferior izquierda","lowerright":"Esquina inferior derecha","loaging":"Cargando...","dragColumn":"Arrastre aqu\u00ed una columna para agrupar por dicha columna","goFirst":"Ir a la primera p\u00e1gina","goLast":"Ir a la \u00faltima p\u00e1gina","next":"Siguiente","previous":"Anterior","legends":"Leyendas de capa","select":"Select an option"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://datos.santander.es/wp-content/themes/viavansi-ogov-current/app/scripts/Utils.js?ver=4.5.15'></script>
+<link rel='https://api.w.org/' href='http://datos.santander.es/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://datos.santander.es/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://datos.santander.es/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.5.15" />
+<link rel="canonical" href="http://datos.santander.es/resource/" />
+<link rel='shortlink' href='http://datos.santander.es/?p=14' />
+<link rel="alternate" type="application/json+oembed" href="http://datos.santander.es/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdatos.santander.es%2Fresource%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://datos.santander.es/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdatos.santander.es%2Fresource%2F&#038;format=xml" />
+<link rel="stylesheet" type="text/css" media="screen, print" href="http://datos.santander.es/wp-content/plugins/recaptcha-form/gd-recaptcha.css" />
+
+<!-- BEGIN ExactMetrics v5.3.9 Universal Analytics - https://exactmetrics.com/ -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-57244322-3', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- END ExactMetrics Universal Analytics -->
+
+<!-- CSS -->
+<link rel="stylesheet" href="http://datos.santander.es/wp-content/themes/viavansi-ogov-current/app/external/css/prettify.css" />
+<link rel="stylesheet" href="http://datos.santander.es/wp-content/themes/viavansi-ogov-current/app/external/css/colorpicker.css" />
+<link rel="stylesheet" href="http://datos.santander.es/wp-content/themes/viavansi-ogov-current/app/external/css/openlayers.css" />
+<link rel="stylesheet" href="http://datos.santander.es/wp-content/themes/viavansi-ogov-current/skin/santander/style.min.css" />
+<link rel="stylesheet" href="//cdn.wijmo.com/themes/arctic/jquery-wijmo.css" />
+<link rel="stylesheet"  id="themeCSS" href="http://datos.santander.es/wp-content/themes/viavansi-ogov-current/app/external/css/rangeslider.css" />
+<link rel="stylesheet" href="//cdn.wijmo.com/jquery.wijmo-pro.all.3.20153.83.min.css" />
+<!-- link rel="stylesheet" href="//cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" /> -->
+<link rel="stylesheet" href="http://datos.santander.es/wp-content/uploads/leaflet-0.7.5/leaflet.css" />
+<link rel="stylesheet" href="http://datos.santander.es/wp-content/themes/viavansi-ogov-current/app/external/css/MarkerCluster.Default.css" />
+<link rel="stylesheet" href="http://datos.santander.es/wp-content/themes/viavansi-ogov-current/app/external/css/MarkerCluster.css" />
+<link rel="stylesheet" href="http://datos.santander.es/wp-content/themes/viavansi-ogov-current/app/external/css/leaflet.wmslegend.css" />
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<!-- HTML5 Shiv -->
+<!--[if lt IE 9]>
+   <script src="http://datos.santander.es/wp-content/themes/viavansi-ogov-current/app/scripts/html5shiv.js" type="text/javascript"></script>
+<![endif]-->
+
+<!-- jQuery References -->
+<script src="//code.jquery.com/jquery-1.11.3.min.js" type="text/javascript"></script>
+<script src="//code.jquery.com/ui/1.11.4/jquery-ui.min.js" type="text/javascript"></script>
+
+<script src="http://datos.santander.es/wp-content/themes/viavansi-ogov-current/app/external/scripts/jquery.scrolli.min.js" type="text/javascript"></script>
+
+
+<!-- Wijmo Widgets JavaScript -->
+<script src="//cdn.wijmo.com/jquery.wijmo-open.all.3.20153.83.min.js" type="text/javascript"></script>
+<script src="//cdn.wijmo.com/jquery.wijmo-pro.all.3.20153.83.min.js" type="text/javascript"></script>
+
+
+<!-- Colorpicker -->
+<script src="http://datos.santander.es/wp-content/themes/viavansi-ogov-current/app/external/scripts/colorpicker.js" type="text/javascript"></script>
+
+
+<!-- Openlayers -->
+<script src="http://datos.santander.es/wp-content/themes/viavansi-ogov-current/app/external/scripts/proj4js-combined.js"></script>
+<!--<script src="http://datos.santander.es/wp-content/themes/viavansi-ogov-current/app/external/scripts/OpenLayers.js"></script>-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/openlayers/2.13.1/OpenLayers.js" type="text/javascript"></script>
+
+<!-- Leaflet -->
+<!-- <script src="//cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script> -->
+<script src="http://datos.santander.es/wp-content/uploads/leaflet-0.7.5/leaflet.js"></script>
+<script src="http://datos.santander.es/wp-content/themes/viavansi-ogov-current/app/external/scripts/leaflet.spin.min.js" type="text/javascript"></script>
+<script src="http://datos.santander.es/wp-content/themes/viavansi-ogov-current/app/external/scripts/spin.min.js" type="text/javascript"></script>
+<script src="http://datos.santander.es/wp-content/themes/viavansi-ogov-current/app/external/scripts/leaflet.markercluster.js" type="text/javascript"></script>
+<script src="http://datos.santander.es/wp-content/themes/viavansi-ogov-current/app/external/scripts/shp.js" type="text/javascript"></script>
+<script src="http://datos.santander.es/wp-content/themes/viavansi-ogov-current/app/external/scripts/leaflet.shpfile.min.js" type="text/javascript"></script>
+<script src="http://datos.santander.es/wp-content/themes/viavansi-ogov-current/app/external/scripts/esri-leaflet.js"></script>
+<script src='//api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.2.0/leaflet-omnivore.min.js'></script>
+<script src="http://datos.santander.es/wp-content/themes/viavansi-ogov-current/app/external/scripts/leaflet.wmslegend.js"></script>
+
+
+<!-- Application Scripts -->
+<script src="http://datos.santander.es/wp-content/themes/viavansi-ogov-current/app/scripts/OpendataTools.min.js" type="text/javascript"></script>
+
+<!-- RECAPCHA -->
+<script src='https://www.google.com/recaptcha/api.js'></script>
+
+<script type="text/javascript">
+	var opendatatools = new OpendataTools();
+	var skinName = "santander";
+
+	// Scrolli (slider)
+	$(function() {
+	  jQuery('.scrolli').scrolli({
+	    showArrowPager : false,
+	    autoplay: true,
+	    moveSpeed : 300
+	  });
+
+	  $('.rate').wrap('<div class="rate-wrapper"></div>').parent().hover(function() {
+	    var $tooltip = $("<div class='tooltip'>" +
+	      "<div class='rate rate-total-5 rate-current-0'><span>Valoración: 0/5</span></div> No disponible o Licencia no abierta (ej. HTML)<br />" +
+	      "<div class='rate rate-total-5 rate-current-1'><span>Valoración: 1/5</span></div> Datos no estructurados con licencia abierta(ej. PDF)<br />" +
+	      "<div class='rate rate-total-5 rate-current-2'><span>Valoración: 2/5</span></div> Datos estructurados pero con formato propietario (ej. Excel)<br />" +
+	      "<div class='rate rate-total-5 rate-current-3'><span>Valoración: 3/5</span></div> Datos estructurados con formato abierto (ej. CSV)<br />" +
+	      "<div class='rate rate-total-5 rate-current-4'><span>Valoración: 4/5</span></div> Datos enlazables a través de URIs (ej. RDF)<br />" +
+	      "<div class='rate rate-total-5 rate-current-5'><span>Valoración: 5/5</span></div> Datos enlazados - Datos con URIs y enlaces a otros datos (ej. RDF)" +
+	    "</div>");
+
+	    $tooltip.hide();
+	    $(this).append($tooltip);
+	    $tooltip.fadeIn();
+	  }, function() {
+	    $(this).find('.tooltip').fadeOut(function() {
+	      $(this).remove();
+	    });
+	  });
+
+		$('.trigger-add-hover').hover(function() {
+			var $box = $(this).closest('.add-hover');
+
+			$box.bind('mouseleave', function() {
+				$box.removeClass('hover');
+			});
+
+			$box.addClass('hover');
+		});
+
+		$(':text.autoselect').bind('click', function() {
+			$(this).focus().select();
+		});
+
+		$('#content section #searchform span').bind('click', function() {
+			$(this).closest('form').submit();
+		});
+
+
+		$('.dataset-detail>.expand-wrapper>.expand-body').before('<p class="group"><a href="#" class="expand-title">Expandir</a></p>');
+
+		var ellipsis = "";
+		var full_text = $('.dataset-detail>.expand-wrapper>.text').text();
+		var mini_text = full_text.substr(0, 500);
+
+		if (full_text.length > mini_text.length) {
+			ellipsis = "...";
+		}
+
+		$('.dataset-detail>.expand-wrapper>.text').hide().before('<p class="mini-text">'+ mini_text + ellipsis +'</p>');
+                
+		expand.init(function($wrapper, $title, $body) {
+			if ($wrapper.hasClass('description')) {
+				if ($title.hasClass('state-opened')) {
+					$wrapper.find('.mini-text').hide();
+					$wrapper.find('.text').show();
+					$wrapper.find('.text-portfolio').hide();
+				} else {
+                                        $wrapper.find('.mini-text').show();
+                                        $wrapper.find('.text').hide();
+					$wrapper.find('.text-portfolio').show();
+				}
+			}
+
+			if ($wrapper.hasClass('change-title')) {
+				if ($title.hasClass('state-opened')) {
+					$title.text($wrapper.attr('data-text-to-close'));
+				} else {
+					$title.text($wrapper.attr('data-text-to-open'));
+				}
+			}
+		});
+
+	});
+
+</script>
+</head>
+<body class="page page-id-14 page-template page-template-template_resource page-template-template_resource-php">
+    
+                    <div id="wrapper">
+        		<header class="group">
+	<h1 id="logo">
+		<a href="http://datos.santander.es/" title="Datos Abiertos Santander" rel="home">Datos Abiertos Santander</a>
+	</h1>
+
+	<form role="search" method="get" id="searchform" action="http://datos.santander.es/search">
+		<div>
+			<label class="screen-reader-text" for="s">Buscar:</label>
+			<input type="text" value="" placeholder="Texto a buscar" name="param_search" id="param_search" />
+			<input type="submit" id="searchsubmit" value="Buscar" />
+						<div class="current-groups">Conjuntos de Datos: <strong>61</strong> - Distribuciones: <strong>735</strong></div>
+<!--			<div class="current-resources"></div>-->
+		</div>
+	</form>
+
+	<div class="menu-inicio-container"><ul id="menu-inicio" class="nav-menu"><li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="http://datos.santander.es/">Inicio</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="http://datos.santander.es/data/">Catálogo de Datos</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="http://datos.santander.es/applications/">Aplicaciones</a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://datos.santander.es/documentacion/">Documentación</a></li>
+<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="http://datos.santander.es/sparql/">Sparql</a></li>
+<li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="http://datos.santander.es/collaborate/">Participa</a></li>
+</ul></div></header>
+<div class="highlight-01">
+	<div class="breadcrumbs">
+		<a href="http://datos.santander.es">Inicio</a> &gt;
+		<a href="http://datos.santander.es/data">Catálogo</a> &gt;
+		<a href="http://datos.santander.es/dataset?id=aparcamientos-702">aparcamientos-702</a>	 &gt;
+		<strong>0ff63d6a-0e93-4e5d-b5b9-3f7fc7fcf740</strong>
+	</div>
+</div>
+
+<div id="content" class="group">
+	<section>
+		<div class="resource-detail" id="resource-detail">
+			<div class="content-wrapper" id="content-wrapper">
+
+							</div><!-- #content-wrapper -->
+
+                        			<div class="tabs" id="tabs">
+				<ul class="tabs-list">
+										<li><a onclick="opendatatools.initDataChanged();" href="#data">Datos</a></li>
+					
+				</ul>
+
+				
+				<div class="tab-content" id="data">
+                                        <div class="resource" id="resource">
+						
+							<div id="resource-application-data">
+								<h2>Vista previa no disponible para este tipo de distribución: </h2>
+							</div>
+
+						
+					</div><!-- #resource -->
+				</div><!-- #data -->
+
+				
+				
+<!-- TAB VIEWS -->
+
+
+			</div><!-- #tabs -->
+                        		</div><!-- #resource-detail -->
+	</section>
+
+	<aside>
+
+	<!-- GET PARAMS -->
+	
+	<!-- SOCIAL -->
+        	<!-- SOCIAL -->
+	            
+	<div class="social-long box">
+		<div class="box-content expand-wrapper">
+			<ul class="social">
+				<a target="_blank" title="Facebook" href="http://www.facebook.com/sharer.php?s=100&p[url]=http%3A%2F%2Fdatos.santander.es%2Fresource%3Fds%3Daparcamientos-702%26id%3D0ff63d6a-0e93-4e5d-b5b9-3f7fc7fcf740%26ft%3DCSV&p[title]=&p[summary]="><li class="social-item facebook"><i class="fa fa-facebook"></i></li></a>
+                                <a target="_blank" title="Twitter" href="http://twitter.com/intent/tweet?url=&text=&hashtags=OGoov"><li class="social-item twitter"><i class="fa fa-twitter"></i></li></a>
+                                <a title="Google+" target="_blank" href="https://plus.google.com/share?url=http%3A%2F%2Fdatos.santander.es%2Fresource%3Fds%3Daparcamientos-702%26id%3D0ff63d6a-0e93-4e5d-b5b9-3f7fc7fcf740%26ft%3DCSV"><li class="social-item google"><i class="fa fa-google-plus"></i></li></a>
+				<a title="Herramientas" class="expand-title" href="#"><li class="social-item config"><i class="fa fa-gear"></i></li></a>
+				<a title="RSS" target="_blank" href="http://datos.santander.es/rss2feed?dataset=aparcamientos-702"><li class="social-item rss"><i class="fa fa-rss"></i></li></a>
+				<a title="Comentarios" href="http://datos.santander.es/collaborate?type=comment&id="><li class="social-item colabora"><i class="fa fa-commenting"></i></li></a>
+			</ul>
+
+			<ul class="links expand-body">
+								<li class="expand-wrapper">
+				  <a href="#" class="expand-title">Descargar código</a>
+				  <div class="expand-body">
+				    <input class="text autoselect" type="text" readonly="readonly" value="http%3A%2F%2Fdatos.santander.es%2Fresource%3Fds%3Daparcamientos-702%26id%3D0ff63d6a-0e93-4e5d-b5b9-3f7fc7fcf740%26ft%3DCSV" />
+				  </div>
+				</li>
+				<li class="expand-wrapper">
+				  <a href="#" class="expand-title">ID Distribución</a>
+				  <div class="expand-body">
+				    <input class="text autoselect" type="text" readonly="readonly" value="0ff63d6a-0e93-4e5d-b5b9-3f7fc7fcf740" />
+				  </div>
+				</li>
+			</ul>
+		</div>
+	</div>
+	                
+	<!-- GET TAGS -->
+	<!-- GET TAGS -->
+<div class="box expand-wrapper change-title" data-text-to-close="Contraer" data-text-to-open="Expandir">
+	<span class="box-title">Etiquetas</span>
+	<div class="box-content">
+		<ul class="tags">
+						<li><a href="http://datos.santander.es/data?tags="></a></li>
+					</ul>
+			</div>
+</div><!-- .box -->
+	
+
+	<!-- GET FORMATS -->
+	<!-- GET FORMATS -->
+
+	<!-- GET GROUPS -->
+	<!-- GET GROUPS -->
+<div class="box expand-wrapper change-title" data-text-to-close="Contraer" data-text-to-open="Expandir">
+	<span class="box-title">Sectores</span>
+	<div class="box-content">
+		<ul>
+					</ul>
+	</div>
+</div><!-- .box -->
+
+	<!-- GET ORGANIZATIONS -->
+	<!-- GET ORGANIZATIONS -->
+<div class="box expand-wrapper change-title">
+	<span class="box-title">Organización</span>
+	<div class="box-content">
+            
+                                                <img title="" src="http://apicatalogo.santander.es/uploads/group/" width="100%" />
+                                <p>
+                                    </p>
+            	</div>
+</div><!-- .box -->
+
+        
+        <!-- GET GROUPS -->
+	<!-- GET FORMATS -->
+
+        <!-- GET DATE -->
+		<!-- FILTRO POR FECHA -->
+     
+<script>
+    $(document).ready( function() {
+        var inicio = "01/01/2013";
+        var param_inicio="01/01/2013";
+        var param_fin="18/08/2026";
+                
+        var array_inicio = inicio.split("/");
+        var date_start=new Date(array_inicio[2],array_inicio[1]-1,array_inicio[0]);
+
+        var array_paraminicio = param_inicio.split("/");
+        var date_startparam=new Date(array_paraminicio[2],array_paraminicio[1]-1,array_paraminicio[0]);
+        
+        var array_paramfin = param_fin.split("/");
+        var date_endparam = new Date(array_paramfin[2],array_paramfin[1]-1,array_paramfin[0]);
+
+      $('#dateSlider').dateRangeSlider({
+        valueLabels: "show",
+        bounds: { min : date_start, max : new Date() },
+        step:  { days: 1 },
+        defaultValues : { min: date_startparam, max: date_endparam },
+        enabled: true,
+        symmetricPositionning: true,
+        formatter:function(val){
+            var d = new Date(val);
+            var days = d.getDate();
+            var month = d.getMonth() + 1;
+            var year = d.getFullYear();
+
+            return days + "/" + month + "/" + year;
+        }
+
+      });
+
+    });
+
+</script>        
+            
+	<!-- GET OPENNESS SCORE -->
+	<!-- GET OPENNESS SCORE -->
+		
+</aside>
+</div><!-- #content -->
+
+<script id="scriptInit" type="text/javascript">
+    
+    
+	var idView = '';
+
+
+  	OpenLayers.ProxyHost="http://datos.santander.es/wp-content/themes/viavansi-ogov-current/proxy.php?url=";
+  	OpenLayers.ImgPath = "http://datos.santander.es/wp-content/themes/viavansi-ogov-current/app/external/images/openlayers/";
+
+  	var selectedFeature = null;
+
+	
+	
+	
+	            
+                    
+        
+	$(document).ready(function () {
+		$("view-isDynamicView").wijcheckbox();
+                
+                var mapBase = {};
+                if (!_.isEmpty('')){
+                    mapBase['mapName'] = '';
+                    mapBase['map'] = '';
+                    mapBase['attribution'] = '';
+                }
+
+		
+		ApplicationExpander.create("#resource-html-data", {contentUrl: ""} );
+
+		ApplicationExpander.create("#resource-text-data", {} );
+
+		
+		tabs.init();
+	});
+        
+    
+	// Muestra por defecto la subpestaña del PieChart al pulsar sobre la pestaña de Preview.
+	function showPieChart() {
+		setTimeout (function() {
+			$('ul.views li.view-pie a').trigger('click');
+		}, 100);
+	}
+
+	function loadVersions(idResource){
+		var posting = $.post("http://datos.santander.es/wp-admin/admin-ajax.php",
+				{action : 'lista_versiones', idResVersion : idResource});
+
+		posting.done(function( data ) {
+			$( "#versions" ).empty().append( data );
+		});
+	}
+
+	function loadViews(idResource, filter, dataset){
+
+		var posting = $.post("http://datos.santander.es/wp-admin/admin-ajax.php?lang=es",
+				{
+					action : 'lista_vistas',
+				 	idResVersion : idResource,
+				 	filter : filter,
+				 	dataset : dataset
+				 });
+
+		posting.done(function( data ) {
+			$( "#views" ).empty().append( data );
+		});
+
+	}
+        
+        function countDownloads(idDataset, idResource, format, group) {
+            var posting = $.post("http://datos.santander.es/wp-admin/admin-ajax.php",
+				{
+					action : 'increment_downloads',
+                                        idDataset: idDataset,
+				 	idResource : idResource,
+				 	format : format,
+				 	group : group
+				 });
+
+		posting.done(function( data ) {
+		});
+        }
+
+
+</script>
+
+<script>
+$(document).ready(function(){
+        var voted = false;
+$('#votelike').unbind('click.view');
+$(document).on("click.view", "#votelike", function(e){
+        if(!voted){
+                var urlrating="http://datos.santander.es/database?ds=aparcamientos-702&id=0ff63d6a-0e93-4e5d-b5b9-3f7fc7fcf740&vote=like";
+                $.ajax({url:urlrating,success:function(result) {
+                                        if (result.trim() === 'NULL') {
+                                                $("#votelike").parent().children("div").prepend('<div  id="voted" style="color: red">Ya ha votado</div>');
+                                        } else {
+                                                $("#votelike").html(result);
+                                        }
+                }});
+                voted = true;
+        } else {
+                        if ($("#voted").length === 0) {
+                                $("#votelike").parent().children("div").prepend('<div id="voted" style="color: red">Ya ha votado</div>');
+                        }
+                }
+        e.preventDefault();
+        return false;
+});
+
+        $('#votedontlike').unbind('click.view');
+        $(document).on("click.view", "#votedontlike", function(e){
+        //$('#votedontlike').live('click.view', function(e){
+        if(!voted){
+                var urlrating="http://datos.santander.es/database?ds=aparcamientos-702&id=0ff63d6a-0e93-4e5d-b5b9-3f7fc7fcf740&vote=dontlike";
+                $.ajax({url:urlrating,success:function(result) {
+                                        if (result.trim() === 'NULL') {
+                                                $("#votedontlike").parent().children("div").prepend('<div id="voted" style="color: red">Ya ha votado</div>');
+                                        } else {
+                                                $("#votedontlike").html(result);
+                                        }
+                }});
+                voted = true;
+        } else {
+                        if ($("#voted").length === 0) {
+                                $("#votedontlike").parent().children("div").prepend('<div id="voted" style="color: red">Ya ha votado</div>');
+                        }
+                }
+        e.preventDefault();
+        return false;
+});
+
+});
+
+</script>
+	</div><!-- #wrapper -->
+<footer>
+	<h2>Participa</h2>
+
+	<ul class="participa">
+		<li class="participa-01">
+			<a href="http://datos.santander.es/collaborate?type=app">
+				<strong>APP</strong>
+				Comparte tu aplicación que usa nuestros datos			</a>
+		</li>
+
+		<li class="participa-02">
+			<a href="http://datos.santander.es/collaborate?type=idea">
+				<strong>IDEAS</strong>
+				¿Tienes una idea de cómo aprovechar mejor nuestros datos?			</a>
+		</li>
+
+		<li class="participa-03">
+			<a href="http://datos.santander.es/collaborate?type=news">
+				<strong>SOLICITUDES</strong>
+				Seguro que hay otros datos que te gustaría que compartamos			</a>
+		</li>
+	</ul>
+
+	<div class="body-pie">
+		<div class="enlaces">
+		    2013 Portal de Datos Abiertos
+			<ul class="datos-web">
+				<li><a href="http://datos.santander.es/nota-legal">Nota Legal</a> </li>
+				<li><a href="http://datos.santander.es/politica-privacidad">Política de Privacidad</a> </li>
+				<li class="ultimo"><a href="http://datos.santander.es/accesibilidad">Accesibilidad</a></li>
+			</ul>
+		</div>
+	</div>
+</footer>
+
+<script type='text/javascript' src='http://datos.santander.es/wp-content/plugins/prettify-gc-syntax-highlighter/prettify.js?ver=4.5.15'></script>
+<script type='text/javascript' src='http://datos.santander.es/wp-content/plugins/prettify-gc-syntax-highlighter/launch.js?ver=4.5.15'></script>
+<script type='text/javascript' src='http://datos.santander.es/wp-includes/js/wp-embed.min.js?ver=4.5.15'></script>
+<script src="http://datos.santander.es/wp-content/themes/viavansi-ogov-current/app/external/scripts/jQAllRangeSliders-min.js" type="text/javascript"></script>
+<script src="http://datos.santander.es/wp-content/themes/viavansi-ogov-current/app/scripts/main.min.js" type="text/javascript"></script>
+<script src="http://datos.santander.es/wp-content/themes/viavansi-ogov-current/app/scripts/Utils.min.js" type="text/javascript"></script>
+<script src="http://datos.santander.es/wp-content/themes/viavansi-ogov-current/app/scripts/ChartPreview.min.js" type="text/javascript"></script>
+<script src="http://datos.santander.es/wp-content/themes/viavansi-ogov-current/app/scripts/DynamicWidgetPreview.min.js" type="text/javascript"></script>
+<script src="http://datos.santander.es/wp-content/themes/viavansi-ogov-current/app/external/scripts/globalize.culture.es-ES.js" type="text/javascript"></script>
+<script src="http://datos.santander.es/wp-content/themes/viavansi-ogov-current/app/external/scripts/prettify.js" type="text/javascript"></script>
+<script src="http://datos.santander.es/wp-content/themes/viavansi-ogov-current/app/external/scripts/proj4js-combined.js"></script>
+<script src="http://datos.santander.es/wp-content/themes/viavansi-ogov-current/app/external/scripts/proj4.js"></script>
+<script src="http://datos.santander.es/wp-content/themes/viavansi-ogov-current/app/wijwidgets/ApplicationChart.js" type="text/javascript"></script>
+<script src="http://datos.santander.es/wp-content/themes/viavansi-ogov-current/app/external/scripts/underscore-min.js" type="text/javascript"></script></body>
+</html>
