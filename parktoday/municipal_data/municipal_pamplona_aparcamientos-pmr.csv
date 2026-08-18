@@ -1,0 +1,103 @@
+"name";"address";"category";lon;lat;"status";temperature;rotationbegin;rotationend;rotationduration;"signal_status";datenosignal
+"PS_VR-PMR_4BHuertasdeStoDomingofrenteEducación";"4B Huertas de Sto. Domingo frente Educación";"forDisabled";-1.645649;42.819811;"occupied";24;2026-08-17 21:34:20.911;;;"on";
+"PS_VR-PMR_4BHuertasdeStoDomingofrenteEducación";"4B Huertas de Sto. Domingo frente Educación";"forDisabled";-1.645603;42.819811;"occupied";28;2026-07-26 00:45:34.929;;;"commsfail";2026-08-18 05:41:00.433
+"PS_VR-PMR_4BHuertasdeStoDomingofrenteEducación";"4B Huertas de Sto. Domingo frente Educación";"forDisabled";-1.645561;42.81981;"free";31;2026-08-17 16:21:08.881;2026-08-17 16:34:43.777;814.896;"on";2026-01-27 14:48:59.826
+"PS_VR-PMR_4BHuertasdeStoDomingofrenteEducación";"4B Huertas de Sto. Domingo frente Educación";"forDisabled";-1.645522;42.81981;"occupied";24;2026-08-18 06:24:01.176;;;"on";2026-01-27 18:13:21.335
+"PS_VR-PMR_2BCDescalzos72BIS";"2B C. Descalzos 72BIS";"forDisabled";-1.648728;42.818452;"occupied";7;2026-03-09 01:23:17.58;;;"commsfail";2026-04-26 00:30:39.173
+"PS_VR-PMR_2BCDescalzos72BIS";"2B C. Descalzos 72BIS";"forDisabled";-1.648726;42.818476;"occupied";27;2026-07-01 21:14:57.632;2026-07-31 09:18:03.172;2548985.54;"commsfail";2026-08-18 05:41:00.433
+"PS_VR-PMR_1LCNavasdeTolosa-CJArteaga";"1L C. Navas de Tolosa - C. J. Arteaga";"forDisabled";-1.650166;42.815508;"occupied";23;2026-08-17 01:03:14.189;;;"commsfail";2026-08-18 05:41:00.433
+"PS_VR-PMR_2LCPadreMoret-CSandoval";"2L C. Padre Moret - C. Sandoval";"forDisabled";-1.648935;42.814824;"free";48;2026-08-17 21:12:51.16;2026-08-17 23:18:44.876;7553.716;"on";2026-08-10 09:40:59.758
+"PS_VR-PMR_2LCPadreMoret-CSandoval";"2L C. Padre Moret - C. Sandoval";"forDisabled";-1.648995;42.814839;"occupied";49;2026-08-17 18:22:12.374;;;"on";2026-08-09 11:40:59.731
+"PS_VR-PMR_3LAvEjército2Trasera";"3L Av. Ejército 2 Trasera";"forDisabled";-1.645929;42.813192;"free";20;2026-08-18 06:05:24.323;;;"on";
+"PS_VR-PMR_3LAvEjército2Trasera";"3L Av. Ejército 2 Trasera";"forDisabled";-1.646002;42.813174;"free";21;2026-08-17 12:29:30.107;;;"on";
+"PS_VR-PMR_3LAvEjército2Trasera";"3L Av. Ejército 2 Trasera";"forDisabled";-1.646084;42.813156;"occupied";26;2025-11-01 06:49:04.34;;;"on";2026-01-27 18:13:21.335
+"PS_VR-PMR_1BCPzaSantaMaríalaRealfrenteN1";"1B C. Pza. Santa María la Real frente Nº 1";"forDisabled";-1.639249;42.818063;"free";28;2026-08-03 20:42:09.172;2026-08-04 08:42:01.113;43191.941;"on";2026-01-27 20:13:21.448
+"PS_VR-PMR_1BCJuandeLabritfrenteN25";"1B C. Juan de Labrit frente Nº 25";"forDisabled";-1.639973;42.816788;"free";27;2026-08-15 11:50:37.138;2026-08-15 23:50:29.831;43192.693;"on";
+"PS_VR-PMR_2LPseoSarasateN13";"2L Pseo. Sarasate Nº 13";"forDisabled";-1.645789;42.814796;"free";0;2026-01-26 09:06:56.855;;;"commsfail";2026-02-25 08:13:26.653
+"PS_VR-PMR_2LPseoSarasateN13";"2L Pseo. Sarasate Nº 13";"forDisabled";-1.645848;42.814777;"occupied";19;2026-02-10 07:39:04.043;;;"commsfail";2026-03-12 06:30:31.74
+"PS_VR-PMR_2LPseoSarasateN3";"2L Pseo. Sarasate Nº 3";"forDisabled";-1.644115;42.815424;"occupied";6;2025-12-31 08:04:27.569;;;"commsfail";2026-01-30 08:13:21.781
+"PS_VR-PMR_3LCGarcíaCastañónN1";"3L C. García Castañón Nº 1";"forDisabled";-1.644054;42.815094;"free";22;2026-08-17 12:46:31.826;2026-08-17 12:46:38.647;6.821;"on";2026-07-19 09:40:58.298
+"PS_VR-PMR_3LCGarcíaCastañónN1";"3L C. García Castañón Nº 1";"forDisabled";-1.64401;42.815058;"occupied";27;;;;"on";2026-01-27 22:13:21.449
+"PS_VR-PMR_3LCGarcíaCastañónN1";"3L C. García Castañón Nº 1";"forDisabled";-1.643967;42.815019;"free";7;2026-01-23 22:18:24.485;2026-01-23 22:18:37.792;13.307;"commsfail";2026-02-23 02:13:26.036
+"PS_VR-PMR_1LCEstellaN5";"1L C. Estella Nº 5";"forDisabled";-1.643699;42.814477;"occupied";12;2026-02-23 17:44:52.073;;;"commsfail";2026-04-05 16:30:37.145
+"PS_VR-PMR_1BCEstellaN1";"1B C. Estella Nº 1";"forDisabled";-1.643663;42.814417;"occupied";24;2026-08-08 00:18:19.321;;;"on";
+"PS_VR-PMR_2LAvSanIgnacioN10";"2L Av. San Ignacio Nº 10";"forDisabled";-1.643038;42.813814;"occupied";26;2026-08-18 04:43:33.58;;;"on";
+"PS_VR-PMR_2LAvSanIgnacioN10";"2L Av. San Ignacio Nº 10";"forDisabled";-1.643034;42.813764;"occupied";21;2026-08-18 05:05:20.343;2026-08-18 05:05:28.344;8.001;"on";
+"PS_VR-PMR_2BCArrietaN11";"2B C. Arrieta Nº 11";"forDisabled";-1.641025;42.813943;"occupied";29;2026-08-18 06:48:41.972;;;"on";2026-07-21 05:40:58.395
+"PS_VR-PMR_2BCArrietaN11";"2B C. Arrieta Nº 11";"forDisabled";-1.64099;42.813964;"occupied";8;;;;"commsfail";2026-06-12 12:30:50.506
+"PS_VR-PMR_2BCLeyreN18";"2B C. Leyre Nº 18";"forDisabled";-1.640418;42.8134;"free";24;2026-08-17 21:56:35.036;2026-08-17 21:58:05.066;90.03;"on";
+"PS_VR-PMR_2BCLeyreN18";"2B C. Leyre Nº 18";"forDisabled";-1.640394;42.813418;"free";24;2026-08-16 23:08:25.135;2026-08-17 11:08:00.747;43175.612;"on";
+"PS_VR-PMR_2LCArrietaN11bis";"2L C. Arrieta Nº 11bis";"forDisabled";-1.639817;42.814664;"free";22;2026-08-08 19:36:13.562;2026-08-09 07:36:34.085;43220.523;"commsfail";2026-08-18 05:41:00.433
+"PS_VR-PMR_2LCArrietaN11bis";"2L C. Arrieta Nº 11bis";"forDisabled";-1.639854;42.81464;"occupied";22;2026-08-11 10:31:22.573;;;"commsfail";2026-08-18 05:41:00.433
+"PS_VR-PMR_2LCLeyreN5{Soloes1plaza}";"2L C. Leyre Nº 5 {Solo es 1 plaza}";"forDisabled";-1.638774;42.814302;"occupied";23;2026-08-13 19:17:37.508;;;"on";
+"PS_VR-PMR_2BCAralarfrenteN3";"2B C. Aralar frente Nº 3";"forDisabled";-1.637507;42.815364;"occupied";23;2026-08-08 08:46:45.43;;;"on";2026-01-27 20:13:21.448
+"PS_VR-PMR_2BCAralarfrenteN3";"2B C. Aralar frente Nº 3";"forDisabled";-1.637539;42.815389;"occupied";24;;;;"on";2026-01-27 20:13:21.448
+"PS_VR-PMR_1BCSanFermínfrenteN6";"1B C. San Fermín frente Nº 6";"forDisabled";-1.636546;42.813645;"occupied";32;2026-08-17 23:41:22.18;;;"on";
+"PS_VR-PMR_1LCMediaLunatraseraColegiodeMédicos";"1L C. Media Luna trasera Colegio de Médicos";"forDisabled";-1.632896;42.814379;"occupied";52;2025-12-15 20:48:50.778;;;"on";
+"PS_VR-PMR_5BCMonteMonjardínfrenteSeminario";"5B C. Monte Monjardín frente Seminario";"forDisabled";-1.628245;42.811873;"free";51;2026-08-13 00:39:47.654;2026-08-13 12:39:19.521;43171.867;"on";
+"PS_VR-PMR_5BCMonteMonjardínfrenteSeminario";"5B C. Monte Monjardín frente Seminario";"forDisabled";-1.628219;42.811895;"free";51;2026-08-17 13:03:16.695;2026-08-18 01:02:48.543;43171.849;"on";
+"PS_VR-PMR_5BCMonteMonjardínfrenteSeminario";"5B C. Monte Monjardín frente Seminario";"forDisabled";-1.628193;42.811918;"occupied";51;2026-08-18 00:51:55.085;;;"on";
+"PS_VR-PMR_5BCMonteMonjardínfrenteSeminario";"5B C. Monte Monjardín frente Seminario";"forDisabled";-1.628165;42.811939;"free";52;2026-08-17 00:36:20.402;2026-08-17 12:36:05.677;43185.275;"on";
+"PS_VR-PMR_5BCMonteMonjardínfrenteSeminario";"5B C. Monte Monjardín frente Seminario";"forDisabled";-1.62814;42.81196;"occupied";28;2026-08-14 12:48:55.034;;;"on";
+"PS_VR-PMR_1BCValledeEgües(ColegioSdoCorazón)";"1B C. Valle de Egües (Colegio Sdo. Corazón)";"forDisabled";-1.629456;42.811942;"free";29;2026-08-17 22:16:27.641;2026-08-17 22:16:31.012;3.371;"on";
+"PS_VR-PMR_1LCRoncalN10";"1L C. Roncal Nº 10";"forDisabled";-1.630975;42.812459;"free";44;2026-08-17 12:24:59.126;2026-08-17 22:05:27.922;34828.796;"on";2026-01-27 18:13:21.335
+"PS_VR-PMR_1LCMedialunaN36";"1L C. Media luna Nº 36";"forDisabled";-1.63106;42.811043;"occupied";25;2026-08-15 18:35:46.578;;;"on";
+"PS_VR-PMR_2BCMonteMonjardínN2";"2B C. Monte Monjardín Nº 2";"forDisabled";-1.630968;42.809837;"occupied";48;2026-08-17 22:47:04.629;;;"on";
+"PS_VR-PMR_2BCMonteMonjardínN2";"2B C. Monte Monjardín Nº 2";"forDisabled";-1.63099;42.809817;"free";49;2026-08-14 22:34:20.846;2026-08-15 10:34:05.046;43184.2;"on";2026-01-27 22:13:21.449
+"PS_VR-PMR_1LCAralarN42";"1L C. Aralar Nº 42";"forDisabled";-1.632568;42.810933;"occupied";40;2026-08-12 07:50:24.075;;;"on";2026-01-27 20:13:21.448
+"PS_VR-PMR_1LCPascualMadozfrenteN9";"1L C. Pascual Madoz frente Nº 9";"forDisabled";-1.632562;42.811095;"occupied";39;2026-08-17 23:24:18.847;;;"on";2026-01-27 20:13:21.448
+"PS_VR-PMR_2BCIturraldeySuitN14";"2B C. Iturralde y Suit Nº 14";"forDisabled";-1.632935;42.811855;"free";26;2026-08-17 21:58:37.935;2026-08-17 21:58:41.117;3.182;"on";2026-01-27 14:48:59.827
+"PS_VR-PMR_2BCIturraldeySuitN14";"2B C. Iturralde y Suit Nº 14";"forDisabled";-1.6329;42.811878;"occupied";25;2026-08-16 21:35:52.674;;;"on";
+"PS_VR-PMR_1BCAralarN24";"1B C. Aralar Nº 24";"forDisabled";-1.634042;42.81225;"free";44;2026-08-17 21:12:54.854;2026-08-17 21:12:58.029;3.176;"on";
+"PS_VR-PMR_1LCCastillodeMayaN26";"1L C. Castillo de Maya Nº 26";"forDisabled";-1.634298;42.812052;"occupied";23;2026-08-18 06:49:43.814;;;"on";
+"PS_VR-PMR_2LCAralarN19";"2L C. Aralar Nº 19";"forDisabled";-1.634454;42.81273;"free";37;2026-08-17 04:51:48.029;2026-08-17 04:52:03.818;15.789;"on";2026-08-09 19:40:59.816
+"PS_VR-PMR_2LCAralarN19";"2L C. Aralar Nº 19";"forDisabled";-1.634413;42.812692;"free";27;2026-08-17 21:25:47.729;;;"on";
+"PS_VR-PMR_2LCFelipeGorritiN19";"2L C. Felipe Gorriti Nº 19";"forDisabled";-1.634426;42.812909;"occupied";26;2026-08-17 20:15:15.55;;;"on";
+"PS_VR-PMR_2LCFelipeGorritiN19";"2L C. Felipe Gorriti Nº 19";"forDisabled";-1.634379;42.812939;"free";26;2026-08-17 15:15:01.435;2026-08-17 20:04:41.286;17379.851;"on";
+"PS_VR-PMR_1LCTafallaN3";"1L C. Tafalla Nº 3";"forDisabled";-1.635402;42.813305;"occupied";26;2026-08-17 19:50:22.249;;;"on";
+"PS_VR-PMR_1LCTafallaN7";"1L C. Tafalla Nº 7";"forDisabled";-1.636305;42.812761;"occupied";23;2026-08-16 09:26:47.249;;;"on";2026-01-27 20:13:21.448
+"PS_VR-PMR_1BCOliteN30";"1B C. Olite Nº 30";"forDisabled";-1.635418;42.812166;"free";22;2026-08-18 05:16:09.752;;;"on";
+"PS_VR-PMR_1LCFelipeGorritiN27";"1L C. Felipe Gorriti Nº 27";"forDisabled";-1.635702;42.812139;"occupied";23;2026-07-22 09:42:22.986;;;"on";2026-01-27 20:13:21.448
+"PS_VR-PMR_1LCFelipeGorritiN31";"1L C. Felipe Gorriti Nº 31";"forDisabled";-1.636122;42.811885;"occupied";23;2026-08-17 18:36:46.785;2026-08-17 21:48:06.817;11480.032;"on";
+"PS_VR-PMR_2LCSanFermínfrenteN29";"2L C. San Fermín frente Nº 29";"forDisabled";-1.637416;42.8132;"occupied";6;2025-12-04 12:26:37.814;;;"commsfail";2026-01-03 21:18:36.123
+"PS_VR-PMR_2LCSanFermínfrenteN29";"2L C. San Fermín frente Nº 29";"forDisabled";-1.637367;42.81323;"occupied";25;2026-08-17 05:58:09.797;;;"on";
+"PS_VR-PMR_1LCFelipeGorritiN35";"1L C. Felipe Gorriti Nº 35";"forDisabled";-1.636777;42.811492;"occupied";27;2026-08-18 00:35:41.055;;;"on";2026-04-23 00:30:38.636
+"PS_VR-PMR_1LCCastillodeMayaN36";"1L C. Castillo de Maya Nº 36";"forDisabled";-1.63594;42.811063;"free";40;2026-08-17 14:49:38.207;2026-08-18 02:49:18.242;43180.035;"on";2026-07-09 13:40:57.362
+"PS_VR-PMR_7BPzaLibertadN1(Soloes1plaza)";"7B Pza. Libertad Nº 1 (Solo es 1plaza)";"forDisabled";-1.635599;42.810252;"occupied";25;2026-08-18 05:37:04.194;;;"on";
+"PS_VR-PMR_1BCOlitefrenteN31(FrentealN29)";"1B C. Olite frente Nº 31 (Frente al Nº 29)";"forDisabled";-1.634441;42.811302;"free";47;2026-08-17 21:12:13.307;2026-08-17 21:14:00.76;107.453;"on";
+"PS_VR-PMR_1BCOlitefrenteN31";"1B C. Olite frente Nº 31";"forDisabled";-1.634292;42.81117;"occupied";40;2026-08-18 00:47:48.765;;;"on";
+"PS_VR-PMR_1BCOlitefrenteN34";"1B C. Olite frente Nº 34";"forDisabled";-1.634058;42.810956;"occupied";26;2026-08-18 00:11:12.787;;;"on";
+"PS_VR-PMR_2BCOliteN42";"2B C. Olite Nº 42";"forDisabled";-1.633547;42.810494;"occupied";23;2026-08-17 20:00:10.054;;;"on";2026-01-27 18:13:21.335
+"PS_VR-PMR_2BCOliteN42";"2B C. Olite Nº 42";"forDisabled";-1.633519;42.810465;"occupied";23;2026-08-17 19:45:52.206;;;"on";
+"PS_VR-PMR_1BCOliteN46";"1B C. Olite Nº 46";"forDisabled";-1.633092;42.810083;"occupied";51;2026-08-18 05:40:37.012;;;"on";
+"PS_VR-PMR_3LCAoizN10-12{Solo2plazas}";"3L C. Aoiz Nº 10-12 {Solo 2 plazas}";"forDisabled";-1.633626;42.809918;"occupied";31;2026-08-18 00:21:14.191;;;"on";
+"PS_VR-PMR_1LCYanguasyMiranda27";"1L C. Yanguas y Miranda 27";"forDisabled";-1.6447;42.811282;"occupied";0;2026-07-06 08:47:06.671;;;"commsfail";2026-08-05 11:40:59.425
+"PS_VR-PMR_2LCTudelaN2";"2L C. Tudela Nº 2";"forDisabled";-1.644141;42.812529;"occupied";26;2026-08-17 22:05:34.911;;;"on";
+"PS_VR-PMR_2LCTudelaN2";"2L C. Tudela Nº 2";"forDisabled";-1.644115;42.812469;"occupied";28;2026-08-18 05:50:16.514;;;"on";2026-06-11 16:30:50.326
+"PS_VR-PMR_2LCJuliánGayarre-AvZaragoza";"2L C. Julián Gayarre - Av. Zaragoza";"forDisabled";-1.643786;42.808413;"occupied";34;2026-06-11 10:08:20.982;;;"commsfail";2026-07-17 09:40:58.181
+"PS_VR-PMR_2LCJuliánGayarre-AvZaragoza";"2L C. Julián Gayarre - Av. Zaragoza";"forDisabled";-1.64372;42.808377;"free";49;2026-06-12 12:29:47.868;;;"commsfail";2026-07-16 23:40:58.235
+"PS_VR-PMR_1LCFcoBergamínN32";"1L C. Fco. Bergamín Nº 32";"forDisabled";-1.636457;42.808107;"occupied";42;2026-08-17 22:42:19.276;;;"on";
+"PS_VR-PMR_3LCGonzalezTablasN7";"3L C. Gonzalez Tablas Nº 7";"forDisabled";-1.638317;42.808864;"occupied";20;2026-08-18 05:35:04.091;2026-08-18 05:35:17.098;13.007;"on";2026-08-11 23:40:59.949
+"PS_VR-PMR_3LCGonzalezTablasN7";"3L C. Gonzalez Tablas Nº 7";"forDisabled";-1.638229;42.808867;"occupied";27;2026-08-18 05:39:13.519;;;"on";2026-08-08 03:40:59.751
+"PS_VR-PMR_1LCSangüesaN34|{AntiguaCGonzálezTablas}";"1L C. Sangüesa Nº 34 | { Antigua C. González Tablas }";"forDisabled";-1.638167;42.808868;"occupied";34;2026-08-18 06:49:41.729;;;"on";2026-08-08 01:40:59.722
+"PS_VR-PMR_1BAvGaliciaN9";"1B Av. Galicia Nº 9";"forDisabled";-1.638913;42.809621;"free";33;2026-08-17 18:57:24.185;2026-08-18 06:56:30.409;43146.224;"on";
+"PS_VR-PMR_1LAvGaliciaN4";"1L Av. Galicia Nº4";"forDisabled";-1.641263;42.809459;"free";19;2026-08-18 06:31:31.11;;;"on";2026-01-27 18:13:21.336
+"PS_VR-PMR_1BAvGaliciaN1";"1B Av. Galicia Nº1";"forDisabled";-1.642316;42.80962;"free";26;2026-08-17 17:36:33.847;2026-08-17 19:48:10.494;7896.647;"on";2026-07-07 07:40:57.152
+"PS_VR-PMR_1LCTafallafrenteN30";"1L C. Tafalla frente Nº 30";"forDisabled";-1.6404;42.810292;"free";26;2026-08-17 09:57:13.028;2026-08-17 21:56:43.553;43170.525;"on";
+"PS_VR-PMR_1BCSanFermínN65";"1B C. San Fermín Nº 65";"forDisabled";-1.642357;42.810134;"free";23;2026-08-11 22:35:28.732;2026-08-12 22:35:19.56;86390.828;"on";2026-01-27 22:13:21.449
+"PS_VR-PMR_2LCPadreCalatayudN2";"2L C. Padre Calatayud Nº 2";"forDisabled";-1.642977;42.811664;"occupied";24;2026-08-17 11:02:22.684;;;"on";2026-08-11 09:40:59.958
+"PS_VR-PMR_2LCPadreCalatayudN2";"2L C. Padre Calatayud Nº 2";"forDisabled";-1.642937;42.811631;"occupied";23;2026-08-17 15:33:21.069;;;"on";2026-08-05 05:40:59.404
+"PS_VR-PMR_1LCSangüesaN16";"1L C. Sangüesa Nº 16";"forDisabled";-1.64111;42.811132;"occupied";25;2026-08-17 17:37:01.45;;;"on";
+"PS_VR-PMR_1LCTafallaN29";"1L C. Tafalla Nº 29";"forDisabled";-1.639603;42.810775;"free";23;2026-08-17 16:15:58.087;2026-08-17 16:16:13.861;15.774;"on";2026-07-15 05:40:57.89
+"PS_VR-PMR_1LCFcoBergamínN4";"1L C. Fco. Bergamín Nº4";"forDisabled";-1.641382;42.812589;"occupied";25;2026-08-18 05:37:20.2;;;"on";
+"PS_VR-PMR_1BCFcoBergamínN7";"1B C. Fco. Bergamín Nº 7";"forDisabled";-1.641338;42.812654;"free";28;2026-08-18 06:32:25.816;;;"on";
+"PS_VR-PMR_1BCFcoBergamín,27";"1B C. Fco. Bergamín, 27";"forDisabled";-1.639575;42.811073;"occupied";26;2026-08-17 21:36:44.751;;;"on";2026-01-27 12:48:59.876
+"PS_VR-PMR_1LCFcoBergamínN39";"1L C. Fco. Bergamín Nº 39";"forDisabled";-1.638004;42.809664;"occupied";25;2026-08-17 21:02:44.251;;;"on";2026-01-27 12:48:59.876
+"PS_VR-PMR_1LCSanFermínN18";"1L C. San Fermín Nº 18";"forDisabled";-1.63987;42.811733;"occupied";23;2026-08-18 00:31:06.643;;;"on";
+"PS_VR-PMR_1LCPaulinoCaballeroN24{Plazadebatería}";"1L C. Paulino Caballero Nº 24 {Plaza de batería}";"forDisabled";-1.638802;42.811484;"occupied";27;;;;"on";
+"PS_VR-PMR_1LCTafallaN23";"1L C. Tafalla Nº 23";"forDisabled";-1.638791;42.811265;"free";24;2026-08-17 18:57:03.293;;;"on";2026-01-27 22:13:21.45
+"PS_VR-PMR_1LCFelipeGorritiN30";"1L C. Felipe Gorriti Nº 30";"forDisabled";-1.637824;42.810933;"occupied";24;2026-08-11 22:17:47.792;;;"on";2026-07-15 21:40:57.967
+"PS_VR-PMR_2BCCastillodeMayaN41";"2B C. Castillo de Maya Nº 41";"forDisabled";-1.63712;42.810259;"occupied";29;2026-08-18 01:18:41.46;;;"on";2026-07-13 23:40:57.792
+"PS_VR-PMR_2BCCastillodeMayaN41";"2B C. Castillo de Maya Nº 41";"forDisabled";-1.637152;42.810239;"occupied";23;2026-08-18 06:55:29.059;;;"on";2026-08-14 23:41:00.415
+"PS_VR-PMR_1BCPaulinoCaballeroN44";"1B C. Paulino Caballero Nº 44";"forDisabled";-1.636815;42.809702;"free";23;2026-08-17 20:46:13.197;;;"on";2026-07-21 15:40:58.404
+"PS_VR-PMR_1LPzadelaLibertadN12";"1L Pza. de la Libertad Nº 12";"forDisabled";-1.635678;42.809038;"free";29;2026-08-17 19:47:08.357;;;"on";2026-01-27 12:48:59.876

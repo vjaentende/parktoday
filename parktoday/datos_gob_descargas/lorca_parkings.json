@@ -1,0 +1,74 @@
+[
+  {
+    "nombre": "Lorca Plaza",
+    "direccion": "Antigua Plaza de Abastos 13,14 y 15",
+    "plazas": 212,
+    "email": "lorcaplaza@terra.es",
+    "telefono": "968 471174",
+    "web": "",
+    "descripcion": "La tarificación es por minutos o fracciiones. Abierto todo el año, 24 horas.",
+    "longitud": -1.6996030000000038,
+    "latitud": 37.675464999999988,
+    "icono": "https://datos.lorca.es/icon/parking.png"
+  },
+  {
+    "nombre": "Plaza Colón",
+    "direccion": "Plaza Colon s/n.",
+    "plazas": 315,
+    "email": "",
+    "telefono": "98 442809",
+    "web": "",
+    "descripcion": "La tarificación es por minutos o fracciones. Abierto todo el año, 24 horas.",
+    "longitud": -1.6990289999999986,
+    "latitud": 37.672831999999985,
+    "icono": "https://datos.lorca.es/icon/parking.png"
+  },
+  {
+    "nombre": "Menchirón",
+    "direccion": "Alameda Menchirón, frente a la Estación de Autobuses.",
+    "plazas": 250,
+    "email": "",
+    "telefono": "",
+    "web": "",
+    "descripcion": "",
+    "longitud": -1.6970749862305212,
+    "latitud": 37.671562965323282,
+    "icono": "https://datos.lorca.es/icon/parking.png"
+  },
+  {
+    "nombre": "San Vicente",
+    "direccion": "Glorieta de San Vicente 1, acceso por C/ Lope Gisbert",
+    "plazas": 87,
+    "email": "trafico@limusa.es",
+    "telefono": "968441033",
+    "web": "",
+    "descripcion": "La tarificación es por minutos o fracciones. Abierto todo el año, 24 horas.<br>Servicio de préstamo de bicicletas y carritos de la compra a los usuarios del parking.",
+    "longitud": -1.697070999999992,
+    "latitud": 37.676356999999989,
+    "icono": "https://movilidad.lorca.es/icon/parking-s-vicente.png"
+  },
+  {
+    "nombre": "Pasarela",
+    "direccion": "Plaza Curtidores s/n",
+    "plazas": 600,
+    "email": "info@parkingpasarela.es",
+    "telefono": "968011544",
+    "web": "http://www.parkingpasarela.es",
+    "descripcion": "La tarificación es por minutos o fracciones. Abierto todo el año, 24 horas.",
+    "longitud": -1.6946199999999951,
+    "latitud": 37.680593999999992,
+    "icono": "https://datos.lorca.es/icon/parking.png"
+  },
+  {
+    "nombre": "Parking Lorca Campus Universitario",
+    "direccion": "C/ médico Antonio Pelegrín Medina, nº 2",
+    "plazas": 500,
+    "email": "info@parkinglcu.es",
+    "telefono": "968018259",
+    "web": "http://parkinglcu.es/",
+    "descripcion": "La  tarificación es por fracciones. Max 2€ de 08.00 a 22.00 y de 22.00 a 8.00 misma tarifa max 5€.",
+    "longitud": -1.6864561207405509,
+    "latitud": 37.683635715640875,
+    "icono": "https://datos.lorca.es/icon/parking.png"
+  }
+]

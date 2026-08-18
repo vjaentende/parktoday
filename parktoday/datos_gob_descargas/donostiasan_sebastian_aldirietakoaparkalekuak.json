@@ -1,0 +1,52 @@
+{
+	"AldirietakoAparkalekuak" : {
+		"type" : "FeatureCollection",
+		"features" : [
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.0134051968, 43.3074404978 ]
+				},
+				"properties" : {
+					"Izena" : "UNIBERTSITATEA",
+					"Nombre" : "UNIBERTSITATEA",
+					"Info+" : "https://www.donostia.eus/info/ciudadano/tt_aparcamientos.nsf/voWebContenidosId/NT0000091A?OpenDocument&idioma=eus&id=A434305413678&cat=Parkings%20disuasorios&doc=D",
+					"+Info" : "https://www.donostia.eus/info/ciudadano/tt_aparcamientos.nsf/voWebContenidosId/NT0000091A?OpenDocument&idioma=cas&id=A434305413678&cat=Parkings%20disuasorios&doc=D",
+					"X_etrs89" : "580013.86",
+					"Y_etrs89" : "4795429"
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9680602569, 43.2972253389 ]
+				},
+				"properties" : {
+					"Izena" : "ILLUNBE",
+					"Nombre" : "ILLUNBE",
+					"Info+" : "https://www.donostia.eus/info/ciudadano/tt_aparcamientos.nsf/voWebContenidosId/NT0000091A?OpenDocument&idioma=eus&id=A434305413678&cat=Parkings%20disuasorios&doc=D",
+					"+Info" : "https://www.donostia.eus/info/ciudadano/tt_aparcamientos.nsf/voWebContenidosId/NT0000091A?OpenDocument&idioma=cas&id=A434305413678&cat=Parkings%20disuasorios&doc=D",
+					"X_etrs89" : "583705.42",
+					"Y_etrs89" : "4794339"
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.0076905777, 43.3039246523 ]
+				},
+				"properties" : {
+					"Izena" : "IGARA",
+					"Nombre" : "IGARA",
+					"Info+" : "https://www.donostia.eus/info/ciudadano/tt_aparcamientos.nsf/voWebContenidosId/NT0000091A?OpenDocument&idioma=eus&id=A434305413678&cat=Parkings%20disuasorios&doc=D",
+					"+Info" : "https://www.donostia.eus/info/ciudadano/tt_aparcamientos.nsf/voWebContenidosId/NT0000091A?OpenDocument&idioma=cas&id=A434305413678&cat=Parkings%20disuasorios&doc=D",
+					"X_etrs89" : "580481.96",
+					"Y_etrs89" : "4795044"
+				}
+			}
+		]
+	}
+}

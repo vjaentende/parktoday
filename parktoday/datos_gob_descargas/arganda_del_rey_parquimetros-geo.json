@@ -1,0 +1,38 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "Zona 4", "Description": "<div class=\"googft-info-window\"> <a href=\"http:\/\/www.ser-arganda.com\/img\/plano_zona4.gif\" target=\"_blank\">Ver Zona<\/a><br> <\/div>" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.443554, 40.301481, 0.0 ], [ -3.443039, 40.30227, 0.0 ], [ -3.444061, 40.302346, 0.0 ], [ -3.444316, 40.301579, 0.0 ], [ -3.443554, 40.301481, 0.0 ] ] ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Zona 3", "Description": "<div class=\"googft-info-window\"> <a href=\"http:\/\/www.ser-arganda.com\/img\/plano_zona3.gif\" target=\"_blank\">Ver Zona<\/a><br> <\/div>" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.443039, 40.30227, 0.0 ], [ -3.443554, 40.301481, 0.0 ], [ -3.444316, 40.301579, 0.0 ], [ -3.445909, 40.301734, 0.0 ], [ -3.445893, 40.301339, 0.0 ], [ -3.443557, 40.300585, 0.0 ], [ -3.441837, 40.30076, 0.0 ], [ -3.441489, 40.301599, 0.0 ], [ -3.442237, 40.301884, 0.0 ], [ -3.442162, 40.301986, 0.0 ], [ -3.443039, 40.30227, 0.0 ] ] ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Zona 2", "Description": "<div class=\"googft-info-window\"> <a href=\"http:\/\/www.ser-arganda.com\/img\/plano_zona2.gif\" target=\"_blank\">Ver Zona<\/a><br> <\/div>" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.443039, 40.30227, 0.0 ], [ -3.442162, 40.301986, 0.0 ], [ -3.442237, 40.301884, 0.0 ], [ -3.441489, 40.301599, 0.0 ], [ -3.441725, 40.301043, 0.0 ], [ -3.439144, 40.301061, 0.0 ], [ -3.439128, 40.301249, 0.0 ], [ -3.439252, 40.301386, 0.0 ], [ -3.441199, 40.303671, 0.0 ], [ -3.442493, 40.303686, 0.0 ], [ -3.443039, 40.30227, 0.0 ] ] ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Zona 1", "Description": "<div class=\"googft-info-window\"> <a href=\"http:\/\/www.ser-arganda.com\/img\/plano_zona1.gif\" target=\"_blank\">Ver Zona<\/a><br> <\/div>" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.439313, 40.299402, 0.0 ], [ -3.437929, 40.299439, 0.0 ], [ -3.43786, 40.299554, 0.0 ], [ -3.437785, 40.299639, 0.0 ], [ -3.437693, 40.299705, 0.0 ], [ -3.437586, 40.299748, 0.0 ], [ -3.437535, 40.29977, 0.0 ], [ -3.43749, 40.299789, 0.0 ], [ -3.43742, 40.299807, 0.0 ], [ -3.437367, 40.299817, 0.0 ], [ -3.437308, 40.299829, 0.0 ], [ -3.43725, 40.299837, 0.0 ], [ -3.437194, 40.299843, 0.0 ], [ -3.437115, 40.299851, 0.0 ], [ -3.437057, 40.299855, 0.0 ], [ -3.436981, 40.299845, 0.0 ], [ -3.436906, 40.29983, 0.0 ], [ -3.436863, 40.299821, 0.0 ], [ -3.434577, 40.299035, 0.0 ], [ -3.434689, 40.300388, 0.0 ], [ -3.434966, 40.300473, 0.0 ], [ -3.435243, 40.300563, 0.0 ], [ -3.437439, 40.301433, 0.0 ], [ -3.438415, 40.301448, 0.0 ], [ -3.439313, 40.299402, 0.0 ] ] ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Parquimetro", "Description": "<div class=\"googft-info-window\"> <a href=\"Parquimetro\" target=\"_blank\">Ver Zona<\/a><br> <\/div>" }, "geometry": { "type": "Point", "coordinates": [ -3.437954, 40.300852, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Parquimetro", "Description": "<div class=\"googft-info-window\"> <a href=\"Parquimetro\" target=\"_blank\">Ver Zona<\/a><br> <\/div>" }, "geometry": { "type": "Point", "coordinates": [ -3.438832, 40.299829, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Parquimetro", "Description": "<div class=\"googft-info-window\"> <a href=\"Parquimetro\" target=\"_blank\">Ver Zona<\/a><br> <\/div>" }, "geometry": { "type": "Point", "coordinates": [ -3.436892, 40.300375, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Parquimetro", "Description": "<div class=\"googft-info-window\"> <a href=\"Parquimetro\" target=\"_blank\">Ver Zona<\/a><br> <\/div>" }, "geometry": { "type": "Point", "coordinates": [ -3.435865, 40.299962, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Parquimetro", "Description": "<div class=\"googft-info-window\"> <a href=\"Parquimetro\" target=\"_blank\">Ver Zona<\/a><br> <\/div>" }, "geometry": { "type": "Point", "coordinates": [ -3.443181, 40.301982, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Parquimetro", "Description": "<div class=\"googft-info-window\"> <a href=\"Parquimetro\" target=\"_blank\">Ver Zona<\/a><br> <\/div>" }, "geometry": { "type": "Point", "coordinates": [ -3.444166, 40.301501, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Parquimetro", "Description": "<div class=\"googft-info-window\"> <a href=\"Parquimetro\" target=\"_blank\">Ver Zona<\/a><br> <\/div>" }, "geometry": { "type": "Point", "coordinates": [ -3.44247, 40.301644, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Parquimetro", "Description": "<div class=\"googft-info-window\"> <a href=\"Parquimetro\" target=\"_blank\">Ver Zona<\/a><br> <\/div>" }, "geometry": { "type": "Point", "coordinates": [ -3.441489, 40.301599, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Parquimetro", "Description": "<div class=\"googft-info-window\"> <a href=\"Parquimetro\" target=\"_blank\">Ver Zona<\/a><br> <\/div>" }, "geometry": { "type": "Point", "coordinates": [ -3.440673, 40.301395, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Parquimetro", "Description": "<div class=\"googft-info-window\"> <a href=\"Parquimetro\" target=\"_blank\">Ver Zona<\/a><br> <\/div>" }, "geometry": { "type": "Point", "coordinates": [ -3.440129, 40.300656, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Parquimetro", "Description": "<div class=\"googft-info-window\"> <a href=\"Parquimetro\" target=\"_blank\">Ver Zona<\/a><br> <\/div>" }, "geometry": { "type": "Point", "coordinates": [ -3.44209, 40.303049, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Parquimetro", "Description": "<div class=\"googft-info-window\"> <a href=\"Parquimetro\" target=\"_blank\">Ver Zona<\/a><br> <\/div>" }, "geometry": { "type": "Point", "coordinates": [ -3.445255, 40.301513, 0.0 ] } }
+
+]
+}

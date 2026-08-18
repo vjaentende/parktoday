@@ -1,0 +1,4168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Aparcamientos">
+  <name>Aparcamientos</name>
+  <Snippet/>
+  <Folder id="FeatureLayer0">
+    <name>Aparcamientos</name>
+    <Snippet/>
+    <Placemark id="ID_00000">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Plaza de España_1</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Cubierto</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>377950,311999</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3149640,83</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,246689</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,467647</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.24668944482781,28.46764741159036,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Plaza de España_2</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Cubierto</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>377874,814999</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3149739,23</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,247471</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,468528</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.24747089794655,28.46852835571695,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Plaza de España_3</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Cubierto</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>377887,586999</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3149751,795</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,247342</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,468643</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.24734179316677,28.46864294523697,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Weyler_1</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_027</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Cubierto</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>377166,861646</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3149547,22107</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,254681</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,466729</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.25468053115704,28.46672905988558,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Auditorio</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_002</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Cubierto</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>377523,729822</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3148411,34828</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,250915</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,456512</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.25091529532763,28.45651191651244,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Weyler_2</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_027</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Cubierto</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>377108,558518</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3149644,38244</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,255286</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,4676</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.25528631568316,28.46760039908565,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Parque Marítimo_1</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_018</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Aire libre</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>377091,00055</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3148199,12007</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,255311</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,454556</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.25531149312432,28.45455595450629,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Centro Comercial Meridiano_1</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_005</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Cubierto</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>376835,020254</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3148446,61875</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,257952</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,456765</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.2579518334747,28.45676536521118,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Plaza El Corte Inglés_1</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Cubierto</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>377147,517846</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3148719,67041</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,25479</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,459259</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.25478985482561,28.4592589959534,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Centro Comercial La Ola</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_004</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Cubierto</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>377130,79211</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3148765,10933</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,254965</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,459667</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.25496549841999,28.459667484637,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Cornalina</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_009</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Cubierto</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>376447,087661</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3148612,70419</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,261931</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,458228</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.26193101765861,28.45822751375886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00011">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Mercado_1</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Cubierto</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>377486,530262</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3149169,1206</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,251376</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,463347</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.25137571025795,28.46334696111698,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00012">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Mercado_2</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Cubierto</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>377398,161838</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3149207,18224</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,252282</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,463682</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.25228219470689,28.46368214379164,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00013">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Centro Comercial Webhe</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_008</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Cubierto</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>376925,89299</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3148512,3855</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,257031</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,457367</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.25703090541343,28.45736745575709,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00014">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Mercado_3</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Cubierto</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>377439,69083</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3149276,68361</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,251865</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,464313</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.25186548382864,28.46431326436584,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00015">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Intercambiador</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_012</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Cubierto</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>377343,016134</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3148595,55211</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,25278</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,458157</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.25278025952255,28.45815728791219,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00016">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Anexo Mercado</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_001</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Cubierto</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>377501,325502</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3149062,36377</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,251213</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,462385</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.25121326999393,28.46238492142409,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00017">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>El Pilar</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Cubierto</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>377463,835758</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3149893,31077</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,251684</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,46988</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.25168449197825,28.46988029663864,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00018">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Parque Bulevar</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_017</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Cubierto</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>377463,266158</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3149920,54274</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,251693</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,470126</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.25169320596564,28.47012599838169,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00019">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Centro Comercial Meridiano_2</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_005</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Cubierto</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>376639,310501</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3148497,52213</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,259956</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,457206</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.25995577628039,28.45720624806534,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00020">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>20</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Mencey</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_014</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Cubierto</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>377238,738598</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3150444,98224</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,254042</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,474838</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.254042164567,28.47483767988494,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00021">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Explanada del Muelle</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_011</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Aire libre</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>378073,504007</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3149688,52433</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,245436</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,468089</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.24543637879129,28.46808935757642,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00022">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Santa Rosalía</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_024</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Cubierto</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>377409,538598</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3150084,57714</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,252259</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,471601</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.25225937422816,28.47160127731457,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00023">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>23</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Pabellón de deportes</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_016</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Cubierto</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>376661,877813</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3148978,08941</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,259777</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,461545</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.25977675479431,28.46154526186507,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00024">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>24</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Ramón y Cajal</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_021</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Cubierto</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>377325,736526</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3149389,49872</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,253041</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,465321</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.25304122764977,28.46532065037176,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00025">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>25</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Tome Cano</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_026</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Cubierto</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>376378,052997</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3148820,791</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,262658</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,460099</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.26265829437922,28.46009884974589,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00026">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>26</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Parque Marítimo_2</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_018</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Aire libre</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>376950,713702</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3148082,04589</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,256732</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,453486</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.25673151229456,28.45348619088373,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00027">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>27</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Recinto Ferial</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_022</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Aire libre</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>376995,272494</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3148222,46289</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,256291</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,454758</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.25629149416626,28.45475758907991,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00028">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>28</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Plaza El Corte Inglés_2</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Cubierto</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>377166,48211</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3148667,30423</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,254591</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,458788</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.25459061511929,28.45878820265066,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00029">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>29</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Centro Comercial Tres de Mayo</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_007</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Cubierto</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>377034,187494</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3148693,73779</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,255944</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,459014</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.25594439279543,28.45901428634548,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00030">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>30</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Tanatorio Santa Lastenia</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_025</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Cubierto y aire libre</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>374854,799084</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3147458,73081</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,278066</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,447662</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.27806560228146,28.44766173654472,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00031">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>31</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Residencia Hospitalaria</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_023</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Aire libre</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>374049,584499</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3147563,05487</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,286299</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,448526</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.28629868493986,28.44852572600586,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00032">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>32</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Centro Comercial Santa Cruz_1</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_006</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Cubierto y aire libre</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>372496,38897</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3145098,51985</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,301885</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,426134</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.3018853935974,28.42613397321234,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00033">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>33</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Media Markt_1</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_013</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Cubierto y aire libre</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>372628,909306</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3145030,36373</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,300525</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,425532</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.30052505166311,28.42553183603523,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00034">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>34</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Media Markt_2</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_013</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Cubierto y aire libre</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>372636,001034</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3145048,48585</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,300455</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,425696</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.30045465584269,28.42569606891427,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00035">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>35</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Centro Comercial Santa Cruz_2</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_006</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Cubierto y aire libre</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>372595,570538</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3145058,98602</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,300869</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,425787</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.3008685442663,28.4257868833216,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00036">
+      <name/>
+      <Snippet/>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>36</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NOMBRE</td>
+
+<td>Weyler_3</td>
+
+</tr>
+
+<tr>
+
+<td>GEOCODIGO</td>
+
+<td>APA_027</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TIPOLOGIA</td>
+
+<td>Cubierto</td>
+
+</tr>
+
+<tr>
+
+<td>UTM_X</td>
+
+<td>377375,706238</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UTM_Y</td>
+
+<td>3149523,34979</td>
+
+</tr>
+
+<tr>
+
+<td>GRAD_X</td>
+
+<td>-16,252545</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GRAD_Y</td>
+
+<td>28,466533</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -16.25254516373129,28.46653329192445,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <Icon><href>https://www.santacruzdetenerife.es/opendata/base/images/resources/Aparcamientos.png</href></Icon>
+      <scale>1.250000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

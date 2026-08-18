@@ -1,0 +1,38 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "1", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -3.438832, 40.2998287, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "2", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -3.4379536, 40.300852, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -3.4368921, 40.3003748, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "4", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -3.4358655, 40.2999616, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "2", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -3.4431812, 40.3019816, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "1", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -3.4441656, 40.3015009, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "3", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -3.4424704, 40.3016441, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "4", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -3.4414887, 40.3015991, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "5", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -3.4406734, 40.3013946, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "6", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -3.4401289, 40.3006561, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "7", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -3.4420896, 40.3030494, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "1", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -3.4452546, 40.3015132, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Zona 4", "Description": "http:\/\/www.ser-arganda.com\/img\/plano_zona4.gif" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.443554, 40.3014805, 0.0 ], [ -3.4430391, 40.3022701, 0.0 ], [ -3.444061, 40.3023458, 0.0 ], [ -3.4443158, 40.3015787, 0.0 ], [ -3.443554, 40.3014805, 0.0 ] ] ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Zona 3", "Description": "http:\/\/www.ser-arganda.com\/img\/plano_zona3.gif" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.4430391, 40.3022701, 0.0 ], [ -3.443554, 40.3014805, 0.0 ], [ -3.4443158, 40.3015787, 0.0 ], [ -3.445909, 40.3017341, 0.0 ], [ -3.4458929, 40.3013393, 0.0 ], [ -3.4435567, 40.3005845, 0.0 ], [ -3.4418374, 40.3007604, 0.0 ], [ -3.4414887, 40.3015991, 0.0 ], [ -3.4422371, 40.3018835, 0.0 ], [ -3.442162, 40.3019857, 0.0 ], [ -3.4430391, 40.3022701, 0.0 ] ] ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Zona 2", "Description": "http:\/\/www.ser-arganda.com\/img\/plano_zona2.gif" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.4430391, 40.3022701, 0.0 ], [ -3.442162, 40.3019857, 0.0 ], [ -3.4422371, 40.3018835, 0.0 ], [ -3.4414887, 40.3015991, 0.0 ], [ -3.4417248, 40.3010427, 0.0 ], [ -3.4391445, 40.3010611, 0.0 ], [ -3.4391284, 40.3012493, 0.0 ], [ -3.4392518, 40.3013864, 0.0 ], [ -3.4411991, 40.3036713, 0.0 ], [ -3.4424932, 40.3036856, 0.0 ], [ -3.4430391, 40.3022701, 0.0 ] ] ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Zona 1", "Description": "http:\/\/www.ser-arganda.com\/img\/plano_zona1.gif" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.4393135, 40.2994021, 0.0 ], [ -3.4379295, 40.2994389, 0.0 ], [ -3.4378598, 40.2995535, 0.0 ], [ -3.4377846, 40.2996394, 0.0 ], [ -3.4376934, 40.2997049, 0.0 ], [ -3.4375861, 40.2997478, 0.0 ], [ -3.4375352, 40.29977, 0.0 ], [ -3.4374896, 40.2997892, 0.0 ], [ -3.4374197, 40.2998072, 0.0 ], [ -3.4373668, 40.2998174, 0.0 ], [ -3.4373085, 40.2998286, 0.0 ], [ -3.4372501, 40.2998368, 0.0 ], [ -3.4371939, 40.2998429, 0.0 ], [ -3.4371154, 40.2998511, 0.0 ], [ -3.4370571, 40.2998552, 0.0 ], [ -3.4369813, 40.299845, 0.0 ], [ -3.4369062, 40.2998297, 0.0 ], [ -3.4368633, 40.2998205, 0.0 ], [ -3.4345767, 40.2990349, 0.0 ], [ -3.4346893, 40.3003881, 0.0 ], [ -3.4349662, 40.3004725, 0.0 ], [ -3.4352432, 40.300563, 0.0 ], [ -3.4374386, 40.3014334, 0.0 ], [ -3.4384149, 40.3014477, 0.0 ], [ -3.4393135, 40.2994021, 0.0 ] ] ] } }
+
+]
+}

@@ -1,0 +1,192 @@
+{
+	"@context": {
+		"c": "http://www.w3.org/2002/12/cal#",
+		"dcterms": "http://purl.org/dc/terms/",
+		"geo": "http://www.w3.org/2003/01/geo/wgs84_pos#",
+		"loc": "http://purl.org/ctic/infraestructuras/localizacion#",
+		"org": "http://purl.org/ctic/infraestructuras/organizacion#",
+		"vcard": "http://www.w3.org/2006/vcard/ns#",
+		"schema": "https://schema.org/",
+		"title": "vcard:fn",
+		"id": "dcterms:identifier",
+		"relation": "dcterms:relation",
+		"references": "dcterms:references",
+		"address": "vcard:adr",
+		"area": "loc:barrio",
+		"district": "loc:distrito",
+		"locality": "vcard:locality",
+		"postal-code": "vcard:postal-code",
+		"street-address": "vcard:street-address",
+		"location": "vcard:geo",
+		"latitude": "geo:lat",
+		"longitude": "geo:long",
+		"organization": "vcard:org",
+		"organization-desc": "dcterms:description",
+		"accesibility": "org:accesibilidad",
+		"services": "org:servicios",
+		"schedule": "org:horario",
+		"organization-name": "vcard:organization-name",
+		"description": "c:summary",
+		"link": "c:url",
+		"uid": "c:uid",
+		"dtstart": "c:dtstart",
+		"dtend": "c:dtend",
+		"time": "c:time",
+		"excluded-days": "c:exdate",
+		"event-location": "c:location",
+		"free": "schema:free",
+		"price": "c:resource",
+		"recurrence": "c:rrule",
+		"days": "c:byday",
+		"frequency": "c:freq",
+		"interval": "c:interval",
+		"audience": "dc:audience"
+	},
+	"@graph": [
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11483771-aparcamiento-disuasorio-aviacion-espanola.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/AparcamientosPublicos",
+		"id": "11483771",
+		"title": "Aparcamiento disuasorio Aviación Española",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=1ec084bc6763c710VgnVCM1000001d4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Latina"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Latina/Barrio/LasAguilas"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28024",
+			"street-address": "CALLE FUENTE DE LIMA 5"
+		},
+		"location": {
+			"latitude": 40.38323792632855,
+			"longitude": -3.783621006318095
+		},
+		"organization": {
+			"organization-desc": " Plazas:  para automóviles: 344 (de las cuales, 10 para coche eléctrico) para motocicletas: 25 para bicicletas: 10   Código del aparcamiento: 1024 Autobuses:      EMT:  Línea 17 (destino Pl. Mayor) y línea 39 (destino Pl. España)  EMT (Líneas nocturnas): N19     Metro:      Aviación Española (L10)",
+			"accesibility": "1",
+			"schedule": "Abierto 24 horas",
+			"services": "",
+			"organization-name": "Aparcamiento disuasorio Aviación Española"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/10489514-aparcamiento-disuasorio-estadio-metropolitano-sur-es-02b.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/AparcamientosPublicos",
+		"id": "10489514",
+		"title": "Aparcamiento disuasorio Estadio Metropolitano Sur ES-02b",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=975b89a80c49e510VgnVCM1000001d4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/SanBlas-Canillejas"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/SanBlas-Canillejas/Barrio/Rosas"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28022",
+			"street-address": "AVENIDA ARCENTALES 37"
+		},
+		"location": {
+			"latitude": 40.434154,
+			"longitude": -3.598831
+		},
+		"organization": {
+			"organization-desc": " Plazas:  para automóviles: 3011 para motocicletas: 61 ",
+			"accesibility": "0",
+			"schedule": "Horario de apertura de 6:00 h a 22:00 h los días laborables excepto los días de partido en el estadio Metropolitano",
+			"services": "",
+			"organization-name": "Aparcamiento disuasorio Estadio Metropolitano Sur ES-02b"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11413444-aparcamiento-disuasorio-fuente-mora.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/AparcamientosPublicos",
+		"id": "11413444",
+		"title": "Aparcamiento disuasorio Fuente de la Mora",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=cbb3ed735e9f9710VgnVCM1000001d4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Hortaleza"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Hortaleza/Barrio/Valdefuentes"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28050",
+			"street-address": "AVENIDA MANOTERAS 1"
+		},
+		"location": {
+			"latitude": 40.4844428688153,
+			"longitude": -3.66450251273440
+		},
+		"organization": {
+			"organization-desc": " Plazas:  para automóviles: 368 (de las cuales, 10 para coche eléctrico y 12 para coches adaptados PMR) para motocicletas: 35   Código del aparcamiento: 1626 Autobuses:     EMT:  150      Cercanias:      Estación de cercanias Fuente de la Mora C1, C10      Tranvía:      ML1",
+			"accesibility": "1",
+			"schedule": "Abierto 24 horas",
+			"services": "",
+			"organization-name": "Aparcamiento disuasorio Fuente de la Mora"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11544464-aparcamiento-disuasorio-islazul.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/AparcamientosPublicos",
+		"id": "11544464",
+		"title": "Aparcamiento disuasorio Islazul",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=83bf252aa267d710VgnVCM1000001d4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel/Barrio/Buenavista"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28054",
+			"street-address": "CALLE CALDERILLA 1"
+		},
+		"location": {
+			"latitude": 40.36521668890186,
+			"longitude": -3.737923481612698
+		},
+		"organization": {
+			"organization-desc": " Número de plazas: 224 plazas  Código del aparcamiento: 1114 Autobuses:      EMT:  SE Plaza Elíptica &amp;ndash; Islazul, 118, E1, 35 y N16   EMT(Líneas nocturnas): N16      Metro:      La Peseta (L11)",
+			"accesibility": "1",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Aparcamiento disuasorio Islazul"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11413620-aparcamiento-disuasorio-pitis.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/AparcamientosPublicos",
+		"id": "11413620",
+		"title": "Aparcamiento disuasorio Pitis",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=1642e9887f9f9710VgnVCM2000001f4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Fuencarral-ElPardo"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Fuencarral-ElPardo/Barrio/Fuentelarreina"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28049",
+			"street-address": "CALLE GLORIA FUERTES "
+		},
+		"location": {
+			"latitude": 40.4941929509737,
+			"longitude": -3.72723600089653
+		},
+		"organization": {
+			"organization-desc": " Plazas:  para automóviles: 402 (de las cuales, 10 para coche eléctrico y 12 para coches adaptados PMR) para motocicletas: 34   Código del aparcamiento: 828 Autobuses:     EMT:  64, 82      Cercanias:      Estación de cercanias Pitis C3, C8      Metro:       Línea 7",
+			"accesibility": "1",
+			"schedule": "Abierto 24 horas",
+			"services": "",
+			"organization-name": "Aparcamiento disuasorio Pitis"
+		}
+	}	  
+  ]
+}

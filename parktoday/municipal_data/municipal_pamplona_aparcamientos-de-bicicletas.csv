@@ -1,0 +1,29 @@
+"name";"description";"address";"category";lon;lat;totalcapacity;"signal_status";datenosignal
+"Bicis - Descalzos 23 - RESIDENTES";"Vecinal 73 plazas";"Descalzos 23, 31001 ";"Vecinal ";-1.647258;42.819191;73;"on";2026-05-25 20:30:43.338
+"Trabajadores Ayto Pamplona";"Rotatorio 38 plazas";"Basotxo Kalea, 3, 31002 ";"Rotatorio";-1.645078;42.813454;38;"on";2026-08-10 21:40:59.921
+"Bicis - Descalzos 27 - RESIDENTES";"Vecinal 51 plazas";"Descalzos 27, 31001";"Vecinal";-1.647375;42.819167;51;"on";2026-07-15 21:40:57.973
+"Berriozar";"Rotatorio 20 plazas";"Frente al Ayuntamiento de Berriozar, Plaza Euskal Herria";"Rotatorio";-1.673789;42.835377;20;"on";2026-07-05 21:40:57.083
+"Yanguas";"Rotatorio 20 plazas";"Calle Yanguas y Miranda, 31002 ";"Rotatorio";-1.644785;42.811085;20;"on";2026-05-25 20:30:43.338
+"Garcia Ximenez";"Rotatorio 20 plazas";"Armada Etorbidea, 1, 31002 ";"Rotatorio";-1.644874;42.813649;20;"on";2026-05-25 20:30:43.338
+"Travesia Tafalla - RESIDENTES";"Vecinal 20 plazas";"Travesia Tafalla, 31004 ";"Vecinal";-1.635305;42.812748;20;"on";2026-08-14 21:41:00.298
+"Plaza de Europa";"Rotatorio 20 plazas";"Avd. Barañain, 31008 ";"Rotatorio";-1.66262;42.811585;20;"on";2026-05-25 20:30:43.338
+"Taconera";"Rotatorio 20 plazas";"C. Taconera, 31002 ";"Rotatorio";-1.649345;42.81668;20;"on";2026-05-25 20:30:43.338
+"Calle Mayor";"Rotatorio 20 plazas";"Calle Mayor 14, 31001 ";"Rotatorio";-1.646254;42.818039;20;"on";2026-08-14 21:41:00.298
+"Avenida de España";"Rotatorio 40 plazas";"Avenida de españa, Sarriguren";"Rotatorio";-1.596118;42.80789;40;"commsfail";2026-08-18 05:41:00.396
+"Avenida de Europa";"Rotatorio 40 plazas";"Avenida de la Unión Europea, Sarriguren ";"Rotatorio";-1.590726;42.813233;40;"on";2026-08-15 21:41:00.3
+"Zizur Mayor Centro salud";"Rotatorio 20 plazas";"Calle Errotaxar Kalea, Zizur Mayor";"Rotatorio";-1.701293;42.794125;20;"commsfail";2026-08-18 05:41:00.396
+"Zizur Mayor Ayuntamiento";"Rotatorio 20 plazas";"Parque Erreniega, Zizur Mayor";"Rotatorio";-1.691147;42.786343;20;"on";2026-07-13 21:40:57.772
+"Travesía Guelbenzu - RESIDENTES";"Vecinal 158 plazas";"Travesía Juan María Guelbenzu 8, 31005 ";"Vecinal";-1.64141;42.805004;158;"on";2026-05-25 20:30:43.338
+"Urzainqui - RESIDENTES";"Vecinal 170 plazas";"Urzainqui, 31014 ";"Vecinal";-1.646515;42.827562;170;"on";2026-08-14 21:41:00.298
+;;;;;;;"on";2026-06-04 20:30:44.974
+;;;;;;;"on";2026-07-08 21:40:57.36
+"San Antón 7 - RESIDENTES";"Vecinal 57 plazas";"San Antón 7, 31001 ";"Vecinal";-1.645844;42.816406;57;"on";2026-05-25 20:30:43.338
+"Bicicleta compartida Pamplona";"Rotatorio 30 plazas";"Pamplona";"Rotatorio";-1.644165;42.818238;30;"commsfail";2025-11-16 07:18:23.851
+"Aparcamiento Calle 1";"Rotatorio 10 plazas";"Plaza del Castillo, 31001 Pamplona, Navarra, Spain";"Rotatorio";-1.642986;42.816557;10;"commsfail";2025-11-16 07:18:23.851
+"Aparcamiento Cubierto 2";"Rotatorio 10 plazas";"Plaza Virgen de la O, 31001 Pamplona, Navarra, Spain";"Rotatorio";-1.649883;42.818561;10;"commsfail";2025-11-16 07:18:23.851
+"Hospitales";"Rotatorio 50 plazas";"Boticario Viñaburu";"Rotatorio";-1.665083;42.806305;50;"on";2026-05-25 20:30:43.338
+"Plaza de toros";"Rotatorio 50 plazas";"Emilio Arrieta";"Rotatorio";-1.639271;42.815235;50;"on";2026-05-25 20:30:43.338
+"Plaza Arriurdiñeta";"Vecinal 30 plazas, Rotatorio 20 plazas";"Arriurdiñeta Plaza, 1, 31015";"Mixto";-1.632162;42.832065;50;"on";2026-07-16 21:40:58.147
+"Mendebaldea";"Rotatorio 50 plazas";"Paseo Antonio Pérez Goyena, 31008 ";"Rotatorio";-1.675406;42.809017;50;"on";2026-05-25 20:30:43.338
+"Monasterio de Irache";"Rotatorio 50 plazas";"Segundo Ensanche, 31003 ";"Rotatorio";-1.667423;42.811027;50;"on";2026-05-25 20:30:43.338
+"Civivox Iturrama";"Rotatorio 50 plazas";"Esquíroz 24, 31007 ";"Rotatorio";-1.6513;42.80555;50;"on";2026-05-25 20:30:43.338

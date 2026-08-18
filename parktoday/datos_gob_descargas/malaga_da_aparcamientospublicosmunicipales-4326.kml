@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Schema name="da_aparcamientosPublicosMunicipales_1" id="da_aparcamientosPublicosMunicipales_1">
+            <SimpleField type="int" name="ogc_fid"/>
+            <SimpleField type="string" name="name"/>
+            <SimpleField type="string" name="description"/>
+            <SimpleField type="string" name="timestamp"/>
+            <SimpleField type="string" name="begin"/>
+            <SimpleField type="string" name="end"/>
+            <SimpleField type="string" name="altitudemode"/>
+            <SimpleField type="int" name="tessellate"/>
+            <SimpleField type="int" name="extrude"/>
+            <SimpleField type="int" name="visibility"/>
+            <SimpleField type="int" name="draworder"/>
+            <SimpleField type="string" name="icon"/>
+            <SimpleField type="string" name="poiid"/>
+            <SimpleField type="string" name="lat"/>
+            <SimpleField type="string" name="lon"/>
+            <SimpleField type="string" name="altitude"/>
+            <SimpleField type="string" name="address"/>
+            <SimpleField type="string" name="telephone"/>
+            <SimpleField type="string" name="email"/>
+            <SimpleField type="string" name="categoryid"/>
+            <SimpleField type="string" name="located"/>
+            <SimpleField type="string" name="availabilitydefault"/>
+            <SimpleField type="string" name="fs_id"/>
+            <SimpleField type="string" name="fb_id"/>
+            <SimpleField type="string" name="ta_id"/>
+            <SimpleField type="string" name="url"/>
+            <SimpleField type="string" name="hassec"/>
+            <SimpleField type="string" name="poisecid"/>
+            <SimpleField type="string" name="name_sec"/>
+            <SimpleField type="string" name="description_sec"/>
+            <SimpleField type="string" name="address_sec"/>
+            <SimpleField type="string" name="latitude_sec"/>
+            <SimpleField type="string" name="longitude_sec"/>
+            <SimpleField type="string" name="category"/>
+        </Schema>
+        <Folder>
+            <name>da_aparcamientosPublicosMunicipales</name>
+            <Placemark id="da_aparcamientosPublicosMunicipales.fid--175d4967_1a00deb599f_-36c8">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#da_aparcamientosPublicosMunicipales_1">
+                        <SimpleData name="ogc_fid">74415</SimpleData>
+                        <SimpleData name="name">Salitre</SimpleData>
+                        <SimpleData name="description"></SimpleData>
+                        <SimpleData name="tessellate">-1</SimpleData>
+                        <SimpleData name="extrude">0</SimpleData>
+                        <SimpleData name="visibility">-1</SimpleData>
+                        <SimpleData name="poiid">1</SimpleData>
+                        <SimpleData name="lat">36.7132149</SimpleData>
+                        <SimpleData name="lon">-4.4276681</SimpleData>
+                        <SimpleData name="altitude">3.986444</SimpleData>
+                        <SimpleData name="address">Calle SalitreMálaga</SimpleData>
+                        <SimpleData name="telephone"></SimpleData>
+                        <SimpleData name="email"></SimpleData>
+                        <SimpleData name="categoryid">1</SimpleData>
+                        <SimpleData name="located">1</SimpleData>
+                        <SimpleData name="availabilitydefault">1</SimpleData>
+                        <SimpleData name="fs_id"></SimpleData>
+                        <SimpleData name="fb_id"></SimpleData>
+                        <SimpleData name="ta_id"></SimpleData>
+                        <SimpleData name="url"></SimpleData>
+                        <SimpleData name="hassec">1</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-4.427668100000035,36.71321493591762</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="da_aparcamientosPublicosMunicipales.fid--175d4967_1a00deb599f_-36c7">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#da_aparcamientosPublicosMunicipales_1">
+                        <SimpleData name="ogc_fid">74416</SimpleData>
+                        <SimpleData name="name">Cervantes</SimpleData>
+                        <SimpleData name="description"></SimpleData>
+                        <SimpleData name="tessellate">-1</SimpleData>
+                        <SimpleData name="extrude">0</SimpleData>
+                        <SimpleData name="visibility">-1</SimpleData>
+                        <SimpleData name="poiid">2</SimpleData>
+                        <SimpleData name="lat">36.7208633</SimpleData>
+                        <SimpleData name="lon">-4.4119148</SimpleData>
+                        <SimpleData name="altitude">9.531203</SimpleData>
+                        <SimpleData name="address">Calle CervantesMálaga</SimpleData>
+                        <SimpleData name="telephone"></SimpleData>
+                        <SimpleData name="email"></SimpleData>
+                        <SimpleData name="categoryid">1</SimpleData>
+                        <SimpleData name="located">1</SimpleData>
+                        <SimpleData name="availabilitydefault">1</SimpleData>
+                        <SimpleData name="fs_id"></SimpleData>
+                        <SimpleData name="fb_id"></SimpleData>
+                        <SimpleData name="ta_id"></SimpleData>
+                        <SimpleData name="url"></SimpleData>
+                        <SimpleData name="hassec">1</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-4.411914800000031,36.7208633359264</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="da_aparcamientosPublicosMunicipales.fid--175d4967_1a00deb599f_-36c6">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#da_aparcamientosPublicosMunicipales_1">
+                        <SimpleData name="ogc_fid">74417</SimpleData>
+                        <SimpleData name="name">El Palo</SimpleData>
+                        <SimpleData name="description"></SimpleData>
+                        <SimpleData name="tessellate">-1</SimpleData>
+                        <SimpleData name="extrude">0</SimpleData>
+                        <SimpleData name="visibility">-1</SimpleData>
+                        <SimpleData name="poiid">3</SimpleData>
+                        <SimpleData name="lat">36.7210350</SimpleData>
+                        <SimpleData name="lon">-4.3607192</SimpleData>
+                        <SimpleData name="altitude">8.069582</SimpleData>
+                        <SimpleData name="address">Calle Alonso Carrillo De AlbornozMálaga</SimpleData>
+                        <SimpleData name="telephone"></SimpleData>
+                        <SimpleData name="email"></SimpleData>
+                        <SimpleData name="categoryid">1</SimpleData>
+                        <SimpleData name="located">1</SimpleData>
+                        <SimpleData name="availabilitydefault">1</SimpleData>
+                        <SimpleData name="fs_id"></SimpleData>
+                        <SimpleData name="fb_id"></SimpleData>
+                        <SimpleData name="ta_id"></SimpleData>
+                        <SimpleData name="url"></SimpleData>
+                        <SimpleData name="hassec">1</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-4.3607192000000214,36.7210350359267</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="da_aparcamientosPublicosMunicipales.fid--175d4967_1a00deb599f_-36c5">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#da_aparcamientosPublicosMunicipales_1">
+                        <SimpleData name="ogc_fid">74418</SimpleData>
+                        <SimpleData name="name">Av. de Andalucía</SimpleData>
+                        <SimpleData name="description"></SimpleData>
+                        <SimpleData name="tessellate">-1</SimpleData>
+                        <SimpleData name="extrude">0</SimpleData>
+                        <SimpleData name="visibility">-1</SimpleData>
+                        <SimpleData name="poiid">4</SimpleData>
+                        <SimpleData name="lat">36.7173271</SimpleData>
+                        <SimpleData name="lon">-4.4277120</SimpleData>
+                        <SimpleData name="altitude">7.358632</SimpleData>
+                        <SimpleData name="address">Avenida De Andalucía -  Málaga</SimpleData>
+                        <SimpleData name="telephone"></SimpleData>
+                        <SimpleData name="email"></SimpleData>
+                        <SimpleData name="categoryid">1</SimpleData>
+                        <SimpleData name="located">1</SimpleData>
+                        <SimpleData name="availabilitydefault">1</SimpleData>
+                        <SimpleData name="fs_id"></SimpleData>
+                        <SimpleData name="fb_id"></SimpleData>
+                        <SimpleData name="ta_id"></SimpleData>
+                        <SimpleData name="url"></SimpleData>
+                        <SimpleData name="hassec">1</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-4.427712000000033,36.71732713592233</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="da_aparcamientosPublicosMunicipales.fid--175d4967_1a00deb599f_-36c4">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#da_aparcamientosPublicosMunicipales_1">
+                        <SimpleData name="ogc_fid">74419</SimpleData>
+                        <SimpleData name="name">Camas</SimpleData>
+                        <SimpleData name="description"></SimpleData>
+                        <SimpleData name="tessellate">-1</SimpleData>
+                        <SimpleData name="extrude">0</SimpleData>
+                        <SimpleData name="visibility">-1</SimpleData>
+                        <SimpleData name="poiid">5</SimpleData>
+                        <SimpleData name="lat">36.7202072</SimpleData>
+                        <SimpleData name="lon">-4.4244981</SimpleData>
+                        <SimpleData name="altitude">7.589293</SimpleData>
+                        <SimpleData name="address">Calle Camas -  Málaga</SimpleData>
+                        <SimpleData name="telephone"></SimpleData>
+                        <SimpleData name="email"></SimpleData>
+                        <SimpleData name="categoryid">1</SimpleData>
+                        <SimpleData name="located">1</SimpleData>
+                        <SimpleData name="availabilitydefault">1</SimpleData>
+                        <SimpleData name="fs_id"></SimpleData>
+                        <SimpleData name="fb_id"></SimpleData>
+                        <SimpleData name="ta_id"></SimpleData>
+                        <SimpleData name="url"></SimpleData>
+                        <SimpleData name="hassec">1</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-4.424498100000033,36.72020723592562</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="da_aparcamientosPublicosMunicipales.fid--175d4967_1a00deb599f_-36c3">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#da_aparcamientosPublicosMunicipales_1">
+                        <SimpleData name="ogc_fid">74420</SimpleData>
+                        <SimpleData name="name">Cruz De Humilladero</SimpleData>
+                        <SimpleData name="description"></SimpleData>
+                        <SimpleData name="tessellate">-1</SimpleData>
+                        <SimpleData name="extrude">0</SimpleData>
+                        <SimpleData name="visibility">-1</SimpleData>
+                        <SimpleData name="poiid">6</SimpleData>
+                        <SimpleData name="lat">36.7118645</SimpleData>
+                        <SimpleData name="lon">-4.4409118</SimpleData>
+                        <SimpleData name="altitude">9.336616</SimpleData>
+                        <SimpleData name="address">Plaza Cruz De HumilladeroMálaga</SimpleData>
+                        <SimpleData name="telephone"></SimpleData>
+                        <SimpleData name="email"></SimpleData>
+                        <SimpleData name="categoryid">1</SimpleData>
+                        <SimpleData name="located">1</SimpleData>
+                        <SimpleData name="availabilitydefault">1</SimpleData>
+                        <SimpleData name="fs_id"></SimpleData>
+                        <SimpleData name="fb_id"></SimpleData>
+                        <SimpleData name="ta_id"></SimpleData>
+                        <SimpleData name="url"></SimpleData>
+                        <SimpleData name="hassec">1</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-4.440911800000037,36.711864535916064</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="da_aparcamientosPublicosMunicipales.fid--175d4967_1a00deb599f_-36c2">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#da_aparcamientosPublicosMunicipales_1">
+                        <SimpleData name="ogc_fid">74421</SimpleData>
+                        <SimpleData name="name">Alcazaba</SimpleData>
+                        <SimpleData name="description"></SimpleData>
+                        <SimpleData name="tessellate">-1</SimpleData>
+                        <SimpleData name="extrude">0</SimpleData>
+                        <SimpleData name="visibility">-1</SimpleData>
+                        <SimpleData name="poiid">8</SimpleData>
+                        <SimpleData name="lat">36.7224312</SimpleData>
+                        <SimpleData name="lon">-4.4165168</SimpleData>
+                        <SimpleData name="altitude">14.149522</SimpleData>
+                        <SimpleData name="address">Plaza La AlcazabaMálaga</SimpleData>
+                        <SimpleData name="telephone"></SimpleData>
+                        <SimpleData name="email"></SimpleData>
+                        <SimpleData name="categoryid">1</SimpleData>
+                        <SimpleData name="located">1</SimpleData>
+                        <SimpleData name="availabilitydefault">1</SimpleData>
+                        <SimpleData name="fs_id"></SimpleData>
+                        <SimpleData name="fb_id"></SimpleData>
+                        <SimpleData name="ta_id"></SimpleData>
+                        <SimpleData name="url"></SimpleData>
+                        <SimpleData name="hassec">1</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-4.41651680000003,36.72243123592818</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="da_aparcamientosPublicosMunicipales.fid--175d4967_1a00deb599f_-36c1">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#da_aparcamientosPublicosMunicipales_1">
+                        <SimpleData name="ogc_fid">74422</SimpleData>
+                        <SimpleData name="name">San Juan De La Cruz</SimpleData>
+                        <SimpleData name="description"></SimpleData>
+                        <SimpleData name="tessellate">-1</SimpleData>
+                        <SimpleData name="extrude">0</SimpleData>
+                        <SimpleData name="visibility">-1</SimpleData>
+                        <SimpleData name="poiid">9</SimpleData>
+                        <SimpleData name="lat">36.7178650</SimpleData>
+                        <SimpleData name="lon">-4.4332781</SimpleData>
+                        <SimpleData name="altitude">8.787301</SimpleData>
+                        <SimpleData name="address">Compositor Lemberg Ruiz - 29007 Málaga (Málaga)</SimpleData>
+                        <SimpleData name="telephone">952612642</SimpleData>
+                        <SimpleData name="email"></SimpleData>
+                        <SimpleData name="categoryid">1</SimpleData>
+                        <SimpleData name="located">1</SimpleData>
+                        <SimpleData name="availabilitydefault">1</SimpleData>
+                        <SimpleData name="fs_id"></SimpleData>
+                        <SimpleData name="fb_id"></SimpleData>
+                        <SimpleData name="ta_id"></SimpleData>
+                        <SimpleData name="url"></SimpleData>
+                        <SimpleData name="hassec">1</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-4.433278100000036,36.71786503592295</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="da_aparcamientosPublicosMunicipales.fid--175d4967_1a00deb599f_-36c0">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#da_aparcamientosPublicosMunicipales_1">
+                        <SimpleData name="ogc_fid">74423</SimpleData>
+                        <SimpleData name="name">Pz. de la Marina</SimpleData>
+                        <SimpleData name="description"></SimpleData>
+                        <SimpleData name="tessellate">-1</SimpleData>
+                        <SimpleData name="extrude">0</SimpleData>
+                        <SimpleData name="visibility">-1</SimpleData>
+                        <SimpleData name="poiid">10</SimpleData>
+                        <SimpleData name="lat">36.7174149</SimpleData>
+                        <SimpleData name="lon">-4.4200468</SimpleData>
+                        <SimpleData name="altitude">3.109754</SimpleData>
+                        <SimpleData name="address">Plaza De La MarinaMálaga</SimpleData>
+                        <SimpleData name="telephone"></SimpleData>
+                        <SimpleData name="email"></SimpleData>
+                        <SimpleData name="categoryid">1</SimpleData>
+                        <SimpleData name="located">1</SimpleData>
+                        <SimpleData name="availabilitydefault">1</SimpleData>
+                        <SimpleData name="fs_id"></SimpleData>
+                        <SimpleData name="fb_id"></SimpleData>
+                        <SimpleData name="ta_id"></SimpleData>
+                        <SimpleData name="url"></SimpleData>
+                        <SimpleData name="hassec">1</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-4.420046800000032,36.71741493592244</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="da_aparcamientosPublicosMunicipales.fid--175d4967_1a00deb599f_-36bf">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#da_aparcamientosPublicosMunicipales_1">
+                        <SimpleData name="ogc_fid">74424</SimpleData>
+                        <SimpleData name="name">Tejón y Rodriguez</SimpleData>
+                        <SimpleData name="description"></SimpleData>
+                        <SimpleData name="tessellate">-1</SimpleData>
+                        <SimpleData name="extrude">0</SimpleData>
+                        <SimpleData name="visibility">-1</SimpleData>
+                        <SimpleData name="poiid">12</SimpleData>
+                        <SimpleData name="lat">36.7235985</SimpleData>
+                        <SimpleData name="lon">-4.4214821</SimpleData>
+                        <SimpleData name="altitude">10.485368</SimpleData>
+                        <SimpleData name="address">Calle Tejón Y RodriguezMálaga</SimpleData>
+                        <SimpleData name="telephone"></SimpleData>
+                        <SimpleData name="email"></SimpleData>
+                        <SimpleData name="categoryid">1</SimpleData>
+                        <SimpleData name="located">1</SimpleData>
+                        <SimpleData name="availabilitydefault">1</SimpleData>
+                        <SimpleData name="fs_id"></SimpleData>
+                        <SimpleData name="fb_id"></SimpleData>
+                        <SimpleData name="ta_id"></SimpleData>
+                        <SimpleData name="url"></SimpleData>
+                        <SimpleData name="hassec">1</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-4.421482100000033,36.72359853592952</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="da_aparcamientosPublicosMunicipales.fid--175d4967_1a00deb599f_-36be">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#da_aparcamientosPublicosMunicipales_1">
+                        <SimpleData name="ogc_fid">74425</SimpleData>
+                        <SimpleData name="name">Pío Baroja</SimpleData>
+                        <SimpleData name="description"></SimpleData>
+                        <SimpleData name="tessellate">-1</SimpleData>
+                        <SimpleData name="extrude">0</SimpleData>
+                        <SimpleData name="visibility">-1</SimpleData>
+                        <SimpleData name="poiid">151</SimpleData>
+                        <SimpleData name="lat">0.0000000</SimpleData>
+                        <SimpleData name="lon">0.0000000</SimpleData>
+                        <SimpleData name="altitude">0.000000</SimpleData>
+                        <SimpleData name="address">Avenida Pío Baroja - El Palo -  Málaga (Málaga)</SimpleData>
+                        <SimpleData name="telephone"></SimpleData>
+                        <SimpleData name="email"></SimpleData>
+                        <SimpleData name="categoryid">1</SimpleData>
+                        <SimpleData name="located">0</SimpleData>
+                        <SimpleData name="availabilitydefault">1</SimpleData>
+                        <SimpleData name="fs_id"></SimpleData>
+                        <SimpleData name="fb_id"></SimpleData>
+                        <SimpleData name="ta_id"></SimpleData>
+                        <SimpleData name="url"></SimpleData>
+                        <SimpleData name="hassec">1</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.412417117742207E-11,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

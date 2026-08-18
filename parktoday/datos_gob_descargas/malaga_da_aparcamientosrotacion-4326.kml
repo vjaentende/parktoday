@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Schema name="da_aparcamientosRotacion_1" id="da_aparcamientosRotacion_1">
+            <SimpleField type="string" name="ID_EQUIPAMIENTO"/>
+            <SimpleField type="string" name="TOOLTIP"/>
+            <SimpleField type="string" name="FINALIDAD"/>
+        </Schema>
+        <Folder>
+            <name>da_aparcamientosRotacion</name>
+            <Placemark id="da_aparcamientosRotacion.fid--175d4967_1a00d8c2402_d27">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#da_aparcamientosRotacion_1">
+                        <SimpleData name="ID_EQUIPAMIENTO">4</SimpleData>
+                        <SimpleData name="TOOLTIP">Aparcamiento Tejón y Rodríguez</SimpleData>
+                        <SimpleData name="FINALIDAD">&lt;li&gt;262 Plazas Públicas a Rotación.&#13;
+&lt;li&gt;0 Plazas Libres.</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-4.421409997933897,36.723479913904555</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="da_aparcamientosRotacion.fid--175d4967_1a00d8c2402_d28">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#da_aparcamientosRotacion_1">
+                        <SimpleData name="ID_EQUIPAMIENTO">6</SimpleData>
+                        <SimpleData name="TOOLTIP">Aparcamiento Plaza de la Marina</SimpleData>
+                        <SimpleData name="FINALIDAD">&lt;li&gt;450 Plazas Públicas a Rotación.&#13;
+&lt;li&gt;0 Plazas Libres.&#13;
+</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-4.42007999793595,36.71756991391549</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="da_aparcamientosRotacion.fid--175d4967_1a00d8c2402_d29">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#da_aparcamientosRotacion_1">
+                        <SimpleData name="ID_EQUIPAMIENTO">170</SimpleData>
+                        <SimpleData name="TOOLTIP">Aparcamiento San Juan de la Cruz</SimpleData>
+                        <SimpleData name="FINALIDAD">&lt;li&gt;702 Plazas Públicas a Rotación.&#13;
+&lt;li&gt;0 Plazas Libres.</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-4.432529997921937,36.71807991378694</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="da_aparcamientosRotacion.fid--175d4967_1a00d8c2402_d2a">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#da_aparcamientosRotacion_1">
+                        <SimpleData name="ID_EQUIPAMIENTO">172</SimpleData>
+                        <SimpleData name="TOOLTIP">Aparcamiento Carlos Haya</SimpleData>
+                        <SimpleData name="FINALIDAD">&lt;li&gt;455 Plazas Públicas a Rotación.&#13;
+&lt;li&gt;43 Plazas Libres.</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-4.449029997903375,36.72157991361258</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="da_aparcamientosRotacion.fid--175d4967_1a00d8c2402_d2b">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#da_aparcamientosRotacion_1">
+                        <SimpleData name="ID_EQUIPAMIENTO">260</SimpleData>
+                        <SimpleData name="TOOLTIP">Aparcamiento Cruz de Humilladero (Plaza Cruz de Humilladero)</SimpleData>
+                        <SimpleData name="FINALIDAD">237 plazas públicas a rotación. </SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-4.440969997913155,36.71192991369487</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="da_aparcamientosRotacion.fid--175d4967_1a00d8c2402_d2c">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#da_aparcamientosRotacion_1">
+                        <SimpleData name="ID_EQUIPAMIENTO">1460</SimpleData>
+                        <SimpleData name="TOOLTIP">Aparcamiento Andalucía</SimpleData>
+                        <SimpleData name="FINALIDAD">&lt;li&gt;621 Plazas en Rotación.&#13;
+&lt;li&gt;287 Plazas para Residentes.&#13;
+&lt;li&gt;Nº Plazas Libres: 0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-4.427969997927104,36.71729991383413</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="da_aparcamientosRotacion.fid--175d4967_1a00d8c2402_d2d">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#da_aparcamientosRotacion_1">
+                        <SimpleData name="ID_EQUIPAMIENTO">1828</SimpleData>
+                        <SimpleData name="TOOLTIP">Aparcamiento El Palo</SimpleData>
+                        <SimpleData name="FINALIDAD">Nº Plazas Rotación: 135.&#13;
+Nº Plazas Residentes: 149.&#13;
+Nº Plazas Libres: 0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-4.360829998004452,36.72098991448489</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="da_aparcamientosRotacion.fid--175d4967_1a00d8c2402_d2e">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#da_aparcamientosRotacion_1">
+                        <SimpleData name="ID_EQUIPAMIENTO">1867</SimpleData>
+                        <SimpleData name="TOOLTIP">Aparcamiento Cervantes</SimpleData>
+                        <SimpleData name="FINALIDAD">436 plazas públicas a rotación.&#13;
+424 plazas residentes.&#13;
+Número de plazas libres:0.</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-4.409919997947188,36.72067991401949</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="da_aparcamientosRotacion.fid--175d4967_1a00d8c2402_d2f">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#da_aparcamientosRotacion_1">
+                        <SimpleData name="ID_EQUIPAMIENTO">3463</SimpleData>
+                        <SimpleData name="TOOLTIP">Aparcamiento Salitre Rotacion</SimpleData>
+                        <SimpleData name="FINALIDAD">443 plazas en rotacion</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-4.4271299979283825,36.71371991384123</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="da_aparcamientosRotacion.fid--175d4967_1a00d8c2402_d30">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#da_aparcamientosRotacion_1">
+                        <SimpleData name="ID_EQUIPAMIENTO">4160</SimpleData>
+                        <SimpleData name="TOOLTIP">APARCAMIENTO ALCAZABA</SimpleData>
+                        <SimpleData name="FINALIDAD">APARCAMIENTO EN ROTACION. ABONOS MENSUALES. TARJETA MULTIPARNKG. BONOS DESCUENTO PARA COMERCIOS Y HOSTELERIA</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-4.416389997939675,36.72237991395517</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="da_aparcamientosRotacion.fid--175d4967_1a00d8c2402_d31">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#da_aparcamientosRotacion_1">
+                        <SimpleData name="ID_EQUIPAMIENTO">4161</SimpleData>
+                        <SimpleData name="TOOLTIP">APARCAMIENTO P. MARINA</SimpleData>
+                        <SimpleData name="FINALIDAD">APARCAMIENTO EN ROTACION. ABONOS MENSUALES NOCTURNOS. TARJETA MULTIPARKING, BONOS DESCUENTO COMERCIOS, HOTELES Y HOSTELERIA</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-4.4200999979359406,36.71742991391522</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="da_aparcamientosRotacion.fid--175d4967_1a00d8c2402_d32">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#da_aparcamientosRotacion_1">
+                        <SimpleData name="ID_EQUIPAMIENTO">4164</SimpleData>
+                        <SimpleData name="TOOLTIP">APARCAMIENTO CAMAS</SimpleData>
+                        <SimpleData name="FINALIDAD">APARCAMIENTO DE ROTACION. ABONOS MENSUALES DISTINTOS HORARIOS. TARJETA MULTIPARKING. BONOS DESCUENTO COMERCIO Y HOSTELERIA</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-4.424499997930779,36.7196499138711</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

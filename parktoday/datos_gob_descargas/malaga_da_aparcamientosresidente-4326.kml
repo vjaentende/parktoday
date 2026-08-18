@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Schema name="da_aparcamientosResidente_1" id="da_aparcamientosResidente_1">
+            <SimpleField type="string" name="ID_EQUIPAMIENTO"/>
+            <SimpleField type="string" name="TOOLTIP"/>
+            <SimpleField type="string" name="FINALIDAD"/>
+        </Schema>
+        <Folder>
+            <name>da_aparcamientosResidente</name>
+            <Placemark id="da_aparcamientosResidente.fid--175d4967_1a00d8c2402_ddd">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#da_aparcamientosResidente_1">
+                        <SimpleData name="ID_EQUIPAMIENTO">1828</SimpleData>
+                        <SimpleData name="TOOLTIP">Aparcamiento El Palo</SimpleData>
+                        <SimpleData name="FINALIDAD">Nº Plazas Rotación: 135.&#13;
+Nº Plazas Residentes: 149.&#13;
+Nº Plazas Libres: 0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-4.360829998004452,36.72098991448489</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="da_aparcamientosResidente.fid--175d4967_1a00d8c2402_dde">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#da_aparcamientosResidente_1">
+                        <SimpleData name="ID_EQUIPAMIENTO">1867</SimpleData>
+                        <SimpleData name="TOOLTIP">Aparcamiento Cervantes</SimpleData>
+                        <SimpleData name="FINALIDAD">436 plazas públicas a rotación.&#13;
+424 plazas residentes.&#13;
+Número de plazas libres:0.</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-4.409919997947188,36.72067991401949</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="da_aparcamientosResidente.fid--175d4967_1a00d8c2402_ddf">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#da_aparcamientosResidente_1">
+                        <SimpleData name="ID_EQUIPAMIENTO">1963</SimpleData>
+                        <SimpleData name="TOOLTIP">Aparcamiento Barriada Nueva Málaga</SimpleData>
+                        <SimpleData name="FINALIDAD">&lt;li&gt;225 Plazas para Residentes.&#13;
+&lt;li&gt;0 Plazas Libres.</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-4.444989997907445,36.72540991365799</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="da_aparcamientosResidente.fid--175d4967_1a00d8c2402_de0">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#da_aparcamientosResidente_1">
+                        <SimpleData name="ID_EQUIPAMIENTO">3453</SimpleData>
+                        <SimpleData name="TOOLTIP">Aparcamiento Puerta Blanca 2</SimpleData>
+                        <SimpleData name="FINALIDAD">259 plazas para residentes</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-4.4529999979018875,36.69171991355549</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="da_aparcamientosResidente.fid--175d4967_1a00d8c2402_de1">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#da_aparcamientosResidente_1">
+                        <SimpleData name="ID_EQUIPAMIENTO">3458</SimpleData>
+                        <SimpleData name="TOOLTIP">Aparcamiento Gamarra 2</SimpleData>
+                        <SimpleData name="FINALIDAD">955 plazas de residentes&#13;
+disponibilidad de plazas libres</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-4.437139997916487,36.72150991373994</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="da_aparcamientosResidente.fid--175d4967_1a00d8c2402_de2">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#da_aparcamientosResidente_1">
+                        <SimpleData name="ID_EQUIPAMIENTO">4165</SimpleData>
+                        <SimpleData name="TOOLTIP">APARCAMIENTO BARRIADA DE HUELIN. JARDIN DE LA ABADIA</SimpleData>
+                        <SimpleData name="FINALIDAD">APARCAMIENTO RESIDENTES 218 PLAZAS</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-4.437209997917884,36.70591991373209</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

@@ -1,0 +1,1468 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="parkings_shp" id="parkings_shp">
+	<SimpleField name="id" type="float"></SimpleField>
+	<SimpleField name="address" type="string"></SimpleField>
+	<SimpleField name="areaCode" type="string"></SimpleField>
+	<SimpleField name="email" type="string"></SimpleField>
+	<SimpleField name="URLIcono" type="string"></SimpleField>
+	<SimpleField name="long" type="string"></SimpleField>
+	<SimpleField name="lat" type="string"></SimpleField>
+	<SimpleField name="state" type="string"></SimpleField>
+	<SimpleField name="town" type="string"></SimpleField>
+	<SimpleField name="isEmtParki" type="string"></SimpleField>
+	<SimpleField name="Plazas_sta" type="float"></SimpleField>
+	<SimpleField name="Plazas_PMR" type="float"></SimpleField>
+</Schema>
+<Folder><name>parkings_shp</name>
+  <Placemark>
+	<name>Colón</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">2</SimpleData>
+		<SimpleData name="address">Plaza de Colón s/n</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.6899392</SimpleData>
+		<SimpleData name="lat">40.4247093</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">1047</SimpleData>
+		<SimpleData name="Plazas_PMR">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.6899392,40.4247093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Corazón de María II</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">3</SimpleData>
+		<SimpleData name="address">C/ Corazón de María (final calle)</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.6455254</SimpleData>
+		<SimpleData name="lat">40.4385248</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">327</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.6455254,40.4385248</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Encuentro</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">4</SimpleData>
+		<SimpleData name="address">Plaza Encuentro</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.6513541</SimpleData>
+		<SimpleData name="lat">40.4054645</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">104</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.6513541,40.4054645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nuestra Señora del Recuerdo</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">5</SimpleData>
+		<SimpleData name="address">c/ Hiedra, 26</SimpleData>
+		<SimpleData name="areaCode">28036</SimpleData>
+		<SimpleData name="email">recuerdo@emtmadrid.es</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_elec_p.png</SimpleData>
+		<SimpleData name="long">-3.679160</SimpleData>
+		<SimpleData name="lat">40.472181</SimpleData>
+		<SimpleData name="state">España</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">Y</SimpleData>
+		<SimpleData name="Plazas_sta">902</SimpleData>
+		<SimpleData name="Plazas_PMR">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.67916,40.472181</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Corona Boreal</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">6</SimpleData>
+		<SimpleData name="address">Plaza Corona Boreal y C/ Marqués Camarines</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.7832</SimpleData>
+		<SimpleData name="lat">40.4568</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">120</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.7832,40.4568</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Avenida de Portugal</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">7</SimpleData>
+		<SimpleData name="address">Avda. de Portugal, s/n. Frente al nº 51</SimpleData>
+		<SimpleData name="areaCode">28011</SimpleData>
+		<SimpleData name="email">avenida.de.portugal@emtmadrid.es</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_elec_p.png</SimpleData>
+		<SimpleData name="long">-3.727515</SimpleData>
+		<SimpleData name="lat">40.415415</SimpleData>
+		<SimpleData name="state">España</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">Y</SimpleData>
+		<SimpleData name="Plazas_sta">880</SimpleData>
+		<SimpleData name="Plazas_PMR">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.727515,40.415415</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Plaza del Carmen</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">8</SimpleData>
+		<SimpleData name="address">Plaza del Carmen</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.7034468</SimpleData>
+		<SimpleData name="lat">40.4185861</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">434</SimpleData>
+		<SimpleData name="Plazas_PMR">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.7034468,40.4185861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paseo de Recoletos</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">9</SimpleData>
+		<SimpleData name="address">Paseo de Recoletos, 4</SimpleData>
+		<SimpleData name="areaCode">28001</SimpleData>
+		<SimpleData name="email">recoletos@emtmadrid.es</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.692164729674</SimpleData>
+		<SimpleData name="lat">40.420692539318</SimpleData>
+		<SimpleData name="state">España</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">Y</SimpleData>
+		<SimpleData name="Plazas_sta">281</SimpleData>
+		<SimpleData name="Plazas_PMR">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.692164729674,40.420692539318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Condesa de Gavia</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">10</SimpleData>
+		<SimpleData name="address">Plaza Condesa de Gavia</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.7019123</SimpleData>
+		<SimpleData name="lat">40.4490039</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">73</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.7019123,40.4490039</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Almagro</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">12</SimpleData>
+		<SimpleData name="address">c/ Almagro, 11</SimpleData>
+		<SimpleData name="areaCode">28010</SimpleData>
+		<SimpleData name="email">almagro@emtmadrid.es</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.692950</SimpleData>
+		<SimpleData name="lat">40.430390</SimpleData>
+		<SimpleData name="state">España</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">Y</SimpleData>
+		<SimpleData name="Plazas_sta">453</SimpleData>
+		<SimpleData name="Plazas_PMR">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.69295,40.43039</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Luna-Tudescos</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">14</SimpleData>
+		<SimpleData name="address">P. Sta Mª Soledad Torres Acosta c/v c/Luna)</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.7049889</SimpleData>
+		<SimpleData name="lat">40.4215407</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">0</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.7049889,40.4215407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jacinto Benavente</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">15</SimpleData>
+		<SimpleData name="address">Plaza Jacinto Benavente, s/n</SimpleData>
+		<SimpleData name="areaCode">28012</SimpleData>
+		<SimpleData name="email">jacinto.benavente@emtmadrid.es</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.703448</SimpleData>
+		<SimpleData name="lat">40.414267</SimpleData>
+		<SimpleData name="state">España</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">Y</SimpleData>
+		<SimpleData name="Plazas_sta">394</SimpleData>
+		<SimpleData name="Plazas_PMR">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.703448,40.414267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>América</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">16</SimpleData>
+		<SimpleData name="address">Avda. América (intercambiador)</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.67669</SimpleData>
+		<SimpleData name="lat">40.4380932</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">269</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.67669,40.4380932</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Arquitecto Ribera (Barceló)</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">17</SimpleData>
+		<SimpleData name="address">C/ Barceló, 2</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.700464</SimpleData>
+		<SimpleData name="lat">40.426411</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">317</SimpleData>
+		<SimpleData name="Plazas_PMR">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.700464,40.426411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brasil</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">18</SimpleData>
+		<SimpleData name="address">Avda. Brasil (entre General Yagüe y Pedro Texeira)</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.69374</SimpleData>
+		<SimpleData name="lat">40.45615</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">226</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.69374,40.45615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Casino de la Reina</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">19</SimpleData>
+		<SimpleData name="address">C/ Casino</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.70545010</SimpleData>
+		<SimpleData name="lat">40.4066596</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">131</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.7054501,40.4066596</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Descalzas</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">20</SimpleData>
+		<SimpleData name="address">Plaza Descalzas y Plaza San Martín</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.707072</SimpleData>
+		<SimpleData name="lat">40.418441</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">0</SimpleData>
+		<SimpleData name="Plazas_PMR">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.707072,40.418441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Palacio Municipal de Congresos</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">21</SimpleData>
+		<SimpleData name="address">Avda. Capital de España, s/n</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.6160214</SimpleData>
+		<SimpleData name="lat">40.46190431</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">600</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.6160214,40.46190431</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Orense</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">22</SimpleData>
+		<SimpleData name="address">Avda. General Perón, 27</SimpleData>
+		<SimpleData name="areaCode">28020</SimpleData>
+		<SimpleData name="email">orense@emtmadrid.es</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_elec_p.png</SimpleData>
+		<SimpleData name="long">-3.694009</SimpleData>
+		<SimpleData name="lat">40.453019</SimpleData>
+		<SimpleData name="state">España</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">Y</SimpleData>
+		<SimpleData name="Plazas_sta">144</SimpleData>
+		<SimpleData name="Plazas_PMR">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.694009,40.453019</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Daoíz y Velarde</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">23</SimpleData>
+		<SimpleData name="address">Avda. Ciudad de Barcelona ( C/ Alberche y C/ Téllez)</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.6784287</SimpleData>
+		<SimpleData name="lat">40.4030883</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">174</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.6784287,40.4030883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Marqués de Salamanca</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">25</SimpleData>
+		<SimpleData name="address">Plaza Marques de Salamanca, s/n</SimpleData>
+		<SimpleData name="areaCode">28006</SimpleData>
+		<SimpleData name="email">salamanca@emtmadrid.es</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_elec_p.png</SimpleData>
+		<SimpleData name="long">-3.679197</SimpleData>
+		<SimpleData name="lat">40.430293</SimpleData>
+		<SimpleData name="state">España</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">Y</SimpleData>
+		<SimpleData name="Plazas_sta">361</SimpleData>
+		<SimpleData name="Plazas_PMR">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.679197,40.430293</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Felipe II</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">26</SimpleData>
+		<SimpleData name="address">Avda. Felipe II y C/ Goya)</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.67567</SimpleData>
+		<SimpleData name="lat">40.424015</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">1218</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.67567,40.424015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fuencarral</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">27</SimpleData>
+		<SimpleData name="address">C/ Fuencarral, 111 (entre 111 Y 121)</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.702573</SimpleData>
+		<SimpleData name="lat">40.4294714</SimpleData>
+		<SimpleData name="state">España</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">Y</SimpleData>
+		<SimpleData name="Plazas_sta">307</SimpleData>
+		<SimpleData name="Plazas_PMR">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.702573,40.4294714</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>General Yagüe</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">28</SimpleData>
+		<SimpleData name="address">Avda. Brasil, 15 Nº15 al 19</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.6939585</SimpleData>
+		<SimpleData name="lat">40.4543339</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">409</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.6939585,40.4543339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hernani</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">29</SimpleData>
+		<SimpleData name="address">C/ Hernani (entre C/ Orense y Comandante Zorita)</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.6999184</SimpleData>
+		<SimpleData name="lat">40.4482467</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">115</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.6999184,40.4482467</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>José Castán Tobeñas</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">30</SimpleData>
+		<SimpleData name="address">C/ José Castán Tobeñas</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.69225</SimpleData>
+		<SimpleData name="lat">40.46473</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">205</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.69225,40.46473</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Miguel Yuste</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">31</SimpleData>
+		<SimpleData name="address">C/ Miguel Yuste s/n</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.62371</SimpleData>
+		<SimpleData name="lat">40.43733</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">182</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.62371,40.43733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Plaza de Oriente</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">32</SimpleData>
+		<SimpleData name="address">Plaza de Oriente, 1</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.71305556</SimpleData>
+		<SimpleData name="lat">40.42000000</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">212</SimpleData>
+		<SimpleData name="Plazas_PMR">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.71305556,40.42</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Presidente Carmona</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">33</SimpleData>
+		<SimpleData name="address">Avda. Presidente Carmona</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.697261</SimpleData>
+		<SimpleData name="lat">40.4541445</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">124</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.697261,40.4541445</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Reyes Magos</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">35</SimpleData>
+		<SimpleData name="address">Plaza Reyes Magos</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.6759568</SimpleData>
+		<SimpleData name="lat">40.4089554</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">345</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.6759568,40.4089554</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>San Cayetano</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">36</SimpleData>
+		<SimpleData name="address">Plaza San Cayetano</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.670343</SimpleData>
+		<SimpleData name="lat">40.434403</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">222</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.670343,40.434403</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sánchez Bustillo</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">37</SimpleData>
+		<SimpleData name="address">C/ Sánchez Bustillo</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.6933423</SimpleData>
+		<SimpleData name="lat">40.4088597</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">132</SimpleData>
+		<SimpleData name="Plazas_PMR">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.6933423,40.4088597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Serrano II</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">39</SimpleData>
+		<SimpleData name="address">C/ Serrano entre Ortega y Gasset y Hermosilla</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.68715</SimpleData>
+		<SimpleData name="lat">40.42865</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">307</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.68715,40.42865</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Serrano III</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">40</SimpleData>
+		<SimpleData name="address">C/ Serrano entre Jorge Juan y Pza. Independencia</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.6884056</SimpleData>
+		<SimpleData name="lat">40.4197583</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">261</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.6884056,40.4197583</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sevilla</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">41</SimpleData>
+		<SimpleData name="address">C/ Sevilla y C/ Alcalá</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.6992503</SimpleData>
+		<SimpleData name="lat">40.418054</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">391</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.6992503,40.418054</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Velázquez Ayala</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">42</SimpleData>
+		<SimpleData name="address">C/ Velázquez ( y C/ Ayala)</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.68379</SimpleData>
+		<SimpleData name="lat">40.42761</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">464</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.68379,40.42761</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Velázquez Jorge Juan</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">43</SimpleData>
+		<SimpleData name="address">C/ Velázquez ( y C/ Jorge Juan)</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.6771486</SimpleData>
+		<SimpleData name="lat">40.4234377</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">549</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.6771486,40.4234377</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Verdaguer y García</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">44</SimpleData>
+		<SimpleData name="address">C/ Verdaguer y García</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.6546779</SimpleData>
+		<SimpleData name="lat">40.4403579</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">83</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.6546779,40.4403579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Auditorio</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">45</SimpleData>
+		<SimpleData name="address">C/ Príncipe de Vergara (Junto Auditorio)</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.6801218</SimpleData>
+		<SimpleData name="lat">40.4229427</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">376</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.6801218,40.4229427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cortes</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">46</SimpleData>
+		<SimpleData name="address">Plaza de las Cortes</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.6958823</SimpleData>
+		<SimpleData name="lat">40.4156855</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">942</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.6958823,40.4156855</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fernández Shaw</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">47</SimpleData>
+		<SimpleData name="address">C/ Carlos y Guillermo Fernández Shaw</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.668314</SimpleData>
+		<SimpleData name="lat">40.4043224</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">245</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.668314,40.4043224</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Montalbán</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">49</SimpleData>
+		<SimpleData name="address">C/ Montalbán (entre C/ Alfonso XI y Pº Prado)</SimpleData>
+		<SimpleData name="areaCode">28014</SimpleData>
+		<SimpleData name="email">montalban@emtmadrid.es</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.690707</SimpleData>
+		<SimpleData name="lat">40.418161</SimpleData>
+		<SimpleData name="state">España</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">Y</SimpleData>
+		<SimpleData name="Plazas_sta">294</SimpleData>
+		<SimpleData name="Plazas_PMR">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.690707,40.418161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mostenses</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">50</SimpleData>
+		<SimpleData name="address">Plaza Mostenses y C/ Ricardo León</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.7089974</SimpleData>
+		<SimpleData name="lat">40.4235602</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">357</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.7089974,40.4235602</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Museo de la ciudad</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">51</SimpleData>
+		<SimpleData name="address">C/ Príncipe de Vergara, 152 ( y C/ Pechuán )</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.6779271</SimpleData>
+		<SimpleData name="lat">40.4474968</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">147</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.6779271,40.4474968</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Olavide</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">52</SimpleData>
+		<SimpleData name="address">Plaza de Olavide</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.7010275</SimpleData>
+		<SimpleData name="lat">40.4326973</SimpleData>
+		<SimpleData name="state">España</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">Y</SimpleData>
+		<SimpleData name="Plazas_sta">383</SimpleData>
+		<SimpleData name="Plazas_PMR">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.7010275,40.4326973</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Plaza de España</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">53</SimpleData>
+		<SimpleData name="address">Plaza de España</SimpleData>
+		<SimpleData name="areaCode">28008</SimpleData>
+		<SimpleData name="email">plaza.de.espana@emtmadrid.es</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.711583</SimpleData>
+		<SimpleData name="lat">40.423636</SimpleData>
+		<SimpleData name="state">España</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">Y</SimpleData>
+		<SimpleData name="Plazas_sta">808</SimpleData>
+		<SimpleData name="Plazas_PMR">29</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.711583,40.423636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Plaza del Rey</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">54</SimpleData>
+		<SimpleData name="address">Plaza del Rey ( y C/ Barquillo C/V C/ Infantas)</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.6963131</SimpleData>
+		<SimpleData name="lat">40.4200305</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">147</SimpleData>
+		<SimpleData name="Plazas_PMR">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.6963131,40.4200305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Plaza Mayor</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">55</SimpleData>
+		<SimpleData name="address">Plaza Mayor</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.7066676</SimpleData>
+		<SimpleData name="lat">40.4152721</SimpleData>
+		<SimpleData name="state">España</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">Y</SimpleData>
+		<SimpleData name="Plazas_sta">699</SimpleData>
+		<SimpleData name="Plazas_PMR">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.7066676,40.4152721</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>San Epifanio</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">57</SimpleData>
+		<SimpleData name="address">C/ San Epifanio, 7</SimpleData>
+		<SimpleData name="areaCode">28005</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_elec_p.png</SimpleData>
+		<SimpleData name="long">-3.718745</SimpleData>
+		<SimpleData name="lat">40.401317</SimpleData>
+		<SimpleData name="state">España</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">Y</SimpleData>
+		<SimpleData name="Plazas_sta">501</SimpleData>
+		<SimpleData name="Plazas_PMR">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.718745,40.401317</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Velázquez Juan Bravo</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">58</SimpleData>
+		<SimpleData name="address">C/ Velázquez ( y C/ Juán Bravo)</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.6834</SimpleData>
+		<SimpleData name="lat">40.4321</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">371</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.6834,40.4321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Díaz Porlier</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">60</SimpleData>
+		<SimpleData name="address">C/Diego de León,64(Príncipe de Vergara-Cde. Peñalver)</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.675167</SimpleData>
+		<SimpleData name="lat">40.4345198</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">203</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.675167,40.4345198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>República Dominicana</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">61</SimpleData>
+		<SimpleData name="address">Pza Rep Dominicana C/Costa Rica y C/Alberto Alcocer</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.67647</SimpleData>
+		<SimpleData name="lat">40.45869</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">203</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.67647,40.45869</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Serrano I</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">62</SimpleData>
+		<SimpleData name="address">C/Serrano entre Hnos. Becquer y Marq. de Villamejor</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.6872468</SimpleData>
+		<SimpleData name="lat">40.4359971</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">307</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.6872468,40.4359971</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Marqués de Urquijo</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">63</SimpleData>
+		<SimpleData name="address">Marq de Urquijo(entre C/Princesa y J. Álv. Mendiz.</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.7188502</SimpleData>
+		<SimpleData name="lat">40.4298028</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">435</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.7188502,40.4298028</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Puerta Toledo</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">64</SimpleData>
+		<SimpleData name="address">Glorieta Puerta Toledo C/V Cptan. Salazar Martínez</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.7110512</SimpleData>
+		<SimpleData name="lat">40.407036</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">244</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.7110512,40.407036</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Villa de París</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">67</SimpleData>
+		<SimpleData name="address">Plaza Villa de París</SimpleData>
+		<SimpleData name="areaCode">28004</SimpleData>
+		<SimpleData name="email">villa.de.paris@emtmadrid.es</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.692336</SimpleData>
+		<SimpleData name="lat">40.42510</SimpleData>
+		<SimpleData name="state">España</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">Y</SimpleData>
+		<SimpleData name="Plazas_sta">179</SimpleData>
+		<SimpleData name="Plazas_PMR">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.692336,40.4251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Barceló</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">69</SimpleData>
+		<SimpleData name="address">C/ Barceló, s/n</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.700366</SimpleData>
+		<SimpleData name="lat">40.426438</SimpleData>
+		<SimpleData name="state">España</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">Y</SimpleData>
+		<SimpleData name="Plazas_sta">554</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.700366,40.426438</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pedro Zerolo</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">71</SimpleData>
+		<SimpleData name="address">Plaza Pedro Zerolo, s/n</SimpleData>
+		<SimpleData name="areaCode">28004</SimpleData>
+		<SimpleData name="email">pedro.zerolo@emtmadrid.es</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.699282</SimpleData>
+		<SimpleData name="lat">40.420653</SimpleData>
+		<SimpleData name="state">España</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">Y</SimpleData>
+		<SimpleData name="Plazas_sta">115</SimpleData>
+		<SimpleData name="Plazas_PMR">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.699282,40.420653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Agustín Lara</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">73</SimpleData>
+		<SimpleData name="address">Plaza Arturo Barea</SimpleData>
+		<SimpleData name="areaCode">28012</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.703414</SimpleData>
+		<SimpleData name="lat">40.408628</SimpleData>
+		<SimpleData name="state">España</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">Y</SimpleData>
+		<SimpleData name="Plazas_sta">52</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.703414,40.408628</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fuente de la Mora</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">74</SimpleData>
+		<SimpleData name="address">Av. de Manoteras, 1D</SimpleData>
+		<SimpleData name="areaCode">28050</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.663501</SimpleData>
+		<SimpleData name="lat">40.484395</SimpleData>
+		<SimpleData name="state">España</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">Y</SimpleData>
+		<SimpleData name="Plazas_sta">414</SimpleData>
+		<SimpleData name="Plazas_PMR">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.663501,40.484395</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GARAJE AMPARO</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">75</SimpleData>
+		<SimpleData name="address">CALLE AMPARO</SimpleData>
+		<SimpleData name="areaCode">28012</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.701445</SimpleData>
+		<SimpleData name="lat">40.407933</SimpleData>
+		<SimpleData name="state">ESPAÑA</SimpleData>
+		<SimpleData name="town">MADRID</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">68</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.701445,40.407933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pitis</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">76</SimpleData>
+		<SimpleData name="address">Calle Gloria Fuertes, 191</SimpleData>
+		<SimpleData name="areaCode">28035</SimpleData>
+		<SimpleData name="email">aparcamientos@emtmadrid.es</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.723984502</SimpleData>
+		<SimpleData name="lat">40.4965580</SimpleData>
+		<SimpleData name="state">España</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">Y</SimpleData>
+		<SimpleData name="Plazas_sta">461</SimpleData>
+		<SimpleData name="Plazas_PMR">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.723984502,40.496558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PLAZA DE SANTA ANA</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">77</SimpleData>
+		<SimpleData name="address">PZA. DE SANTA ANA</SimpleData>
+		<SimpleData name="areaCode">28014</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.700645</SimpleData>
+		<SimpleData name="lat">40.414533</SimpleData>
+		<SimpleData name="state">ESPAÑA</SimpleData>
+		<SimpleData name="town">MADRID</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">328</SimpleData>
+		<SimpleData name="Plazas_PMR">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.700645,40.414533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Islazul</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">78</SimpleData>
+		<SimpleData name="address">Calle Calderilla, 1</SimpleData>
+		<SimpleData name="areaCode">28054</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.738932785</SimpleData>
+		<SimpleData name="lat">40.364416188</SimpleData>
+		<SimpleData name="state">España</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">Y</SimpleData>
+		<SimpleData name="Plazas_sta">224</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.738932785,40.364416188</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aviación Española</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">79</SimpleData>
+		<SimpleData name="address">Calle Fuente de Lima, 2</SimpleData>
+		<SimpleData name="areaCode">28024</SimpleData>
+		<SimpleData name="email">aparcamientos@emtmadrid.es</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.783541162</SimpleData>
+		<SimpleData name="lat">40.383721163</SimpleData>
+		<SimpleData name="state">España</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">Y</SimpleData>
+		<SimpleData name="Plazas_sta">359</SimpleData>
+		<SimpleData name="Plazas_PMR">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.783541162,40.383721163</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wanda Metropolitano</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">80</SimpleData>
+		<SimpleData name="address">Avda. Arcentales, 39</SimpleData>
+		<SimpleData name="areaCode">28022</SimpleData>
+		<SimpleData name="email">aparcamientos@emtmadrid.es</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.60067257</SimpleData>
+		<SimpleData name="lat">40.4335587</SimpleData>
+		<SimpleData name="state">España</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">Y</SimpleData>
+		<SimpleData name="Plazas_sta">3027</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.60067257,40.4335587</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paseo Artilleros 360</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">81</SimpleData>
+		<SimpleData name="address">San Cipriano, 3</SimpleData>
+		<SimpleData name="areaCode">28032</SimpleData>
+		<SimpleData name="email">aparcamientos@emtmadrid.es</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.60913450</SimpleData>
+		<SimpleData name="lat">40.4046325</SimpleData>
+		<SimpleData name="state">España</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">Y</SimpleData>
+		<SimpleData name="Plazas_sta">148</SimpleData>
+		<SimpleData name="Plazas_PMR">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.6091345,40.4046325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Altamiras</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">82</SimpleData>
+		<SimpleData name="address">C/ Fco Altimiras, 4
+</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.663694</SimpleData>
+		<SimpleData name="lat">40.433787</SimpleData>
+		<SimpleData name="state">España</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">Y</SimpleData>
+		<SimpleData name="Plazas_sta">59</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.663694,40.433787</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Elvira</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">84</SimpleData>
+		<SimpleData name="address">C/ Elvira, 42</SimpleData>
+		<SimpleData name="areaCode">28028</SimpleData>
+		<SimpleData name="email">aparcamientos@emtmadrid.es</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.665728</SimpleData>
+		<SimpleData name="lat">40.420947</SimpleData>
+		<SimpleData name="state">España</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">Y</SimpleData>
+		<SimpleData name="Plazas_sta">190</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.665728,40.420947</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ginzo de Limia</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">85</SimpleData>
+		<SimpleData name="address">C/ Ginzo de Limia, 66
+</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.707068</SimpleData>
+		<SimpleData name="lat">40.484704</SimpleData>
+		<SimpleData name="state">España</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">Y</SimpleData>
+		<SimpleData name="Plazas_sta">97</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.707068,40.484704</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>La Latina</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">86</SimpleData>
+		<SimpleData name="address">Calle de Toledo</SimpleData>
+		<SimpleData name="areaCode">28005</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.710914</SimpleData>
+		<SimpleData name="lat">40.408782</SimpleData>
+		<SimpleData name="state">España</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">160</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.710914,40.408782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pradillo II</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">87</SimpleData>
+		<SimpleData name="address">C/ Pradillo, 31
+</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.671122</SimpleData>
+		<SimpleData name="lat">40.449119</SimpleData>
+		<SimpleData name="state">España</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">Y</SimpleData>
+		<SimpleData name="Plazas_sta">64</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.671122,40.449119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BARCO 1</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">88</SimpleData>
+		<SimpleData name="address">Calle Barco</SimpleData>
+		<SimpleData name="areaCode">28004</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.702918</SimpleData>
+		<SimpleData name="lat">40.421107</SimpleData>
+		<SimpleData name="state">ESPAÑA</SimpleData>
+		<SimpleData name="town">MADRID</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">50</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.702918,40.421107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GRAVINA 21</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">89</SimpleData>
+		<SimpleData name="address">Calle Gravina</SimpleData>
+		<SimpleData name="areaCode">28004</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.696436</SimpleData>
+		<SimpleData name="lat">40.422704</SimpleData>
+		<SimpleData name="state">ESPAÑA</SimpleData>
+		<SimpleData name="town">MADRID</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">25</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.696436,40.422704</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Samaranch</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">90</SimpleData>
+		<SimpleData name="address">C/ Paseo Imperial, 18
+</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.718239</SimpleData>
+		<SimpleData name="lat">40.408244</SimpleData>
+		<SimpleData name="state">España</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">Y</SimpleData>
+		<SimpleData name="Plazas_sta">233</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.718239,40.408244</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aparcamiento Escuelas de San Anton</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">91</SimpleData>
+		<SimpleData name="address">SANTA BRIGIDA</SimpleData>
+		<SimpleData name="areaCode">28004</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.699445</SimpleData>
+		<SimpleData name="lat">40.424419</SimpleData>
+		<SimpleData name="state">ESPAÑA</SimpleData>
+		<SimpleData name="town">MADRID</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">0</SimpleData>
+		<SimpleData name="Plazas_PMR">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.699445,40.424419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MERCADO SAN ANTON</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">94</SimpleData>
+		<SimpleData name="address">LIBERTAD</SimpleData>
+		<SimpleData name="areaCode">28004</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.697468</SimpleData>
+		<SimpleData name="lat">40.421693</SimpleData>
+		<SimpleData name="state">ESPAÑA</SimpleData>
+		<SimpleData name="town">MADRID</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">100</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.697468,40.421693</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Colón</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">95</SimpleData>
+		<SimpleData name="address">Plaza de Colón, s/n
+</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.689574</SimpleData>
+		<SimpleData name="lat">40.424419</SimpleData>
+		<SimpleData name="state">España</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">Y</SimpleData>
+		<SimpleData name="Plazas_sta">4</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.689574,40.424419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GARAJE PIAMONTE</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">96</SimpleData>
+		<SimpleData name="address">PIAMONTE</SimpleData>
+		<SimpleData name="areaCode">28004</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.694675</SimpleData>
+		<SimpleData name="lat">40.423050</SimpleData>
+		<SimpleData name="state">ESPAÑA</SimpleData>
+		<SimpleData name="town">MADRID</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">95</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.694675,40.42305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PARKING VOT</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">97</SimpleData>
+		<SimpleData name="address">Ventosa</SimpleData>
+		<SimpleData name="areaCode">28005</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.714779</SimpleData>
+		<SimpleData name="lat">40.408671</SimpleData>
+		<SimpleData name="state">ESPAÑA</SimpleData>
+		<SimpleData name="town">MADRID</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">90</SimpleData>
+		<SimpleData name="Plazas_PMR">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.714779,40.408671</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ISABEL LA CATOLICA</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">98</SimpleData>
+		<SimpleData name="address">Calle de Isabel la Católica</SimpleData>
+		<SimpleData name="areaCode">28007</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.709122</SimpleData>
+		<SimpleData name="lat">40.421829</SimpleData>
+		<SimpleData name="state">ESPAÑA</SimpleData>
+		<SimpleData name="town">MADRID</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">137</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.709122,40.421829</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Museo de la ciudad</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">99</SimpleData>
+		<SimpleData name="address">c/ Cartagena 178
+</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.677665</SimpleData>
+		<SimpleData name="lat">40.444212</SimpleData>
+		<SimpleData name="state">España</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">Y</SimpleData>
+		<SimpleData name="Plazas_sta">146</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.677665,40.444212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SANTO DOMINGO</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">101</SimpleData>
+		<SimpleData name="address">Plaza de Santo Domingo</SimpleData>
+		<SimpleData name="areaCode">28013</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.77087154</SimpleData>
+		<SimpleData name="lat">40.4197986</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">333</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.77087154,40.4197986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Velázquez-JuanBravo</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">104</SimpleData>
+		<SimpleData name="email">aparcamientos@emtmadrid.es</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.465464</SimpleData>
+		<SimpleData name="lat">40.465465</SimpleData>
+		<SimpleData name="state">España</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">Y</SimpleData>
+		<SimpleData name="Plazas_sta">0</SimpleData>
+		<SimpleData name="Plazas_PMR">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.465464,40.465465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Arquitecto Ribera</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">105</SimpleData>
+		<SimpleData name="email">aparcamientos@emtmadrid.es</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.465464</SimpleData>
+		<SimpleData name="lat">40.465465</SimpleData>
+		<SimpleData name="state">España</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">Y</SimpleData>
+		<SimpleData name="Plazas_sta">0</SimpleData>
+		<SimpleData name="Plazas_PMR">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.465464,40.465465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mercado de la Cebada</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">501</SimpleData>
+		<SimpleData name="address">Plaza de la Cebada s/n</SimpleData>
+		<SimpleData name="areaCode">28005</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.709082</SimpleData>
+		<SimpleData name="lat">40.410490</SimpleData>
+		<SimpleData name="state">Spain</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">N</SimpleData>
+		<SimpleData name="Plazas_sta">206</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.709082,40.41049</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hub de Movilidad Canalejas 360</name>
+	<ExtendedData><SchemaData schemaUrl="#parkings_shp">
+		<SimpleData name="id">1239</SimpleData>
+		<SimpleData name="address">Calle de Alcalá, 17</SimpleData>
+		<SimpleData name="areaCode">28014</SimpleData>
+		<SimpleData name="email">aparcamientos@emtmadrid.es</SimpleData>
+		<SimpleData name="URLIcono">https://servicios.emtmadrid.es:8443/InfoParking/iconos/IconosCuadradosPico/aparcamiento_p.png</SimpleData>
+		<SimpleData name="long">-3.699137</SimpleData>
+		<SimpleData name="lat">40.417901</SimpleData>
+		<SimpleData name="state">España</SimpleData>
+		<SimpleData name="town">Madrid</SimpleData>
+		<SimpleData name="isEmtParki">Y</SimpleData>
+		<SimpleData name="Plazas_sta">30</SimpleData>
+		<SimpleData name="Plazas_PMR">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.699137,40.417901</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

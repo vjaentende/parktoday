@@ -1,0 +1,4256 @@
+{
+	"Zamalanak" : {
+		"type" : "FeatureCollection",
+		"features" : [
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9824808493, 43.3235793524 ]
+				},
+				"properties" : {
+					"Luzera_m" : 45,
+					"Metros_lin" : 45,
+					"Ordutegia" : "8:00-20:00",
+					"Horario" : "8:00-20:00",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "140",
+					"IzenKalea" : "ALDAMAR",
+					"X_etrs89" : 582500.035,
+					"Y_etrs89" : 4797251.4034
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9828050945, 43.3240471333 ]
+				},
+				"properties" : {
+					"Luzera_m" : 25,
+					"Metros_lin" : 25,
+					"Ordutegia" : "8:00-20:00",
+					"Horario" : "8:00-20:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "140",
+					"IzenKalea" : "ALDAMAR",
+					"X_etrs89" : 582473.1123,
+					"Y_etrs89" : 4797303.0328
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9829389774, 43.316429919 ]
+				},
+				"properties" : {
+					"Luzera_m" : 40,
+					"Metros_lin" : 40,
+					"Ordutegia" : "8:00-13:30 / 15:30-20:00",
+					"Horario" : "8:00-13:30 / 15:30-20:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "BERTAKOAK",
+					"Uso" : "RESIDENTES",
+					"KodKalea" : "4130",
+					"IzenKalea" : "SAN BARTOLOME",
+					"X_etrs89" : 582473.3597,
+					"Y_etrs89" : 4796447.9469
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9839706214, 43.3169723956 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "7:00-20:00",
+					"Horario" : "7:00-20:00",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "BERTAKOAK",
+					"Uso" : "RESIDENTES",
+					"KodKalea" : "1390",
+					"IzenKalea" : "EASO",
+					"X_etrs89" : 582388.1719,
+					"Y_etrs89" : 4796516.193
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9845790813, 43.3171583928 ]
+				},
+				"properties" : {
+					"Luzera_m" : 30,
+					"Metros_lin" : 30,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "470",
+					"IzenKalea" : "ARRASATE",
+					"X_etrs89" : 582338.5814,
+					"Y_etrs89" : 4796536.2489
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9822557141, 43.3189416962 ]
+				},
+				"properties" : {
+					"Luzera_m" : 25,
+					"Metros_lin" : 25,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "1770",
+					"IzenKalea" : "HONDARRIBIA",
+					"X_etrs89" : 582524.5664,
+					"Y_etrs89" : 4796736.5881
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9798198197, 43.3177297508 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "BERTAKOAK",
+					"Uso" : "RESIDENTES",
+					"KodKalea" : "3890",
+					"IzenKalea" : "PRIM",
+					"X_etrs89" : 582723.7283,
+					"Y_etrs89" : 4796604.405
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9794729413, 43.3197293904 ]
+				},
+				"properties" : {
+					"Luzera_m" : 10,
+					"Metros_lin" : 10,
+					"Ordutegia" : "9:00-13:30",
+					"Horario" : "9:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "4270",
+					"IzenKalea" : "SAN MARCIAL",
+					"X_etrs89" : 582749.142,
+					"Y_etrs89" : 4796826.8198
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9816505136, 43.3109304109 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30 / 15:30-20:00",
+					"Horario" : "8:00-13:30 / 15:30-20:00",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "580",
+					"IzenKalea" : "AUTONOMIA",
+					"X_etrs89" : 582584.4889,
+					"Y_etrs89" : 4795847.4891
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9819373538, 43.312921927 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-21:00",
+					"Horario" : "8:00-21:00",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "580",
+					"IzenKalea" : "AUTONOMIA",
+					"X_etrs89" : 582558.531,
+					"Y_etrs89" : 4796068.3742
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9846960919, 43.3167696159 ]
+				},
+				"properties" : {
+					"Luzera_m" : 25,
+					"Metros_lin" : 25,
+					"Ordutegia" : "8:00-20:00",
+					"Horario" : "8:00-20:00",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "BERTAKOAK",
+					"Uso" : "RESIDENTES",
+					"KodKalea" : "2840",
+					"IzenKalea" : "MANTEROLA",
+					"X_etrs89" : 582329.6181,
+					"Y_etrs89" : 4796492.9577
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9822246383, 43.314095822 ]
+				},
+				"properties" : {
+					"Luzera_m" : 25,
+					"Metros_lin" : 25,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "1400",
+					"IzenKalea" : "EASO,PZ DE",
+					"X_etrs89" : 582533.6451,
+					"Y_etrs89" : 4796198.4577
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9807528231, 43.3136479754 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-12:00 / 16:00-18:00",
+					"Horario" : "8:00-12:00 / 16:00-18:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "BERTAKOAK",
+					"Uso" : "RESIDENTES",
+					"KodKalea" : "3680",
+					"IzenKalea" : "PEDRO EGAÑA",
+					"X_etrs89" : 582653.6056,
+					"Y_etrs89" : 4796150.1775
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9816651044, 43.3155125431 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-20:00",
+					"Horario" : "8:00-20:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "4870",
+					"IzenKalea" : "URBIETA",
+					"X_etrs89" : 582577.1007,
+					"Y_etrs89" : 4796356.3455
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.980706662, 43.3160081549 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "BERTAKOAK",
+					"Uso" : "RESIDENTES",
+					"KodKalea" : "4350",
+					"IzenKalea" : "SANCHEZ TOCA",
+					"X_etrs89" : 582654.1498,
+					"Y_etrs89" : 4796412.3341
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9804048905, 43.3164438052 ]
+				},
+				"properties" : {
+					"Luzera_m" : 5,
+					"Metros_lin" : 5,
+					"Ordutegia" : "8:00-12:00 / 15:00-18:00",
+					"Horario" : "8:00-12:00 / 15:00-18:00",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "1770",
+					"IzenKalea" : "HONDARRIBIA",
+					"X_etrs89" : 582678.0298,
+					"Y_etrs89" : 4796461.0142
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9801080544, 43.315015586 ]
+				},
+				"properties" : {
+					"Luzera_m" : 5,
+					"Metros_lin" : 5,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "BERTAKOAK",
+					"Uso" : "RESIDENTES",
+					"KodKalea" : "3890",
+					"IzenKalea" : "PRIM",
+					"X_etrs89" : 582704.0372,
+					"Y_etrs89" : 4796302.6965
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9804794489, 43.3147335121 ]
+				},
+				"properties" : {
+					"Luzera_m" : 10,
+					"Metros_lin" : 10,
+					"Ordutegia" : "9:00-13:00 / 15:30-16:30",
+					"Horario" : "9:00-13:00 / 15:30-16:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "BERTAKOAK",
+					"Uso" : "RESIDENTES",
+					"KodKalea" : "3230",
+					"IzenKalea" : "MORAZA",
+					"X_etrs89" : 582674.3027,
+					"Y_etrs89" : 4796271.0029
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9808668654, 43.3143626341 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-20:00",
+					"Horario" : "8:00-20:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "4870",
+					"IzenKalea" : "URBIETA",
+					"X_etrs89" : 582643.389,
+					"Y_etrs89" : 4796229.4314
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9804414039, 43.3098078973 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "640",
+					"IzenKalea" : "AZPEITIA",
+					"X_etrs89" : 582684.0658,
+					"Y_etrs89" : 4795724.0242
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9814459304, 43.3096582206 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:00 / 15:00-19:00",
+					"Horario" : "8:00-13:00 / 15:00-19:00",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "640",
+					"IzenKalea" : "AZPEITIA",
+					"X_etrs89" : 582602.803,
+					"Y_etrs89" : 4795706.4078
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9812952841, 43.3088036947 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "7:30-13:30",
+					"Horario" : "7:30-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "2380",
+					"IzenKalea" : "JOSE M. SALABERRIA",
+					"X_etrs89" : 582616.1777,
+					"Y_etrs89" : 4795611.6571
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9798440453, 43.3092855467 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "4360",
+					"IzenKalea" : "SANCHO EL SABIO,AV",
+					"X_etrs89" : 582733.2192,
+					"Y_etrs89" : 4795666.6059
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9793818352, 43.3089993691 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "4640",
+					"IzenKalea" : "TORCUATO LUCA TENA",
+					"X_etrs89" : 582771.0924,
+					"Y_etrs89" : 4795635.2823
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9841501128, 43.3216653709 ]
+				},
+				"properties" : {
+					"Luzera_m" : 25,
+					"Metros_lin" : 25,
+					"Ordutegia" : "8:00-13:30 / 15:30-20:00",
+					"Horario" : "8:00-13:30 / 15:30-20:00",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "1840",
+					"IzenKalea" : "GARIBAI",
+					"X_etrs89" : 582367.2769,
+					"Y_etrs89" : 4797037.197
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9850326903, 43.3172211169 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "BERTAKOAK",
+					"Uso" : "RESIDENTES",
+					"KodKalea" : "5080",
+					"IzenKalea" : "ZARAGOZA,PZ DE",
+					"X_etrs89" : 582301.7142,
+					"Y_etrs89" : 4796542.7676
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9814363303, 43.320673447 ]
+				},
+				"properties" : {
+					"Luzera_m" : 25,
+					"Metros_lin" : 25,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "2090",
+					"IzenKalea" : "IDIAKEZ",
+					"X_etrs89" : 582588.6613,
+					"Y_etrs89" : 4796929.7188
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9840252788, 43.321003286 ]
+				},
+				"properties" : {
+					"Luzera_m" : 30,
+					"Metros_lin" : 30,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "3750",
+					"IzenKalea" : "PEÑAFLORIDA",
+					"X_etrs89" : 582378.2934,
+					"Y_etrs89" : 4796963.7919
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9911557102, 43.3145783606 ]
+				},
+				"properties" : {
+					"Luzera_m" : 10,
+					"Metros_lin" : 10,
+					"Ordutegia" : "9:00-13:30",
+					"Horario" : "9:00-13:30",
+					"Denbora" : 180,
+					"Tiempo" : 180,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "3130",
+					"IzenKalea" : "MIRACONCHA,PS DE",
+					"X_etrs89" : 581808.7529,
+					"Y_etrs89" : 4796243.2586
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9734840144, 43.3206470006 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "15:00-18:00",
+					"Horario" : "15:00-18:00",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "130",
+					"IzenKalea" : "ALDAKOENEA",
+					"X_etrs89" : 583233.5028,
+					"Y_etrs89" : 4796934.6778
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9747398273, 43.3176365201 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "1380",
+					"IzenKalea" : "DUQUE DE MANDAS,PS",
+					"X_etrs89" : 583135.7813,
+					"Y_etrs89" : 4796599.0961
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9777983198, 43.3226791928 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:00 / 15:00-19:00",
+					"Horario" : "8:00-13:00 / 15:00-19:00",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "30",
+					"IzenKalea" : "AGIRRE MIRAMON",
+					"X_etrs89" : 582880.9188,
+					"Y_etrs89" : 4797156.0728
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.976858788, 43.323802696 ]
+				},
+				"properties" : {
+					"Luzera_m" : 35,
+					"Metros_lin" : 35,
+					"Ordutegia" : "8:00-13:00",
+					"Horario" : "8:00-13:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "BERTAKOAK",
+					"Uso" : "RESIDENTES",
+					"KodKalea" : "4920",
+					"IzenKalea" : "USANDIZAGA",
+					"X_etrs89" : 582955.5684,
+					"Y_etrs89" : 4797281.7772
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9764826364, 43.3238367809 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-13:00 / 15:00-19:00",
+					"Horario" : "8:00-13:00 / 15:00-19:00",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "3090",
+					"IzenKalea" : "MIGUEL IMAZ",
+					"X_etrs89" : 582986.0203,
+					"Y_etrs89" : 4797285.9363
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9773452138, 43.3223420433 ]
+				},
+				"properties" : {
+					"Luzera_m" : 35,
+					"Metros_lin" : 35,
+					"Ordutegia" : "8:00-20:00",
+					"Horario" : "8:00-20:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "1150",
+					"IzenKalea" : "COLON,PS DE",
+					"X_etrs89" : 582918.1158,
+					"Y_etrs89" : 4797119.0803
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9773027078, 43.3226085925 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-20:00",
+					"Horario" : "8:00-20:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "1150",
+					"IzenKalea" : "COLON,PS DE",
+					"X_etrs89" : 582921.1997,
+					"Y_etrs89" : 4797148.7243
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9762161242, 43.3224715726 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:00 / 15:00-19:00",
+					"Horario" : "8:00-13:00 / 15:00-19:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "3420",
+					"IzenKalea" : "NUEVA",
+					"X_etrs89" : 583009.488,
+					"Y_etrs89" : 4797134.5871
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9767368416, 43.322191479 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-13:00 / 15:00-19:00",
+					"Horario" : "8:00-13:00 / 15:00-19:00",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "4020",
+					"IzenKalea" : "RONDA",
+					"X_etrs89" : 582967.6486,
+					"Y_etrs89" : 4797102.9636
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9761836288, 43.3231590855 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30 / 15:30-20:00",
+					"Horario" : "8:00-13:30 / 15:30-20:00",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "5060",
+					"IzenKalea" : "ZABALETA",
+					"X_etrs89" : 583011.1866,
+					"Y_etrs89" : 4797210.9716
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9755474551, 43.3221752494 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-13:30 / 15:30-20:00",
+					"Horario" : "8:00-13:30 / 15:30-20:00",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "2220",
+					"IzenKalea" : "IPARRAGIRRE",
+					"X_etrs89" : 583064.1085,
+					"Y_etrs89" : 4797102.3437
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9734940462, 43.3224248464 ]
+				},
+				"properties" : {
+					"Luzera_m" : 10,
+					"Metros_lin" : 10,
+					"Ordutegia" : "8:00-13:00 / 15:00-19:00",
+					"Horario" : "8:00-13:00 / 15:00-19:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "3580",
+					"IzenKalea" : "PADRE LARROCA",
+					"X_etrs89" : 583230.2622,
+					"Y_etrs89" : 4797132.1076
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9723671947, 43.3230484244 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "7:30-9:30",
+					"Horario" : "7:30-9:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "1960",
+					"IzenKalea" : "GRAN VIA",
+					"X_etrs89" : 583320.7769,
+					"Y_etrs89" : 4797202.4833
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.972142243, 43.3228791336 ]
+				},
+				"properties" : {
+					"Luzera_m" : 25,
+					"Metros_lin" : 25,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "1960",
+					"IzenKalea" : "GRAN VIA",
+					"X_etrs89" : 583339.2476,
+					"Y_etrs89" : 4797183.9071
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9738119134, 43.3231582651 ]
+				},
+				"properties" : {
+					"Luzera_m" : 30,
+					"Metros_lin" : 30,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "4450",
+					"IzenKalea" : "SECUNDINO ESNAOLA",
+					"X_etrs89" : 583203.488,
+					"Y_etrs89" : 4797213.2411
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9727269606, 43.3233227268 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "9:00-20:00",
+					"Horario" : "9:00-20:00",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "1960",
+					"IzenKalea" : "GRAN VIA",
+					"X_etrs89" : 583291.232,
+					"Y_etrs89" : 4797232.5872
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.975705231, 43.3244182348 ]
+				},
+				"properties" : {
+					"Luzera_m" : 10,
+					"Metros_lin" : 10,
+					"Ordutegia" : "8:00-13:00 / 15:00-19:00",
+					"Horario" : "8:00-13:00 / 15:00-19:00",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "3910",
+					"IzenKalea" : "RAMON Y CAJAL",
+					"X_etrs89" : 583048.26,
+					"Y_etrs89" : 4797351.283
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9753471584, 43.3243929708 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "1150",
+					"IzenKalea" : "COLON,PS DE",
+					"X_etrs89" : 583077.3266,
+					"Y_etrs89" : 4797348.8335
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9702982714, 43.3227569454 ]
+				},
+				"properties" : {
+					"Luzera_m" : 30,
+					"Metros_lin" : 30,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "3650",
+					"IzenKalea" : "PARTICU. ATEGORRIETA",
+					"X_etrs89" : 583488.9261,
+					"Y_etrs89" : 4797172.1795
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9682544334, 43.3230033837 ]
+				},
+				"properties" : {
+					"Luzera_m" : 25,
+					"Metros_lin" : 25,
+					"Ordutegia" : "9:00-13:30",
+					"Horario" : "9:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "3960",
+					"IzenKalea" : "RENTERIA",
+					"X_etrs89" : 583654.3048,
+					"Y_etrs89" : 4797201.5935
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9680880471, 43.3227875288 ]
+				},
+				"properties" : {
+					"Luzera_m" : 30,
+					"Metros_lin" : 30,
+					"Ordutegia" : "8:00-13:00 / 15:00-19:00",
+					"Horario" : "8:00-13:00 / 15:00-19:00",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "3550",
+					"IzenKalea" : "OIARTZUN",
+					"X_etrs89" : 583668.0918,
+					"Y_etrs89" : 4797177.7883
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9676412226, 43.3223888204 ]
+				},
+				"properties" : {
+					"Luzera_m" : 25,
+					"Metros_lin" : 25,
+					"Ordutegia" : "8:00-13:30 / 15:30-18:00",
+					"Horario" : "8:00-13:30 / 15:30-18:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "3660",
+					"IzenKalea" : "PASAJES",
+					"X_etrs89" : 583704.8683,
+					"Y_etrs89" : 4797133.9573
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9737710728, 43.3248351842 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-13:30 / 15:30-20:00",
+					"Horario" : "8:00-13:30 / 15:30-20:00",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "5060",
+					"IzenKalea" : "ZABALETA",
+					"X_etrs89" : 583204.5105,
+					"Y_etrs89" : 4797399.5132
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.969343931, 43.3231901095 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "2390",
+					"IzenKalea" : "JOSE MARIA SOROA",
+					"X_etrs89" : 583565.7114,
+					"Y_etrs89" : 4797221.2395
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9708566493, 43.3249767151 ]
+				},
+				"properties" : {
+					"Luzera_m" : 25,
+					"Metros_lin" : 25,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "4450",
+					"IzenKalea" : "SECUNDINO ESNAOLA",
+					"X_etrs89" : 583440.6137,
+					"Y_etrs89" : 4797418.1394
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9716297898, 43.3251334738 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-13:00 / 15:00-19:00",
+					"Horario" : "8:00-13:00 / 15:00-19:00",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "4460",
+					"IzenKalea" : "SEGUNDO ISPIZUA",
+					"X_etrs89" : 583377.7144,
+					"Y_etrs89" : 4797434.776
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9719389554, 43.3254778143 ]
+				},
+				"properties" : {
+					"Luzera_m" : 30,
+					"Metros_lin" : 30,
+					"Ordutegia" : "8:00-13:30 / 15:30-18:00",
+					"Horario" : "8:00-13:30 / 15:30-18:00",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "4460",
+					"IzenKalea" : "SEGUNDO ISPIZUA",
+					"X_etrs89" : 583352.177,
+					"Y_etrs89" : 4797472.7083
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9738762463, 43.3255533697 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-13:00 / 15:00-19:00",
+					"Horario" : "8:00-13:00 / 15:00-19:00",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "2540",
+					"IzenKalea" : "LAPURDI,PZ DE",
+					"X_etrs89" : 583195.003,
+					"Y_etrs89" : 4797479.167
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9723349153, 43.3240281644 ]
+				},
+				"properties" : {
+					"Luzera_m" : 25,
+					"Metros_lin" : 25,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "4450",
+					"IzenKalea" : "SECUNDINO ESNAOLA",
+					"X_etrs89" : 583322.055,
+					"Y_etrs89" : 4797311.3212
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.0005920737, 43.3122207611 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30 / 15:30-18:00",
+					"Horario" : "8:00-13:30 / 15:30-18:00",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "1600",
+					"IzenKalea" : "ESCOLTA REAL",
+					"X_etrs89" : 581046.672,
+					"Y_etrs89" : 4795972.2337
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.0004827846, 43.3121762332 ]
+				},
+				"properties" : {
+					"Luzera_m" : 10,
+					"Metros_lin" : 10,
+					"Ordutegia" : "8:00-13:30 / 15:30-18:00",
+					"Horario" : "8:00-13:30 / 15:30-18:00",
+					"Denbora" : 180,
+					"Tiempo" : 180,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "3120",
+					"IzenKalea" : "MIKELETES,PS DE LOS",
+					"X_etrs89" : 581055.594,
+					"Y_etrs89" : 4795967.3947
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.0004024277, 43.3118802432 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30 / 15:30-18:00",
+					"Horario" : "8:00-13:30 / 15:30-18:00",
+					"Denbora" : 180,
+					"Tiempo" : 180,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "1600",
+					"IzenKalea" : "ESCOLTA REAL",
+					"X_etrs89" : 581062.504,
+					"Y_etrs89" : 4795934.6014
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.0015110467, 43.3134020173 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "1600",
+					"IzenKalea" : "ESCOLTA REAL",
+					"X_etrs89" : 580970.5793,
+					"Y_etrs89" : 4796102.5272
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.001576508, 43.3142169712 ]
+				},
+				"properties" : {
+					"Luzera_m" : 25,
+					"Metros_lin" : 25,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 60,
+					"Tiempo" : 60,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "2990",
+					"IzenKalea" : "MATIA",
+					"X_etrs89" : 580964.1888,
+					"Y_etrs89" : 4796192.9688
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.001985166, 43.3141865982 ]
+				},
+				"properties" : {
+					"Luzera_m" : 10,
+					"Metros_lin" : 10,
+					"Ordutegia" : "8:13:30",
+					"Horario" : "8:13:30",
+					"Denbora" : 60,
+					"Tiempo" : 60,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "4570",
+					"IzenKalea" : "SUKIA",
+					"X_etrs89" : 580931.09,
+					"Y_etrs89" : 4796189.1996
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.0031187227, 43.3137151101 ]
+				},
+				"properties" : {
+					"Luzera_m" : 5,
+					"Metros_lin" : 5,
+					"Ordutegia" : "9:00-13:30 / 15:30-20:00",
+					"Horario" : "9:00-13:30 / 15:30-20:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "4480",
+					"IzenKalea" : "SERRANO ANGUITA",
+					"X_etrs89" : 580839.792,
+					"Y_etrs89" : 4796135.7404
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.0031992711, 43.3136769208 ]
+				},
+				"properties" : {
+					"Luzera_m" : 10,
+					"Metros_lin" : 10,
+					"Ordutegia" : "9:00-13:30 / 15:30-20:00",
+					"Horario" : "9:00-13:30 / 15:30-20:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "4480",
+					"IzenKalea" : "SERRANO ANGUITA",
+					"X_etrs89" : 580833.3107,
+					"Y_etrs89" : 4796131.4213
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.0023389178, 43.3137893349 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 60,
+					"Tiempo" : 60,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "2990",
+					"IzenKalea" : "MATIA",
+					"X_etrs89" : 580902.9304,
+					"Y_etrs89" : 4796144.7386
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.002107128, 43.3136931445 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "2020",
+					"IzenKalea" : "HERIZ,PS DE",
+					"X_etrs89" : 580921.8546,
+					"Y_etrs89" : 4796134.2807
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.0038128884, 43.3132063858 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "9:00-13:30 / 15:30-20:00",
+					"Horario" : "9:00-13:30 / 15:30-20:00",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "2450",
+					"IzenKalea" : "JUAN DE GARAI",
+					"X_etrs89" : 580784.1738,
+					"Y_etrs89" : 4796078.5721
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.0032423335, 43.3132321139 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:00",
+					"Horario" : "8:00-13:00",
+					"Denbora" : 60,
+					"Tiempo" : 60,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "2990",
+					"IzenKalea" : "MATIA",
+					"X_etrs89" : 580830.4082,
+					"Y_etrs89" : 4796081.9814
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.0041168151, 43.3126835464 ]
+				},
+				"properties" : {
+					"Luzera_m" : 10,
+					"Metros_lin" : 10,
+					"Ordutegia" : "8:00-13:00",
+					"Horario" : "8:00-13:00",
+					"Denbora" : 60,
+					"Tiempo" : 60,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "2990",
+					"IzenKalea" : "MATIA",
+					"X_etrs89" : 580760.2196,
+					"Y_etrs89" : 4796020.214
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.0044185644, 43.3131844715 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "9:00-13:30 / 15:30-20:00",
+					"Horario" : "9:00-13:30 / 15:30-20:00",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "2820",
+					"IzenKalea" : "MAESTRO GURIDI",
+					"X_etrs89" : 580735.0862,
+					"Y_etrs89" : 4796075.5527
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9805318898, 43.3050208962 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-12:00 / 15:00-18:00",
+					"Horario" : "8:00-12:00 / 15:00-18:00",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "2380",
+					"IzenKalea" : "JOSE M. SALABERRIA",
+					"X_etrs89" : 582683.2164,
+					"Y_etrs89" : 4795192.3125
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.980027268, 43.3037827586 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "BERTAKOAK",
+					"Uso" : "RESIDENTES",
+					"KodKalea" : "1140",
+					"IzenKalea" : "COF. DONOSTIARRAS,PZ",
+					"X_etrs89" : 582725.8227,
+					"Y_etrs89" : 4795055.3104
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9804799846, 43.3042759108 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-20:00",
+					"Horario" : "8:00-20:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "2380",
+					"IzenKalea" : "JOSE M. SALABERRIA",
+					"X_etrs89" : 582688.436,
+					"Y_etrs89" : 4795109.6293
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9801249023, 43.3029901316 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "9:00-13:00 / 15:00-19:00",
+					"Horario" : "9:00-13:00 / 15:00-19:00",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "2380",
+					"IzenKalea" : "JOSE M. SALABERRIA",
+					"X_etrs89" : 582718.9787,
+					"Y_etrs89" : 4794967.1883
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9766477669, 43.3040366944 ]
+				},
+				"properties" : {
+					"Luzera_m" : 12.5,
+					"Metros_lin" : 12.5,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "2270",
+					"IzenKalea" : "ISABEL II,AV DE",
+					"X_etrs89" : 582999.5765,
+					"Y_etrs89" : 4795086.8639
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.975875832, 43.3038111101 ]
+				},
+				"properties" : {
+					"Luzera_m" : 35,
+					"Metros_lin" : 35,
+					"Ordutegia" : "8:00-20:00",
+					"Horario" : "8:00-20:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "2800",
+					"IzenKalea" : "MADRID,AV DE",
+					"X_etrs89" : 583062.4923,
+					"Y_etrs89" : 4795062.5789
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9746949661, 43.3060736188 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 180,
+					"Tiempo" : 180,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "5050",
+					"IzenKalea" : "BIZKAIA,PS DE",
+					"X_etrs89" : 583155.1838,
+					"Y_etrs89" : 4795315.0175
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9731453189, 43.3049310492 ]
+				},
+				"properties" : {
+					"Luzera_m" : 10,
+					"Metros_lin" : 10,
+					"Ordutegia" : "8:00-12:00",
+					"Horario" : "8:00-12:00",
+					"Denbora" : 180,
+					"Tiempo" : 180,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "1220",
+					"IzenKalea" : "CORSARIOS VASCOS",
+					"X_etrs89" : 583282.4254,
+					"Y_etrs89" : 4795189.673
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9733393789, 43.304890299 ]
+				},
+				"properties" : {
+					"Luzera_m" : 5,
+					"Metros_lin" : 5,
+					"Ordutegia" : "8:00-12:00",
+					"Horario" : "8:00-12:00",
+					"Denbora" : 180,
+					"Tiempo" : 180,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "7950",
+					"IzenKalea" : "TORIBIO ALZAGA",
+					"X_etrs89" : 583266.7418,
+					"Y_etrs89" : 4795184.954
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.0067111389, 43.3096922781 ]
+				},
+				"properties" : {
+					"Luzera_m" : 5,
+					"Metros_lin" : 5,
+					"Ordutegia" : "8:00-13:30 / 15:30-20:00",
+					"Horario" : "8:00-13:30 / 15:30-20:00",
+					"Denbora" : 180,
+					"Tiempo" : 180,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "8240",
+					"IzenKalea" : "JOSE GOIKOA",
+					"X_etrs89" : 580553.7849,
+					"Y_etrs89" : 4795685.5121
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.0068396582, 43.3098296947 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-13:30 / 15:30-20:00",
+					"Horario" : "8:00-13:30 / 15:30-20:00",
+					"Denbora" : 180,
+					"Tiempo" : 180,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "8240",
+					"IzenKalea" : "JOSE GOIKOA",
+					"X_etrs89" : 580543.1807,
+					"Y_etrs89" : 4795700.649
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.0051649426, 43.3055466047 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-13:30 / 15:00-18:00",
+					"Horario" : "8:00-13:30 / 15:00-18:00",
+					"Denbora" : 300,
+					"Tiempo" : 300,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "5100",
+					"IzenKalea" : "ZARAUTZ",
+					"X_etrs89" : 580684.6629,
+					"Y_etrs89" : 4795226.6055
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9840137301, 43.320280539 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "2030",
+					"IzenKalea" : "HERNANI",
+					"X_etrs89" : 582380.2064,
+					"Y_etrs89" : 4796883.5382
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.980078207, 43.3167332092 ]
+				},
+				"properties" : {
+					"Luzera_m" : 10,
+					"Metros_lin" : 10,
+					"Ordutegia" : "8:00-13:30 / 15:30-20:00",
+					"Horario" : "8:00-13:30 / 15:30-20:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "BERTAKOAK",
+					"Uso" : "RESIDENTES",
+					"KodKalea" : "4880",
+					"IzenKalea" : "URDANETA",
+					"X_etrs89" : 582704.1279,
+					"Y_etrs89" : 4796493.4776
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9802327987, 43.316044623 ]
+				},
+				"properties" : {
+					"Luzera_m" : 25,
+					"Metros_lin" : 25,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "1770",
+					"IzenKalea" : "HONDARRIBIA",
+					"X_etrs89" : 582692.526,
+					"Y_etrs89" : 4796416.8532
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9718195337, 43.3262267516 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-13:00 / 15:00-19:00",
+					"Horario" : "8:00-13:00 / 15:00-19:00",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "5060",
+					"IzenKalea" : "ZABALETA",
+					"X_etrs89" : 583360.8352,
+					"Y_etrs89" : 4797556.0013
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9725869205, 43.3256880876 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-13:00 / 15:00-19:00",
+					"Horario" : "8:00-13:00 / 15:00-19:00",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "5060",
+					"IzenKalea" : "ZABALETA",
+					"X_etrs89" : 583299.3542,
+					"Y_etrs89" : 4797495.4137
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.981547648, 43.3180640247 ]
+				},
+				"properties" : {
+					"Luzera_m" : 5,
+					"Metros_lin" : 5,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "1770",
+					"IzenKalea" : "HONDARRIBIA",
+					"X_etrs89" : 582583.1696,
+					"Y_etrs89" : 4796639.8178
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9817965449, 43.3184258078 ]
+				},
+				"properties" : {
+					"Luzera_m" : 10,
+					"Metros_lin" : 10,
+					"Ordutegia" : "8:00-20:00",
+					"Horario" : "8:00-20:00",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "1770",
+					"IzenKalea" : "HONDARRIBIA",
+					"X_etrs89" : 582562.4973,
+					"Y_etrs89" : 4796679.7497
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.971307034, 43.3261189732 ]
+				},
+				"properties" : {
+					"Luzera_m" : 30,
+					"Metros_lin" : 30,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"KodKalea" : "3320",
+					"IzenKalea" : "NAVARRA,AV DE",
+					"X_etrs89" : 583402.5344,
+					"Y_etrs89" : 4797544.5437
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9826759672, 43.3169511638 ]
+				},
+				"properties" : {
+					"Luzera_m" : 40,
+					"Metros_lin" : 40,
+					"Ordutegia" : "8:00-20:00",
+					"Horario" : "8:00-20:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "4870",
+					"IzenKalea" : "URBIETA",
+					"X_etrs89" : 582493.1827,
+					"Y_etrs89" : 4796515.1132
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9811510893, 43.3080379025 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "2380",
+					"IzenKalea" : "JOSE M. SALABERRIA",
+					"X_etrs89" : 582628.9093,
+					"Y_etrs89" : 4795526.7544
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9755364982, 43.3250785094 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-20:00",
+					"Horario" : "8:00-20:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "5230",
+					"IzenKalea" : "ZURRIOLA,AV DE",
+					"X_etrs89" : 583061.041,
+					"Y_etrs89" : 4797424.7781
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9343756665, 43.3162075787 ]
+				},
+				"properties" : {
+					"Luzera_m" : 30,
+					"Metros_lin" : 30,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "4750",
+					"IzenKalea" : "TXAPIÑENEA",
+					"X_etrs89" : 586410.8575,
+					"Y_etrs89" : 4796481.3801
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9327410001, 43.3160296581 ]
+				},
+				"properties" : {
+					"Luzera_m" : 30,
+					"Metros_lin" : 30,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "1500",
+					"IzenKalea" : "ELIZASU",
+					"X_etrs89" : 586543.6651,
+					"Y_etrs89" : 4796463.3138
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9326814445, 43.3160393647 ]
+				},
+				"properties" : {
+					"Luzera_m" : 35,
+					"Metros_lin" : 35,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "1500",
+					"IzenKalea" : "ELIZASU",
+					"X_etrs89" : 586548.4807,
+					"Y_etrs89" : 4796464.4535
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.0096530776, 43.3022264691 ]
+				},
+				"properties" : {
+					"Luzera_m" : 30,
+					"Metros_lin" : 30,
+					"Ordutegia" : "8:00-20:00",
+					"Horario" : "8:00-20:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "6760",
+					"IzenKalea" : "PORTUETXE",
+					"X_etrs89" : 580325.0286,
+					"Y_etrs89" : 4794853.5614
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.016557072, 43.301225884 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-20:00",
+					"Horario" : "8:00-20:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "6760",
+					"IzenKalea" : "PORTUETXE",
+					"X_etrs89" : 579766.3645,
+					"Y_etrs89" : 4794735.8254
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9801345906, 43.3139639494 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "BERTAKOAK",
+					"Uso" : "RESIDENTES",
+					"KodKalea" : "3890",
+					"IzenKalea" : "PRIM",
+					"X_etrs89" : 582703.3116,
+					"Y_etrs89" : 4796185.8802
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9799186117, 43.3165779304 ]
+				},
+				"properties" : {
+					"Luzera_m" : 10,
+					"Metros_lin" : 10,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "BERTAKOAK",
+					"Uso" : "RESIDENTES",
+					"KodKalea" : "3890",
+					"IzenKalea" : "PRIM",
+					"X_etrs89" : 582717.28,
+					"Y_etrs89" : 4796476.3911
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9667642834, 43.3103145324 ]
+				},
+				"properties" : {
+					"Luzera_m" : 5,
+					"Metros_lin" : 5,
+					"Ordutegia" : "8:00-13:00",
+					"Horario" : "8:00-13:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "4520",
+					"IzenKalea" : "SIERRA DE URBASA",
+					"X_etrs89" : 583792.5628,
+					"Y_etrs89" : 4795793.92
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9666688899, 43.3107717274 ]
+				},
+				"properties" : {
+					"Luzera_m" : 10,
+					"Metros_lin" : 10,
+					"Ordutegia" : "8:00-13:00",
+					"Horario" : "8:00-13:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "5150",
+					"IzenKalea" : "ZUBIONDO",
+					"X_etrs89" : 583799.6708,
+					"Y_etrs89" : 4795844.7897
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9659569338, 43.3111497069 ]
+				},
+				"properties" : {
+					"Luzera_m" : 10,
+					"Metros_lin" : 10,
+					"Ordutegia" : "8:00-13:00",
+					"Horario" : "8:00-13:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "5150",
+					"IzenKalea" : "ZUBIONDO",
+					"X_etrs89" : 583856.8887,
+					"Y_etrs89" : 4795887.481
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9659251515, 43.3103138991 ]
+				},
+				"properties" : {
+					"Luzera_m" : 25,
+					"Metros_lin" : 25,
+					"Ordutegia" : "8:00-15:30",
+					"Horario" : "8:00-15:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "2730",
+					"IzenKalea" : "LOIOLATARRA",
+					"X_etrs89" : 583860.6154,
+					"Y_etrs89" : 4795794.6919
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9779733752, 43.3219007663 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "3920",
+					"IzenKalea" : "RAMON MARIA LILI,PS",
+					"X_etrs89" : 582867.7832,
+					"Y_etrs89" : 4797069.4504
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9799478344, 43.3156881867 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "BERTAKOAK",
+					"Uso" : "RESIDENTES",
+					"KodKalea" : "3890",
+					"IzenKalea" : "PRIM",
+					"X_etrs89" : 582716.1173,
+					"Y_etrs89" : 4796377.5512
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.0066013039, 43.3114354146 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "8070",
+					"IzenKalea" : "ANTONIO ARZAK",
+					"X_etrs89" : 580560.3898,
+					"Y_etrs89" : 4795879.2027
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.0153318655, 43.3070185706 ]
+				},
+				"properties" : {
+					"Luzera_m" : 7.5,
+					"Metros_lin" : 7.5,
+					"Ordutegia" : "9:00-13:00 / 16:00-18:00",
+					"Horario" : "9:00-13:00 / 16:00-18:00",
+					"Denbora" : 540,
+					"Tiempo" : 540,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "7080",
+					"IzenKalea" : "BERIO,PS DE",
+					"X_etrs89" : 579858.1572,
+					"Y_etrs89" : 4795380.3042
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.0083132049, 43.3090453828 ]
+				},
+				"properties" : {
+					"Luzera_m" : 35,
+					"Metros_lin" : 35,
+					"Ordutegia" : "8:00-15:30",
+					"Horario" : "8:00-15:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "8370",
+					"IzenKalea" : "RESURRECCION M.AZKUE",
+					"X_etrs89" : 580424.7127,
+					"Y_etrs89" : 4795612.127
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.0043427516, 43.3007617192 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "7140",
+					"IzenKalea" : "ERROTABURU,PS DE",
+					"X_etrs89" : 580757.6799,
+					"Y_etrs89" : 4794696.0135
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9722692578, 43.3100106873 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "1555",
+					"IzenKalea" : "HUMBOLDT",
+					"X_etrs89" : 583346.5369,
+					"Y_etrs89" : 4795754.668
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9713873319, 43.3101720996 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "1555",
+					"IzenKalea" : "HUMBOLDT",
+					"X_etrs89" : 583417.8387,
+					"Y_etrs89" : 4795773.4742
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9712575836, 43.3089789773 ]
+				},
+				"properties" : {
+					"Luzera_m" : 10,
+					"Metros_lin" : 10,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "1545",
+					"IzenKalea" : "PABLO SARASATE",
+					"X_etrs89" : 583429.9931,
+					"Y_etrs89" : 4795641.1011
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.980963774, 43.3234343155 ]
+				},
+				"properties" : {
+					"Luzera_m" : 10,
+					"Metros_lin" : 10,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "BERTAKOAK",
+					"Uso" : "RESIDENTES",
+					"KodKalea" : "4090",
+					"IzenKalea" : "SALAMANCA,PS DE",
+					"X_etrs89" : 582623.2362,
+					"Y_etrs89" : 4797236.7963
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9791950307, 43.3089523282 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "4640",
+					"IzenKalea" : "TORCUATO LUCA TENA",
+					"X_etrs89" : 582786.306,
+					"Y_etrs89" : 4795630.2433
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9838191033, 43.3213168179 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "1840",
+					"IzenKalea" : "GARIBAI",
+					"X_etrs89" : 582394.5871,
+					"Y_etrs89" : 4796998.8148
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9706690053, 43.3053567635 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 180,
+					"Tiempo" : 180,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "3790",
+					"IzenKalea" : "PESCADORES TERRANOVA",
+					"X_etrs89" : 583482.684,
+					"Y_etrs89" : 4795239.4229
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9704696632, 43.325230168 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "4450",
+					"IzenKalea" : "SECUNDINO ESNAOLA",
+					"X_etrs89" : 583471.6428,
+					"Y_etrs89" : 4797446.6736
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9811625876, 43.3110137514 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "1570",
+					"IzenKalea" : "ERRONDO,PS DE",
+					"X_etrs89" : 582623.9453,
+					"Y_etrs89" : 4795857.2271
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.981706357, 43.3141992402 ]
+				},
+				"properties" : {
+					"Luzera_m" : 25,
+					"Metros_lin" : 25,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "BERTAKOAK",
+					"Uso" : "RESIDENTES",
+					"KodKalea" : "3230",
+					"IzenKalea" : "MORAZA",
+					"X_etrs89" : 582575.5339,
+					"Y_etrs89" : 4796210.4552
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.975145408, 43.3222500603 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "4450",
+					"IzenKalea" : "SECUNDINO ESNAOLA",
+					"X_etrs89" : 583096.6053,
+					"Y_etrs89" : 4797111.0519
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9706170212, 43.3244477229 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "4460",
+					"IzenKalea" : "SEGUNDO ISPIZUA",
+					"X_etrs89" : 583460.7666,
+					"Y_etrs89" : 4797359.6313
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9696062031, 43.3236660126 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "4460",
+					"IzenKalea" : "SEGUNDO ISPIZUA",
+					"X_etrs89" : 583543.794,
+					"Y_etrs89" : 4797273.8288
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9732390011, 43.30667391 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 180,
+					"Tiempo" : 180,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "1220",
+					"IzenKalea" : "CORSARIOS VASCOS",
+					"X_etrs89" : 583272.448,
+					"Y_etrs89" : 4795383.1336
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.981669327, 43.3142732733 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "BERTAKOAK",
+					"Uso" : "RESIDENTES",
+					"KodKalea" : "3230",
+					"IzenKalea" : "MORAZA",
+					"X_etrs89" : 582578.4365,
+					"Y_etrs89" : 4796218.7136
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.971781832, 43.3120000392 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "1515",
+					"IzenKalea" : "BARCELONA,AV DE",
+					"X_etrs89" : 583383.3463,
+					"Y_etrs89" : 4795976.0829
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.0043296017, 43.3134142559 ]
+				},
+				"properties" : {
+					"Luzera_m" : 25,
+					"Metros_lin" : 25,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "2820",
+					"IzenKalea" : "MAESTRO GURIDI",
+					"X_etrs89" : 580741.9963,
+					"Y_etrs89" : 4796101.1575
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.0061897309, 43.3143601413 ]
+				},
+				"properties" : {
+					"Luzera_m" : 6,
+					"Metros_lin" : 6,
+					"Ordutegia" : "8:00-13:00",
+					"Horario" : "8:00-13:00",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "7440",
+					"IzenKalea" : "ONDARRETA,PS DE",
+					"X_etrs89" : 580589.9017,
+					"Y_etrs89" : 4796204.4065
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.0059352795, 43.3137885098 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "7520",
+					"IzenKalea" : "TRENTO",
+					"X_etrs89" : 580611.2914,
+					"Y_etrs89" : 4796141.1693
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9836581195, 43.3197733202 ]
+				},
+				"properties" : {
+					"Luzera_m" : 43,
+					"Metros_lin" : 43,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "2030",
+					"IzenKalea" : "HERNANI",
+					"X_etrs89" : 582409.7265,
+					"Y_etrs89" : 4796827.5596
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.0045158616, 43.3008689177 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "7140",
+					"IzenKalea" : "ERROTABURU,PS DE",
+					"X_etrs89" : 580743.497,
+					"Y_etrs89" : 4794707.7511
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.0043510335, 43.3047517865 ]
+				},
+				"properties" : {
+					"Luzera_m" : 5,
+					"Metros_lin" : 5,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 300,
+					"Tiempo" : 300,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "5100",
+					"IzenKalea" : "ZARAUTZ",
+					"X_etrs89" : 580751.7264,
+					"Y_etrs89" : 4795139.1233
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9540409041, 43.3126342843 ]
+				},
+				"properties" : {
+					"Luzera_m" : 21,
+					"Metros_lin" : 21,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "LIBRE",
+					"Uso" : "LIBRE",
+					"KodKalea" : "660",
+					"IzenKalea" : "BARATZATEGI",
+					"X_etrs89" : 584821.1742,
+					"Y_etrs89" : 4796064.385
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9442598656, 43.3235917617 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "LIBRE",
+					"Uso" : "LIBRE",
+					"KodKalea" : "4470",
+					"IzenKalea" : "SERAPIO MUJIKA,PS DE",
+					"X_etrs89" : 585598.98,
+					"Y_etrs89" : 4797291.2552
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9842878746, 43.3174251668 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "BERTAKOAK",
+					"Uso" : "RESIDENTES",
+					"KodKalea" : "1390",
+					"IzenKalea" : "EASO",
+					"X_etrs89" : 582361.8346,
+					"Y_etrs89" : 4796566.1628
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9825053196, 43.3222107149 ]
+				},
+				"properties" : {
+					"Luzera_m" : 25,
+					"Metros_lin" : 25,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "2640",
+					"IzenKalea" : "LEGAZPI",
+					"X_etrs89" : 582499.9031,
+					"Y_etrs89" : 4797099.3843
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9732381239, 43.3234421909 ]
+				},
+				"properties" : {
+					"Luzera_m" : 21,
+					"Metros_lin" : 21,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "4450",
+					"IzenKalea" : "SECUNDINO ESNAOLA",
+					"X_etrs89" : 583249.6235,
+					"Y_etrs89" : 4797245.3446
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.0047971751, 43.3121036637 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "8100",
+					"IzenKalea" : "BENTABERRI,PZ DE",
+					"X_etrs89" : 580705.8135,
+					"Y_etrs89" : 4795955.1572
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9799356592, 43.3186771455 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "4960",
+					"IzenKalea" : "BERGARA",
+					"X_etrs89" : 582713.0499,
+					"Y_etrs89" : 4796709.5037
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.0074465554, 43.3104740643 ]
+				},
+				"properties" : {
+					"Luzera_m" : 30,
+					"Metros_lin" : 30,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 180,
+					"Tiempo" : 180,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "8240",
+					"IzenKalea" : "JOSE GOIKOA",
+					"X_etrs89" : 580493.1119,
+					"Y_etrs89" : 4795771.6246
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9709316501, 43.3234015645 ]
+				},
+				"properties" : {
+					"Luzera_m" : 6,
+					"Metros_lin" : 6,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "740",
+					"IzenKalea" : "BERMINGHAM",
+					"X_etrs89" : 583436.6887,
+					"Y_etrs89" : 4797243.135
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9771755585, 43.3057868575 ]
+				},
+				"properties" : {
+					"Luzera_m" : 23.5,
+					"Metros_lin" : 23.5,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "1680",
+					"IzenKalea" : "EUSTASIO AMILIBIA",
+					"X_etrs89" : 582954.3893,
+					"Y_etrs89" : 4795280.7045
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.0089273737, 43.3021902943 ]
+				},
+				"properties" : {
+					"Luzera_m" : 25,
+					"Metros_lin" : 25,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "2100",
+					"IzenKalea" : "IGARA,CM DE",
+					"X_etrs89" : 580383.937,
+					"Y_etrs89" : 4794850.2421
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9393869982, 43.3135904525 ]
+				},
+				"properties" : {
+					"Luzera_m" : 10,
+					"Metros_lin" : 10,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "2570",
+					"IzenKalea" : "LARRATXO,PS DE",
+					"X_etrs89" : 586008.18,
+					"Y_etrs89" : 4796185.5603
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9780261116, 43.3237476829 ]
+				},
+				"properties" : {
+					"Luzera_m" : 30,
+					"Metros_lin" : 30,
+					"Ordutegia" : "8:00-11:00",
+					"Horario" : "8:00-11:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "3740",
+					"IzenKalea" : "PEÑA Y GOÑI",
+					"X_etrs89" : 582860.9968,
+					"Y_etrs89" : 4797274.5086
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9776297911, 43.3231591486 ]
+				},
+				"properties" : {
+					"Luzera_m" : 45,
+					"Metros_lin" : 45,
+					"Ordutegia" : "8:00-11:00",
+					"Horario" : "8:00-11:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "3740",
+					"IzenKalea" : "PEÑA Y GOÑI",
+					"X_etrs89" : 582893.9307,
+					"Y_etrs89" : 4797209.5419
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9805106844, 43.3187161224 ]
+				},
+				"properties" : {
+					"Luzera_m" : 50,
+					"Metros_lin" : 50,
+					"Ordutegia" : "8:00-11:00",
+					"Horario" : "8:00-11:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "470",
+					"IzenKalea" : "ARRASATE",
+					"X_etrs89" : 582666.3702,
+					"Y_etrs89" : 4796713.2629
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9757944717, 43.323561891 ]
+				},
+				"properties" : {
+					"Luzera_m" : 10,
+					"Metros_lin" : 10,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "2770",
+					"IzenKalea" : "LUISES OBREROS,PZ",
+					"X_etrs89" : 583042.191,
+					"Y_etrs89" : 4797256.0924
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9862893102, 43.3160379673 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "BERTAKOAK",
+					"Uso" : "RESIDENTES",
+					"KodKalea" : "2890",
+					"IzenKalea" : "MARINA",
+					"X_etrs89" : 582201.4117,
+					"Y_etrs89" : 4796410.1346
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9814987077, 43.3218825204 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-20:00",
+					"Horario" : "8:00-20:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "720",
+					"IzenKalea" : "BENGOETXEA",
+					"X_etrs89" : 582581.9657,
+					"Y_etrs89" : 4797063.9315
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9873502233, 43.3236295927 ]
+				},
+				"properties" : {
+					"Luzera_m" : 35,
+					"Metros_lin" : 35,
+					"Ordutegia" : "11:30-7:00",
+					"Horario" : "11:30-7:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "5010",
+					"IzenKalea" : "VIRGEN DEL CORO",
+					"X_etrs89" : 582105.158,
+					"Y_etrs89" : 4797252.1832
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9821672264, 43.3249608106 ]
+				},
+				"properties" : {
+					"Luzera_m" : 10,
+					"Metros_lin" : 10,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "BERTAKOAK",
+					"Uso" : "RESIDENTES",
+					"KodKalea" : "4090",
+					"IzenKalea" : "SALAMANCA,PS DE",
+					"X_etrs89" : 582523.5934,
+					"Y_etrs89" : 4797405.1321
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9745893287, 43.319178228 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-20:00",
+					"Horario" : "8:00-20:00",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "1380",
+					"IzenKalea" : "DUQUE DE MANDAS,PS",
+					"X_etrs89" : 583145.8825,
+					"Y_etrs89" : 4796770.4612
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9745861223, 43.3184255771 ]
+				},
+				"properties" : {
+					"Luzera_m" : 25,
+					"Metros_lin" : 25,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "1380",
+					"IzenKalea" : "DUQUE DE MANDAS,PS",
+					"X_etrs89" : 583147.1689,
+					"Y_etrs89" : 4796686.8783
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9726902655, 43.3167310959 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "4150",
+					"IzenKalea" : "SAN CRISTOBAL",
+					"X_etrs89" : 583303.2132,
+					"Y_etrs89" : 4796500.5862
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9760926955, 43.3086138247 ]
+				},
+				"properties" : {
+					"Luzera_m" : 5,
+					"Metros_lin" : 5,
+					"Ordutegia" : "9:00-17:00",
+					"Horario" : "9:00-17:00",
+					"Denbora" : 60,
+					"Tiempo" : 60,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "4910",
+					"IzenKalea" : "URUMEA,PS DEL",
+					"X_etrs89" : 583038.3649,
+					"Y_etrs89" : 4795595.7304
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9778633748, 43.3123747777 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "1120",
+					"IzenKalea" : "FEDERICO G. LORCA,PS",
+					"X_etrs89" : 582889.6511,
+					"Y_etrs89" : 4796011.6457
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.0071052149, 43.3118672374 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 180,
+					"Tiempo" : 180,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "8090",
+					"IzenKalea" : "LOURDES IRIONDO, PZ",
+					"X_etrs89" : 580518.9544,
+					"Y_etrs89" : 4795926.673
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9835281005, 43.3251989698 ]
+				},
+				"properties" : {
+					"Luzera_m" : 10,
+					"Metros_lin" : 10,
+					"Ordutegia" : "8:00-20:00",
+					"Horario" : "8:00-20:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "BERTAKOAK",
+					"Uso" : "RESIDENTES",
+					"KodKalea" : "140",
+					"IzenKalea" : "ALDAMAR",
+					"X_etrs89" : 582412.9341,
+					"Y_etrs89" : 4797430.2369
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9806485612, 43.3056745406 ]
+				},
+				"properties" : {
+					"Luzera_m" : 10,
+					"Metros_lin" : 10,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "2380",
+					"IzenKalea" : "JOSE M. SALABERRIA",
+					"X_etrs89" : 582672.8679,
+					"Y_etrs89" : 4795264.7877
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9817417949, 43.3151704046 ]
+				},
+				"properties" : {
+					"Luzera_m" : 10,
+					"Metros_lin" : 10,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "BERTAKOAK",
+					"Uso" : "RESIDENTES",
+					"KodKalea" : "2550",
+					"IzenKalea" : "LARRAMENDI",
+					"X_etrs89" : 582571.3451,
+					"Y_etrs89" : 4796318.2733
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9693709879, 43.3169994906 ]
+				},
+				"properties" : {
+					"Luzera_m" : 30,
+					"Metros_lin" : 30,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 180,
+					"Tiempo" : 180,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "290",
+					"IzenKalea" : "AMETZAGAÑA",
+					"X_etrs89" : 583572.003,
+					"Y_etrs89" : 4796533.7094
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.0093590553, 43.312612668 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "BERTAKOAK",
+					"Uso" : "RESIDENTES",
+					"KodKalea" : "7410",
+					"IzenKalea" : "MAULEON",
+					"X_etrs89" : 580335.1958,
+					"Y_etrs89" : 4796007.2866
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9714291723, 43.3167644147 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "5000",
+					"IzenKalea" : "VIRGEN DEL CARMEN",
+					"X_etrs89" : 583405.4287,
+					"Y_etrs89" : 4796505.5452
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9709945596, 43.3169931338 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "5000",
+					"IzenKalea" : "VIRGEN DEL CARMEN",
+					"X_etrs89" : 583440.3581,
+					"Y_etrs89" : 4796531.3799
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9704455133, 43.3165250055 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "290",
+					"IzenKalea" : "AMETZAGAÑA",
+					"X_etrs89" : 583485.5206,
+					"Y_etrs89" : 4796479.9404
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9714274257, 43.3160842465 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "290",
+					"IzenKalea" : "AMETZAGAÑA",
+					"X_etrs89" : 583406.5007,
+					"Y_etrs89" : 4796430.0105
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9689641143, 43.3166034873 ]
+				},
+				"properties" : {
+					"Luzera_m" : 10,
+					"Metros_lin" : 10,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 180,
+					"Tiempo" : 180,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "4000",
+					"IzenKalea" : "RIO DEBA",
+					"X_etrs89" : 583605.5389,
+					"Y_etrs89" : 4796490.1383
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9663231403, 43.3190164904 ]
+				},
+				"properties" : {
+					"Luzera_m" : 10,
+					"Metros_lin" : 10,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 180,
+					"Tiempo" : 180,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "5000",
+					"IzenKalea" : "VIRGEN DEL CARMEN",
+					"X_etrs89" : 583816.3768,
+					"Y_etrs89" : 4796760.7632
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9706723147, 43.3171372478 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "5000",
+					"IzenKalea" : "VIRGEN DEL CARMEN",
+					"X_etrs89" : 583466.2913,
+					"Y_etrs89" : 4796547.7066
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9700109196, 43.3173665332 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "8450",
+					"IzenKalea" : "L. MARTIN-SANTOS,PZ",
+					"X_etrs89" : 583519.6089,
+					"Y_etrs89" : 4796573.8313
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9691556463, 43.3177432414 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "5000",
+					"IzenKalea" : "VIRGEN DEL CARMEN",
+					"X_etrs89" : 583588.4452,
+					"Y_etrs89" : 4796616.5226
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9686806863, 43.3179455704 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "5000",
+					"IzenKalea" : "VIRGEN DEL CARMEN",
+					"X_etrs89" : 583626.6812,
+					"Y_etrs89" : 4796639.4679
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9736803665, 43.3164736859 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "1440",
+					"IzenKalea" : "EGIA",
+					"X_etrs89" : 583223.278,
+					"Y_etrs89" : 4796471.0122
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.977008794, 43.3182633477 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 180,
+					"Tiempo" : 180,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "1760",
+					"IzenKalea" : "FRANCIA,PS DE",
+					"X_etrs89" : 582950.9425,
+					"Y_etrs89" : 4796666.4524
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.983176811, 43.3218094064 ]
+				},
+				"properties" : {
+					"Luzera_m" : 80,
+					"Metros_lin" : 80,
+					"Ordutegia" : "08:00-11:00",
+					"Horario" : "08:00-11:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "1480",
+					"IzenKalea" : "ELKANO",
+					"X_etrs89" : 582446,
+					"Y_etrs89" : 4797054.1535
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9826215774, 43.3210091734 ]
+				},
+				"properties" : {
+					"Luzera_m" : 80,
+					"Metros_lin" : 80,
+					"Ordutegia" : "08:00-11:00",
+					"Horario" : "08:00-11:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "1.980",
+					"IzenKalea" : "GIPUZKOA,PZ DE",
+					"X_etrs89" : 582492.1025,
+					"Y_etrs89" : 4796965.8315
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9827589493, 43.3204434973 ]
+				},
+				"properties" : {
+					"Luzera_m" : 80,
+					"Metros_lin" : 80,
+					"Ordutegia" : "08:00-11:00",
+					"Horario" : "08:00-11:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "330",
+					"IzenKalea" : "ANDIA",
+					"X_etrs89" : 582481.7292,
+					"Y_etrs89" : 4796902.8743
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9819283735, 43.3207561519 ]
+				},
+				"properties" : {
+					"Luzera_m" : 80,
+					"Metros_lin" : 80,
+					"Ordutegia" : "08:00-11:00",
+					"Horario" : "08:00-11:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "1.980",
+					"IzenKalea" : "GIPUZKOA,PZ DE",
+					"X_etrs89" : 582548.6525,
+					"Y_etrs89" : 4796938.4171
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9820659994, 43.320236482 ]
+				},
+				"properties" : {
+					"Luzera_m" : 80,
+					"Metros_lin" : 80,
+					"Ordutegia" : "08:00-11:00",
+					"Horario" : "08:00-11:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "1.280",
+					"IzenKalea" : "TXURRUKA",
+					"X_etrs89" : 582538.1968,
+					"Y_etrs89" : 4796880.5688
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9798440976, 43.321001177 ]
+				},
+				"properties" : {
+					"Luzera_m" : 80,
+					"Metros_lin" : 80,
+					"Ordutegia" : "08:00-11:00",
+					"Horario" : "08:00-11:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "4.390",
+					"IzenKalea" : "SANTA CATALINA",
+					"X_etrs89" : 582717.3212,
+					"Y_etrs89" : 4796967.6911
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9815361912, 43.3195352294 ]
+				},
+				"properties" : {
+					"Luzera_m" : 50,
+					"Metros_lin" : 50,
+					"Ordutegia" : "08:00-11:00",
+					"Horario" : "08:00-11:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "1.970",
+					"IzenKalea" : "GETARIA",
+					"X_etrs89" : 582582.1059,
+					"Y_etrs89" : 4796803.2146
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9811663353, 43.3190360682 ]
+				},
+				"properties" : {
+					"Luzera_m" : 50,
+					"Metros_lin" : 50,
+					"Ordutegia" : "08:00-11:00",
+					"Horario" : "08:00-11:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "1.970",
+					"IzenKalea" : "GETARIA",
+					"X_etrs89" : 582612.7722,
+					"Y_etrs89" : 4796748.1458
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9807975326, 43.3184742564 ]
+				},
+				"properties" : {
+					"Luzera_m" : 50,
+					"Metros_lin" : 50,
+					"Ordutegia" : "08:00-11:00",
+					"Horario" : "08:00-11:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "1.970",
+					"IzenKalea" : "GETARIA",
+					"X_etrs89" : 582643.4385,
+					"Y_etrs89" : 4796686.1184
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.981925859, 43.3188482841 ]
+				},
+				"properties" : {
+					"Luzera_m" : 50,
+					"Metros_lin" : 50,
+					"Ordutegia" : "08:00-11:00",
+					"Horario" : "08:00-11:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "4.270",
+					"IzenKalea" : "SAN MARCIAL",
+					"X_etrs89" : 582551.4396,
+					"Y_etrs89" : 4796726.5402
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9810609268, 43.3191732302 ]
+				},
+				"properties" : {
+					"Luzera_m" : 50,
+					"Metros_lin" : 50,
+					"Ordutegia" : "08:00-11:00",
+					"Horario" : "08:00-11:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "4.270",
+					"IzenKalea" : "SAN MARCIAL",
+					"X_etrs89" : 582621.1335,
+					"Y_etrs89" : 4796763.4827
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9803258609, 43.319436579 ]
+				},
+				"properties" : {
+					"Luzera_m" : 50,
+					"Metros_lin" : 50,
+					"Ordutegia" : "08:00-11:00",
+					"Horario" : "08:00-11:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "4.270",
+					"IzenKalea" : "SAN MARCIAL",
+					"X_etrs89" : 582680.3799,
+					"Y_etrs89" : 4796793.4566
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9816342155, 43.3182997654 ]
+				},
+				"properties" : {
+					"Luzera_m" : 50,
+					"Metros_lin" : 50,
+					"Ordutegia" : "08:00-11:00",
+					"Horario" : "08:00-11:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "470",
+					"IzenKalea" : "ARRASATE",
+					"X_etrs89" : 582575.8308,
+					"Y_etrs89" : 4796665.9125
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9745207581, 43.3232065759 ]
+				},
+				"properties" : {
+					"Luzera_m" : 40,
+					"Metros_lin" : 40,
+					"Ordutegia" : "08:00-11:00",
+					"Horario" : "08:00-11:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "3.580",
+					"IzenKalea" : "PADRE LARROCA",
+					"X_etrs89" : 583145.9485,
+					"Y_etrs89" : 4797217.9002
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9754733906, 43.3227820859 ]
+				},
+				"properties" : {
+					"Luzera_m" : 80,
+					"Metros_lin" : 80,
+					"Ordutegia" : "08:00-11:00",
+					"Horario" : "08:00-11:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "4.160",
+					"IzenKalea" : "SAN FRANCISCO",
+					"X_etrs89" : 583069.2869,
+					"Y_etrs89" : 4797169.81
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9735080034, 43.3241325963 ]
+				},
+				"properties" : {
+					"Luzera_m" : 80,
+					"Metros_lin" : 80,
+					"Ordutegia" : "08:00-11:00",
+					"Horario" : "08:00-11:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "4.160",
+					"IzenKalea" : "SAN FRANCISCO",
+					"X_etrs89" : 583226.799,
+					"Y_etrs89" : 4797321.749
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9725078804, 43.3248202416 ]
+				},
+				"properties" : {
+					"Luzera_m" : 80,
+					"Metros_lin" : 80,
+					"Ordutegia" : "08:00-11:00",
+					"Horario" : "08:00-11:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "4.160",
+					"IzenKalea" : "SAN FRANCISCO",
+					"X_etrs89" : 583306.9486,
+					"Y_etrs89" : 4797399.1133
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9716640947, 43.3254089036 ]
+				},
+				"properties" : {
+					"Luzera_m" : 80,
+					"Metros_lin" : 80,
+					"Ordutegia" : "08:00-11:00",
+					"Horario" : "08:00-11:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "4.160",
+					"IzenKalea" : "SAN FRANCISCO",
+					"X_etrs89" : 583374.5563,
+					"Y_etrs89" : 4797465.3298
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9746379898, 43.323389661 ]
+				},
+				"properties" : {
+					"Luzera_m" : 80,
+					"Metros_lin" : 80,
+					"Ordutegia" : "08:00-11:00",
+					"Horario" : "08:00-11:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "4.160",
+					"IzenKalea" : "SAN FRANCISCO",
+					"X_etrs89" : 583136.1936,
+					"Y_etrs89" : 4797238.1161
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9735252425, 43.3226014884 ]
+				},
+				"properties" : {
+					"Luzera_m" : 80,
+					"Metros_lin" : 80,
+					"Ordutegia" : "08:00-11:00",
+					"Horario" : "08:00-11:00",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "1.000",
+					"IzenKalea" : "KARKIZANO",
+					"X_etrs89" : 583227.4916,
+					"Y_etrs89" : 4797151.6936
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9844934831, 43.3177248013 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "BERTAKOAK",
+					"Uso" : "RESIDENTES",
+					"KodKalea" : "1390",
+					"IzenKalea" : "EASO",
+					"X_etrs89" : 582344.7575,
+					"Y_etrs89" : 4796599.2361
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9848056735, 43.3167785198 ]
+				},
+				"properties" : {
+					"Luzera_m" : 15,
+					"Metros_lin" : 15,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "BERTAKOAK",
+					"Uso" : "RESIDENTES",
+					"KodKalea" : "2840",
+					"IzenKalea" : "MANTEROLA",
+					"X_etrs89" : 582318.4368,
+					"Y_etrs89" : 4796493.2677
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.0048860049, 43.3201067356 ]
+				},
+				"properties" : {
+					"Luzera_m" : 25,
+					"Metros_lin" : 25,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "3710",
+					"IzenKalea" : "EDUARDO CHILLIDA,PS",
+					"X_etrs89" : 580688.019,
+					"Y_etrs89" : 4796843.8563
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9808315812, 43.3233907354 ]
+				},
+				"properties" : {
+					"Luzera_m" : 16,
+					"Metros_lin" : 16,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "BERTAKOAK",
+					"Uso" : "RESIDENTES",
+					"KodKalea" : "4090",
+					"IzenKalea" : "SALAMANCA,PS DE",
+					"X_etrs89" : 582634.0135,
+					"Y_etrs89" : 4797232.0873
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9780528921, 43.3241399886 ]
+				},
+				"properties" : {
+					"Luzera_m" : 16,
+					"Metros_lin" : 16,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"Erabilera" : "MISTOA",
+					"Uso" : "MIXTO",
+					"KodKalea" : "5230",
+					"IzenKalea" : "ZURRIOLA,AV DE",
+					"X_etrs89" : 582858.2922,
+					"Y_etrs89" : 4797318.0498
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.007577318, 43.3071285986 ]
+				},
+				"properties" : {
+					"Luzera_m" : 8,
+					"Metros_lin" : 8,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "01385",
+					"IzenKalea" : "EUGENIO IMAZ K.",
+					"X_etrs89" : 580486.922,
+					"Y_etrs89" : 4795399.9668
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -2.0020153304, 43.3016743815 ]
+				},
+				"properties" : {
+					"Luzera_m" : 10.5,
+					"Metros_lin" : 10.5,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 90,
+					"Tiempo" : 90,
+					"Erabilera" : "ORDAINEKOA",
+					"Uso" : "PAGO OBLIGATORIO",
+					"KodKalea" : "05100",
+					"IzenKalea" : "ZARAUTZ K.",
+					"X_etrs89" : 580945.2471,
+					"Y_etrs89" : 4794799.6221
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9845545637, 43.2918360957 ]
+				},
+				"properties" : {
+					"Luzera_m" : 12,
+					"Metros_lin" : 12,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "06830",
+					"IzenKalea" : "MIKELETEGI PAS.",
+					"X_etrs89" : 582374.757,
+					"Y_etrs89" : 4793724.0979
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9340161773, 43.317802676 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "00750",
+					"IzenKalea" : "TXIRRITA PAS.",
+					"X_etrs89" : 586437.7472,
+					"Y_etrs89" : 4796658.8967
+				}
+			},
+			{
+				"type" : "Feature",
+				"geometry" : {
+					"type" : "Point",
+					"coordinates" : [ -1.9689271428, 43.2912780515 ]
+				},
+				"properties" : {
+					"Luzera_m" : 20,
+					"Metros_lin" : 20,
+					"Ordutegia" : "8:00-13:30",
+					"Horario" : "8:00-13:30",
+					"Denbora" : 0,
+					"Tiempo" : 0,
+					"KodKalea" : "01320",
+					"IzenKalea" : "BEGIRISTAIN DOK PAS.",
+					"X_etrs89" : 582374.757,
+					"Y_etrs89" : 4793724.0979
+				}
+			}
+		]
+	}
+}

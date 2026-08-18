@@ -1,0 +1,944 @@
+[
+ {
+   "Direccion": "Ctra de Loeches, 51",
+   "Latitud": 40.304097558901,
+   "Longitud": -3.44505548389231,
+   "Coordenadas": "40.304097558901, -3.44505548389231"
+ },
+ {
+   "Direccion": "Parking Metro",
+   "Latitud": 40.3036125835102,
+   "Longitud": -3.44700145853453,
+   "Coordenadas": "40.3036125835102, -3.44700145853453"
+ },
+ {
+   "Direccion": "Parking Metro",
+   "Latitud": 40.3036340572965,
+   "Longitud": -3.44700165067703,
+   "Coordenadas": "40.3036340572965, -3.44700165067703"
+ },
+ {
+   "Direccion": "Parking Metro",
+   "Latitud": 40.30365963173,
+   "Longitud": -3.44700450573791,
+   "Coordenadas": "40.30365963173, -3.44700450573791"
+ },
+ {
+   "Direccion": "Parking Metro",
+   "Latitud": 40.3035870468371,
+   "Longitud": -3.44699862373033,
+   "Coordenadas": "40.3035870468371, -3.44699862373033"
+ },
+ {
+   "Direccion": "Calle  Flor de Lis, 1",
+   "Latitud": 40.3036142008081,
+   "Longitud": -3.44345987212414,
+   "Coordenadas": "40.3036142008081, -3.44345987212414"
+ },
+ {
+   "Direccion": "Calle  Miralparque, 3",
+   "Latitud": 40.3036864997997,
+   "Longitud": -3.44299485256291,
+   "Coordenadas": "40.3036864997997, -3.44299485256291"
+ },
+ {
+   "Direccion": "Calle  Miralparque, 15",
+   "Latitud": 40.3036100484656,
+   "Longitud": -3.44265246797915,
+   "Coordenadas": "40.3036100484656, -3.44265246797915"
+ },
+ {
+   "Direccion": "Urb  Gran Hábitat, 4",
+   "Latitud": 40.3038660401144,
+   "Longitud": -3.44091458082429,
+   "Coordenadas": "40.3038660401144, -3.44091458082429"
+ },
+ {
+   "Direccion": "Urb  Gran Hábitat, 7",
+   "Latitud": 40.3036458596565,
+   "Longitud": -3.44031060391646,
+   "Coordenadas": "40.3036458596565, -3.44031060391646"
+ },
+ {
+   "Direccion": "Urb  Gran Hábitat, 7",
+   "Latitud": 40.303613501003,
+   "Longitud": -3.44021637971013,
+   "Coordenadas": "40.303613501003, -3.44021637971013"
+ },
+ {
+   "Direccion": "Calle  Doctor Marañón, 3",
+   "Latitud": 40.3035094024722,
+   "Longitud": -3.43833542345042,
+   "Coordenadas": "40.3035094024722, -3.43833542345042"
+ },
+ {
+   "Direccion": "Calle  Puerta del Campo, 35",
+   "Latitud": 40.3031909045959,
+   "Longitud": -3.43690606755502,
+   "Coordenadas": "40.3031909045959, -3.43690606755502"
+ },
+ {
+   "Direccion": "Calle  Doctor Ochoa, 7",
+   "Latitud": 40.3033014400538,
+   "Longitud": -3.43882124085429,
+   "Coordenadas": "40.3033014400538, -3.43882124085429"
+ },
+ {
+   "Direccion": "Calle  Jacinto Benavente, 5",
+   "Latitud": 40.3032442630038,
+   "Longitud": -3.43923139285243,
+   "Coordenadas": "40.3032442630038, -3.43923139285243"
+ },
+ {
+   "Direccion": "Calle  Jacinto Benavente, 1",
+   "Latitud": 40.3029609427001,
+   "Longitud": -3.43934596413787,
+   "Coordenadas": "40.3029609427001, -3.43934596413787"
+ },
+ {
+   "Direccion": "Calle  Doctor Barraquer, 1",
+   "Latitud": 40.3029899867314,
+   "Longitud": -3.43974200838297,
+   "Coordenadas": "40.3029899867314, -3.43974200838297"
+ },
+ {
+   "Direccion": "Calle  Francisco Rabal, 19",
+   "Latitud": 40.303019202136,
+   "Longitud": -3.4418665551514,
+   "Coordenadas": "40.303019202136, -3.4418665551514"
+ },
+ {
+   "Direccion": "Calle  Inmaculada Concepción, 1",
+   "Latitud": 40.302624927755,
+   "Longitud": -3.44695887045929,
+   "Coordenadas": "40.302624927755, -3.44695887045929"
+ },
+ {
+   "Direccion": "Calle  Virgen de los Reyes, 3",
+   "Latitud": 40.3025587211726,
+   "Longitud": -3.44652421610918,
+   "Coordenadas": "40.3025587211726, -3.44652421610918"
+ },
+ {
+   "Direccion": "Calle  Virgen del Rosario, 3",
+   "Latitud": 40.302374087487,
+   "Longitud": -3.44620058909624,
+   "Coordenadas": "40.302374087487, -3.44620058909624"
+ },
+ {
+   "Direccion": "Calle  Virgen del Rosario, 8",
+   "Latitud": 40.3024857512257,
+   "Longitud": -3.4459814332383,
+   "Coordenadas": "40.3024857512257, -3.4459814332383"
+ },
+ {
+   "Direccion": "Parking Era Vedia",
+   "Latitud": 40.3020702452896,
+   "Longitud": -3.44337713099925,
+   "Coordenadas": "40.3020702452896, -3.44337713099925"
+ },
+ {
+   "Direccion": "Calle  Santa Teresa, 3",
+   "Latitud": 40.3026482241788,
+   "Longitud": -3.44110323521463,
+   "Coordenadas": "40.3026482241788, -3.44110323521463"
+ },
+ {
+   "Direccion": "Calle  Dulcinea del Toboso, 5",
+   "Latitud": 40.3022432834001,
+   "Longitud": -3.44004510038364,
+   "Coordenadas": "40.3022432834001, -3.44004510038364"
+ },
+ {
+   "Direccion": "Calle  Don Diego, 31",
+   "Latitud": 40.3021953674494,
+   "Longitud": -3.43887818411841,
+   "Coordenadas": "40.3021953674494, -3.43887818411841"
+ },
+ {
+   "Direccion": "Calle  Escultor José Ginés, 2",
+   "Latitud": 40.3017614426085,
+   "Longitud": -3.44455720125997,
+   "Coordenadas": "40.3017614426085, -3.44455720125997"
+ },
+ {
+   "Direccion": "Calle de los Ángeles, 10",
+   "Latitud": 40.301687799474,
+   "Longitud": -3.44243077683677,
+   "Coordenadas": "40.301687799474, -3.44243077683677"
+ },
+ {
+   "Direccion": "Calle  Don Quijote de la Mancha, 4",
+   "Latitud": 40.3011247579486,
+   "Longitud": -3.44425279133455,
+   "Coordenadas": "40.3011247579486, -3.44425279133455"
+ },
+ {
+   "Direccion": "Calle  Juan de la Cierva, 2",
+   "Latitud": 40.3009583162777,
+   "Longitud": -3.4385320608277,
+   "Coordenadas": "40.3009583162777, -3.4385320608277"
+ },
+ {
+   "Direccion": "Plaza de la Solanilla, 1",
+   "Latitud": 40.3010222705317,
+   "Longitud": -3.4375183458782,
+   "Coordenadas": "40.3010222705317, -3.4375183458782"
+ },
+ {
+   "Direccion": "Ronda del Olivar, 47",
+   "Latitud": 40.3013590004684,
+   "Longitud": -3.43471831066275,
+   "Coordenadas": "40.3013590004684, -3.43471831066275"
+ },
+ {
+   "Direccion": "Calle  Real, 52",
+   "Latitud": 40.2999896151017,
+   "Longitud": -3.43606547592939,
+   "Coordenadas": "40.2999896151017, -3.43606547592939"
+ },
+ {
+   "Direccion": "Calle  Real, 66",
+   "Latitud": 40.2995077830083,
+   "Longitud": -3.43482764293806,
+   "Coordenadas": "40.2995077830083, -3.43482764293806"
+ },
+ {
+   "Direccion": "Calle  Real, 110",
+   "Latitud": 40.2982689255745,
+   "Longitud": -3.4315709919557,
+   "Coordenadas": "40.2982689255745, -3.4315709919557"
+ },
+ {
+   "Direccion": "Calle de las Heras, 21",
+   "Latitud": 40.2982005696144,
+   "Longitud": -3.43401786258559,
+   "Coordenadas": "40.2982005696144, -3.43401786258559"
+ },
+ {
+   "Direccion": "Calle  Quevedo, 17",
+   "Latitud": 40.2989354288855,
+   "Longitud": -3.43705011215634,
+   "Coordenadas": "40.2989354288855, -3.43705011215634"
+ },
+ {
+   "Direccion": "Calle  Palomar, 2",
+   "Latitud": 40.2992809199268,
+   "Longitud": -3.44191832916933,
+   "Coordenadas": "40.2992809199268, -3.44191832916933"
+ },
+ {
+   "Direccion": "Calle  Pablo Iglesias, 1",
+   "Latitud": 40.3009357419842,
+   "Longitud": -3.44338200007055,
+   "Coordenadas": "40.3009357419842, -3.44338200007055"
+ },
+ {
+   "Direccion": "Calle  Leonor de Cortinas, 12",
+   "Latitud": 40.3004993817339,
+   "Longitud": -3.44336738414427,
+   "Coordenadas": "40.3004993817339, -3.44336738414427"
+ },
+ {
+   "Direccion": "Calle  Leonor de Cortinas, 7",
+   "Latitud": 40.3006399262047,
+   "Longitud": -3.44480089901103,
+   "Coordenadas": "40.3006399262047, -3.44480089901103"
+ },
+ {
+   "Direccion": "Calle  Cortinas de Cervantes, 4",
+   "Latitud": 40.3008646554899,
+   "Longitud": -3.44697636221219,
+   "Coordenadas": "40.3008646554899, -3.44697636221219"
+ },
+ {
+   "Direccion": "Calle  Catamarán, 3",
+   "Latitud": 40.2947158007371,
+   "Longitud": -3.43724633349118,
+   "Coordenadas": "40.2947158007371, -3.43724633349118"
+ },
+ {
+   "Direccion": "Calle del Velero, 2",
+   "Latitud": 40.2963202609865,
+   "Longitud": -3.43291724686684,
+   "Coordenadas": "40.2963202609865, -3.43291724686684"
+ },
+ {
+   "Direccion": "Calle  Mar de Alborán, 1",
+   "Latitud": 40.2959489977682,
+   "Longitud": -3.43236357787941,
+   "Coordenadas": "40.2959489977682, -3.43236357787941"
+ },
+ {
+   "Direccion": "Col de los Almendros, 10",
+   "Latitud": 40.2912022924103,
+   "Longitud": -3.4425646721463,
+   "Coordenadas": "40.2912022924103, -3.4425646721463"
+ },
+ {
+   "Direccion": "Col de los Almendros, 13",
+   "Latitud": 40.2913004668155,
+   "Longitud": -3.44229159944086,
+   "Coordenadas": "40.2913004668155, -3.44229159944086"
+ },
+ {
+   "Direccion": "Col de los Almendros, 11",
+   "Latitud": 40.2912395313569,
+   "Longitud": -3.44218438704598,
+   "Coordenadas": "40.2912395313569, -3.44218438704598"
+ },
+ {
+   "Direccion": "Calle  Monte Acho, 9",
+   "Latitud": 40.3153673509215,
+   "Longitud": -3.48224675581625,
+   "Coordenadas": "40.3153673509215, -3.48224675581625"
+ },
+ {
+   "Direccion": "Calle  Monte Real, 5",
+   "Latitud": 40.315602438223,
+   "Longitud": -3.48115265947797,
+   "Coordenadas": "40.315602438223, -3.48115265947797"
+ },
+ {
+   "Direccion": "Calle  Monte Alto, 2",
+   "Latitud": 40.3153188038731,
+   "Longitud": -3.48085481708682,
+   "Coordenadas": "40.3153188038731, -3.48085481708682"
+ },
+ {
+   "Direccion": "Calle  Isla Graciosa, 16",
+   "Latitud": 40.3145386311873,
+   "Longitud": -3.47970025904684,
+   "Coordenadas": "40.3145386311873, -3.47970025904684"
+ },
+ {
+   "Direccion": "Calle  Formentera, 1",
+   "Latitud": 40.3133650738321,
+   "Longitud": -3.47837509010656,
+   "Coordenadas": "40.3133650738321, -3.47837509010656"
+ },
+ {
+   "Direccion": "Calle  Formentera, 1",
+   "Latitud": 40.3132598624318,
+   "Longitud": -3.47841046562605,
+   "Coordenadas": "40.3132598624318, -3.47841046562605"
+ },
+ {
+   "Direccion": "Calle  Mallorca, 1",
+   "Latitud": 40.3134012160924,
+   "Longitud": -3.47631660742514,
+   "Coordenadas": "40.3134012160924, -3.47631660742514"
+ },
+ {
+   "Direccion": "Calle  Mallorca, 1",
+   "Latitud": 40.3133070944935,
+   "Longitud": -3.47634484143122,
+   "Coordenadas": "40.3133070944935, -3.47634484143122"
+ },
+ {
+   "Direccion": "Avda de la Estrella de Oriente, 3",
+   "Latitud": 40.3151211708006,
+   "Longitud": -3.47760731051102,
+   "Coordenadas": "40.3151211708006, -3.47760731051102"
+ },
+ {
+   "Direccion": "Urb. de la Estrella de Oriente, 3",
+   "Latitud": 40.3151738876564,
+   "Longitud": -3.4768925219673,
+   "Coordenadas": "40.3151738876564, -3.4768925219673"
+ },
+ {
+   "Direccion": "Avda del Niño Jesús, 5",
+   "Latitud": 40.3153127523721,
+   "Longitud": -3.47674179869938,
+   "Coordenadas": "40.3153127523721, -3.47674179869938"
+ },
+ {
+   "Direccion": "Avda del Niño Jesús, 5",
+   "Latitud": 40.3152974130966,
+   "Longitud": -3.47643828931322,
+   "Coordenadas": "40.3152974130966, -3.47643828931322"
+ },
+ {
+   "Direccion": "Avda de la Estrella de Oriente, 7",
+   "Latitud": 40.3156420608533,
+   "Longitud": -3.47600005465664,
+   "Coordenadas": "40.3156420608533, -3.47600005465664"
+ },
+ {
+   "Direccion": "Avda de la Estrella de Oriente, 6",
+   "Latitud": 40.3152393959861,
+   "Longitud": -3.47594237485619,
+   "Coordenadas": "40.3152393959861, -3.47594237485619"
+ },
+ {
+   "Direccion": "Urb. de la Estrella de Oriente, 6",
+   "Latitud": 40.3152383577203,
+   "Longitud": -3.47588947486952,
+   "Coordenadas": "40.3152383577203, -3.47588947486952"
+ },
+ {
+   "Direccion": "Avda de la Estrella de Oriente, 8",
+   "Latitud": 40.3151989617403,
+   "Longitud": -3.47519127308221,
+   "Coordenadas": "40.3151989617403, -3.47519127308221"
+ },
+ {
+   "Direccion": "Avda de los Derechos Humanos, 14",
+   "Latitud": 40.3078964038623,
+   "Longitud": -3.44496299540413,
+   "Coordenadas": "40.3078964038623, -3.44496299540413"
+ },
+ {
+   "Direccion": "Avda  República Argentina, 45",
+   "Latitud": 40.3102707864299,
+   "Longitud": -3.45384134390811,
+   "Coordenadas": "40.3102707864299, -3.45384134390811"
+ },
+ {
+   "Direccion": "Ctra Loeches-C/ Los Angeles",
+   "Latitud": 40.3023215873866,
+   "Longitud": -3.44203625637399,
+   "Coordenadas": "40.3023215873866, -3.44203625637399"
+ },
+ {
+   "Direccion": "Calle  Juan XXIII, 18",
+   "Latitud": 40.2993821488597,
+   "Longitud": -3.43827245748508,
+   "Coordenadas": "40.2993821488597, -3.43827245748508"
+ },
+ {
+   "Direccion": "Calle  Juan de Austria, 1",
+   "Latitud": 40.2981794773283,
+   "Longitud": -3.4328709422853,
+   "Coordenadas": "40.2981794773283, -3.4328709422853"
+ },
+ {
+   "Direccion": "Paseo de la Ilusión, 5",
+   "Latitud": 40.3075064535035,
+   "Longitud": -3.44173208328458,
+   "Coordenadas": "40.3075064535035, -3.44173208328458"
+ },
+ {
+   "Direccion": "Calle de Alonso Quijano, 4",
+   "Latitud": 40.3005483073354,
+   "Longitud": -3.4466940057889,
+   "Coordenadas": "40.3005483073354, -3.4466940057889"
+ },
+ {
+   "Direccion": "Calle Campoamor",
+   "Latitud": 40.3010608089177,
+   "Longitud": -3.43400183700825,
+   "Coordenadas": "40.3010608089177, -3.43400183700825"
+ },
+ {
+   "Direccion": "Calle  Mar de Alborán, 1",
+   "Latitud": 40.2960369352665,
+   "Longitud": -3.43231813432804,
+   "Coordenadas": "40.2960369352665, -3.43231813432804"
+ },
+ {
+   "Direccion": "Calle  Virgen de los Reyes, 5",
+   "Latitud": 40.3026982719297,
+   "Longitud": -3.44635644513352,
+   "Coordenadas": "40.3026982719297, -3.44635644513352"
+ },
+ {
+   "Direccion": "Calle de la Felicidad, 4",
+   "Latitud": 40.3105539243281,
+   "Longitud": -3.44485418072279,
+   "Coordenadas": "40.3105539243281, -3.44485418072279"
+ },
+ {
+   "Direccion": "Calle de la Felicidad, 2",
+   "Latitud": 40.3106986492459,
+   "Longitud": -3.44485513032059,
+   "Coordenadas": "40.3106986492459, -3.44485513032059"
+ },
+ {
+   "Direccion": "Calle  Gomera, 12",
+   "Latitud": 40.3114668279544,
+   "Longitud": -3.47732758052385,
+   "Coordenadas": "40.3114668279544, -3.47732758052385"
+ },
+ {
+   "Direccion": "Calle de San José, 28",
+   "Latitud": 40.2997335235339,
+   "Longitud": -3.44171560947024,
+   "Coordenadas": "40.2997335235339, -3.44171560947024"
+ },
+ {
+   "Direccion": "Calle  Isaac Peral, 28",
+   "Latitud": 40.2953343200117,
+   "Longitud": -3.43723243604148,
+   "Coordenadas": "40.2953343200117, -3.43723243604148"
+ },
+ {
+   "Direccion": "Ronda de los Almendros, 21",
+   "Latitud": 40.2991224081433,
+   "Longitud": -3.4364894252736,
+   "Coordenadas": "40.2991224081433, -3.4364894252736"
+ },
+ {
+   "Direccion": "Avda del Ejército, 13",
+   "Latitud": 40.3016378614329,
+   "Longitud": -3.44561615176995,
+   "Coordenadas": "40.3016378614329, -3.44561615176995"
+ },
+ {
+   "Direccion": "Calle  Mar Cantábrico, 13",
+   "Latitud": 40.2933002887927,
+   "Longitud": -3.43025586915316,
+   "Coordenadas": "40.2933002887927, -3.43025586915316"
+ },
+ {
+   "Direccion": "Calle  San Roque, 7",
+   "Latitud": 40.2988459108442,
+   "Longitud": -3.43433905763596,
+   "Coordenadas": "40.2988459108442, -3.43433905763596"
+ },
+ {
+   "Direccion": "Avda del Mediterráneo, 5",
+   "Latitud": 40.2969058747642,
+   "Longitud": -3.43130092537385,
+   "Coordenadas": "40.2969058747642, -3.43130092537385"
+ },
+ {
+   "Direccion": "Calle  Don Diego, 29",
+   "Latitud": 40.3021845313679,
+   "Longitud": -3.43883915663092,
+   "Coordenadas": "40.3021845313679, -3.43883915663092"
+ },
+ {
+   "Direccion": "Ronda de Batres, 10",
+   "Latitud": 40.3026132036163,
+   "Longitud": -3.43838823617983,
+   "Coordenadas": "40.3026132036163, -3.43838823617983"
+ },
+ {
+   "Direccion": "Calle  Virgen del Pilar, 6",
+   "Latitud": 40.3019753698493,
+   "Longitud": -3.4447302215588,
+   "Coordenadas": "40.3019753698493, -3.4447302215588"
+ },
+ {
+   "Direccion": "Calle  Real, 110",
+   "Latitud": 40.2980963474422,
+   "Longitud": -3.43025258770098,
+   "Coordenadas": "40.2980963474422, -3.43025258770098"
+ },
+ {
+   "Direccion": "Calle  Grupo Escolar, 24",
+   "Latitud": 40.3026072603562,
+   "Longitud": -3.43648983719365,
+   "Coordenadas": "40.3026072603562, -3.43648983719365"
+ },
+ {
+   "Direccion": "Avda del Mediterráneo, 18",
+   "Latitud": 40.2958634799205,
+   "Longitud": -3.43038984063294,
+   "Coordenadas": "40.2958634799205, -3.43038984063294"
+ },
+ {
+   "Direccion": "Calle  Ibiza, 1",
+   "Latitud": 40.314279807048,
+   "Longitud": -3.4774156165207,
+   "Coordenadas": "40.314279807048, -3.4774156165207"
+ },
+ {
+   "Direccion": "Urb. Estrella de Oriente, 5",
+   "Latitud": 40.3157019290801,
+   "Longitud": -3.47599679474972,
+   "Coordenadas": "40.3157019290801, -3.47599679474972"
+ },
+ {
+   "Direccion": "Avda de la Tolerancia, 27",
+   "Latitud": 40.3094579803669,
+   "Longitud": -3.44417466900606,
+   "Coordenadas": "40.3094579803669, -3.44417466900606"
+ },
+ {
+   "Direccion": "Avda  República Argentina, 4",
+   "Latitud": 40.3096608141226,
+   "Longitud": -3.45238055520554,
+   "Coordenadas": "40.3096608141226, -3.45238055520554"
+ },
+ {
+   "Direccion": "Avda de la Tolerancia, 25",
+   "Latitud": 40.3094587505024,
+   "Longitud": -3.444496304748,
+   "Coordenadas": "40.3094587505024, -3.444496304748"
+ },
+ {
+   "Direccion": "Calle  Noisy Le Sec, 20",
+   "Latitud": 40.2966113779686,
+   "Longitud": -3.44428202957311,
+   "Coordenadas": "40.2966113779686, -3.44428202957311"
+ },
+ {
+   "Direccion": "Calle  Peñón de Gibraltar, 39",
+   "Latitud": 40.3006236930364,
+   "Longitud": -3.44033434869177,
+   "Coordenadas": "40.3006236930364, -3.44033434869177"
+ },
+ {
+   "Direccion": "Calle  Monte Caro, 2",
+   "Latitud": 40.3166145055554,
+   "Longitud": -3.47798648574906,
+   "Coordenadas": "40.3166145055554, -3.47798648574906"
+ },
+ {
+   "Direccion": "Calle  Josefa Salvanés, La Blanca, 4",
+   "Latitud": 40.2913669979002,
+   "Longitud": -3.44345430144025,
+   "Coordenadas": "40.2913669979002, -3.44345430144025"
+ },
+ {
+   "Direccion": "Calle Campoamor",
+   "Latitud": 40.3008132950774,
+   "Longitud": -3.4340233985768,
+   "Coordenadas": "40.3008132950774, -3.4340233985768"
+ },
+ {
+   "Direccion": "Col de los Almendros, 10",
+   "Latitud": 40.2912097312159,
+   "Longitud": -3.44292281933189,
+   "Coordenadas": "40.2912097312159, -3.44292281933189"
+ },
+ {
+   "Direccion": "Calle  Isaac Peral, 34",
+   "Latitud": 40.2949746324967,
+   "Longitud": -3.43678814150622,
+   "Coordenadas": "40.2949746324967, -3.43678814150622"
+ },
+ {
+   "Direccion": "Calle  Dulcinea del Toboso, 5",
+   "Latitud": 40.3009594608144,
+   "Longitud": -3.44559191895068,
+   "Coordenadas": "40.3009594608144, -3.44559191895068"
+ },
+ {
+   "Direccion": "Calle  Doctor Marañón, 8",
+   "Latitud": 40.3030540232672,
+   "Longitud": -3.43794726945888,
+   "Coordenadas": "40.3030540232672, -3.43794726945888"
+ },
+ {
+   "Direccion": "Calle  Dulcinea del Toboso, 4",
+   "Latitud": 40.30119856934,
+   "Longitud": -3.44653542833648,
+   "Coordenadas": "40.30119856934, -3.44653542833648"
+ },
+ {
+   "Direccion": "Calle de las Viñas, 4",
+   "Latitud": 40.3045091896198,
+   "Longitud": -3.44379014677657,
+   "Coordenadas": "40.3045091896198, -3.44379014677657"
+ },
+ {
+   "Direccion": "Calle  Siete Vientos, 52",
+   "Latitud": 40.2989163376398,
+   "Longitud": -3.44425258734312,
+   "Coordenadas": "40.2989163376398, -3.44425258734312"
+ },
+ {
+   "Direccion": "Calle de la Comprensión, 8",
+   "Latitud": 40.3085670475429,
+   "Longitud": -3.44393035792843,
+   "Coordenadas": "40.3085670475429, -3.44393035792843"
+ },
+ {
+   "Direccion": "Callejón de la Paloma, 1",
+   "Latitud": 40.2998697721398,
+   "Longitud": -3.43985143982537,
+   "Coordenadas": "40.2998697721398, -3.43985143982537"
+ },
+ {
+   "Direccion": "Avda del Instituto, 7",
+   "Latitud": 40.2980783844426,
+   "Longitud": -3.44024483641729,
+   "Coordenadas": "40.2980783844426, -3.44024483641729"
+ },
+ {
+   "Direccion": "Avda del Instituto, 13",
+   "Latitud": 40.2976812521086,
+   "Longitud": -3.44062206644522,
+   "Coordenadas": "40.2976812521086, -3.44062206644522"
+ },
+ {
+   "Direccion": "Cmno del Molino, 14",
+   "Latitud": 40.2959910599198,
+   "Longitud": -3.43260134456952,
+   "Coordenadas": "40.2959910599198, -3.43260134456952"
+ },
+ {
+   "Direccion": "Cmno del Molino, 3",
+   "Latitud": 40.2953656664989,
+   "Longitud": -3.43270382379695,
+   "Coordenadas": "40.2953656664989, -3.43270382379695"
+ },
+ {
+   "Direccion": "Calle  Virgen de las Mercedes, 4",
+   "Latitud": 40.3029160986592,
+   "Longitud": -3.44711303626277,
+   "Coordenadas": "40.3029160986592, -3.44711303626277"
+ },
+ {
+   "Direccion": "Calle de la Cruz, 19",
+   "Latitud": 40.2995295037069,
+   "Longitud": -3.4369360254445,
+   "Coordenadas": "40.2995295037069, -3.4369360254445"
+ },
+ {
+   "Direccion": "Calle  Juan de Austria, 6",
+   "Latitud": 40.2981401906732,
+   "Longitud": -3.43305001161824,
+   "Coordenadas": "40.2981401906732, -3.43305001161824"
+ },
+ {
+   "Direccion": "Parking Era Vedia",
+   "Latitud": 40.3017106508815,
+   "Longitud": -3.44400776719988,
+   "Coordenadas": "40.3017106508815, -3.44400776719988"
+ },
+ {
+   "Direccion": "Calle  Miralparque, 15",
+   "Latitud": 40.3036398887985,
+   "Longitud": -3.44264098718183,
+   "Coordenadas": "40.3036398887985, -3.44264098718183"
+ },
+ {
+   "Direccion": "Calle  Don Quijote de la Mancha, 4",
+   "Latitud": 40.3011619428499,
+   "Longitud": -3.44425303490745,
+   "Coordenadas": "40.3011619428499, -3.44425303490745"
+ },
+ {
+   "Direccion": "Calle  Valle Inclán, 66",
+   "Latitud": 40.2969279143638,
+   "Longitud": -3.44176634656653,
+   "Coordenadas": "40.2969279143638, -3.44176634656653"
+ },
+ {
+   "Direccion": "Calle del Portal de Belén, 36",
+   "Latitud": 40.3177437837925,
+   "Longitud": -3.47581847241004,
+   "Coordenadas": "40.3177437837925, -3.47581847241004"
+ },
+ {
+   "Direccion": "Calle del Portal de Belén, 9",
+   "Latitud": 40.3167091939917,
+   "Longitud": -3.475978590348,
+   "Coordenadas": "40.3167091939917, -3.475978590348"
+ },
+ {
+   "Direccion": "Calle  Piragua, 2",
+   "Latitud": 40.2945468893776,
+   "Longitud": -3.43612075473173,
+   "Coordenadas": "40.2945468893776, -3.43612075473173"
+ },
+ {
+   "Direccion": "Calle  Piragua, 2",
+   "Latitud": 40.2944753357877,
+   "Longitud": -3.43613196871969,
+   "Coordenadas": "40.2944753357877, -3.43613196871969"
+ },
+ {
+   "Direccion": "Calle  Piragua, 2",
+   "Latitud": 40.2943978520265,
+   "Longitud": -3.4361353615097,
+   "Coordenadas": "40.2943978520265, -3.4361353615097"
+ },
+ {
+   "Direccion": "Urb. de la Estrella de Oriente, 6",
+   "Latitud": 40.3152327504992,
+   "Longitud": -3.4758038004456,
+   "Coordenadas": "40.3152327504992, -3.4758038004456"
+ },
+ {
+   "Direccion": "Calle del Velero, 6",
+   "Latitud": 40.2955605559143,
+   "Longitud": -3.43358621734873,
+   "Coordenadas": "40.2955605559143, -3.43358621734873"
+ },
+ {
+   "Direccion": "Calle  Maestro Miguel Chicote, 11",
+   "Latitud": 40.3018231175063,
+   "Longitud": -3.44838032012045,
+   "Coordenadas": "40.3018231175063, -3.44838032012045"
+ },
+ {
+   "Direccion": "Calle  Monte Igueldo, 3",
+   "Latitud": 40.3153610016674,
+   "Longitud": -3.48021037664226,
+   "Coordenadas": "40.3153610016674, -3.48021037664226"
+ },
+ {
+   "Direccion": "Ctra de Loeches, 36",
+   "Latitud": 40.3040220254214,
+   "Longitud": -3.44459073619321,
+   "Coordenadas": "40.3040220254214, -3.44459073619321"
+ },
+ {
+   "Direccion": "Calle  Maestro Miguel Chicote, 11",
+   "Latitud": 40.3018463894935,
+   "Longitud": -3.44835239780615,
+   "Coordenadas": "40.3018463894935, -3.44835239780615"
+ },
+ {
+   "Direccion": "Calle  Adolfo Marsillach, 8",
+   "Latitud": 40.3012031862013,
+   "Longitud": -3.44702242394493,
+   "Coordenadas": "40.3012031862013, -3.44702242394493"
+ },
+ {
+   "Direccion": "Ronda de Batres, 10",
+   "Latitud": 40.3025946518021,
+   "Longitud": -3.43832804951508,
+   "Coordenadas": "40.3025946518021, -3.43832804951508"
+ },
+ {
+   "Direccion": "Calle  Real, 127",
+   "Latitud": 40.2980735570308,
+   "Longitud": -3.43027137526951,
+   "Coordenadas": "40.2980735570308, -3.43027137526951"
+ },
+ {
+   "Direccion": "Calle de la Cruz, 7",
+   "Latitud": 40.2997624766398,
+   "Longitud": -3.43744293965285,
+   "Coordenadas": "40.2997624766398, -3.43744293965285"
+ },
+ {
+   "Direccion": "Calle de la Canoa, 5",
+   "Latitud": 40.2953329160697,
+   "Longitud": -3.43321561716685,
+   "Coordenadas": "40.2953329160697, -3.43321561716685"
+ },
+ {
+   "Direccion": "Calle  Jorge Manrique, 10",
+   "Latitud": 40.3020865850246,
+   "Longitud": -3.43400471110708,
+   "Coordenadas": "40.3020865850246, -3.43400471110708"
+ },
+ {
+   "Direccion": "Calle  Doctor Marañón, 4",
+   "Latitud": 40.302836531065,
+   "Longitud": -3.43812071526657,
+   "Coordenadas": "40.302836531065, -3.43812071526657"
+ },
+ {
+   "Direccion": "Calle  Generosidad, 12",
+   "Latitud": 40.3137880004827,
+   "Longitud": -3.44382840147554,
+   "Coordenadas": "40.3137880004827, -3.44382840147554"
+ },
+ {
+   "Direccion": "Ronda de Batres, 28",
+   "Latitud": 40.3028741565641,
+   "Longitud": -3.44057568551417,
+   "Coordenadas": "40.3028741565641, -3.44057568551417"
+ },
+ {
+   "Direccion": "Calle  Real, 85",
+   "Latitud": 40.2990451728317,
+   "Longitud": -3.4334363061404,
+   "Coordenadas": "40.2990451728317, -3.4334363061404"
+ },
+ {
+   "Direccion": "Calle  Noisy Le Sec, 65",
+   "Latitud": 40.297185181767,
+   "Longitud": -3.445402772221,
+   "Coordenadas": "40.297185181767, -3.445402772221"
+ },
+ {
+   "Direccion": "Calle  Peñón de Gibraltar, 14",
+   "Latitud": 40.3001044097518,
+   "Longitud": -3.44027432868403,
+   "Coordenadas": "40.3001044097518, -3.44027432868403"
+ },
+ {
+   "Direccion": "Calle  Puerta del Campo, 43",
+   "Latitud": 40.303593426961,
+   "Longitud": -3.43734073800214,
+   "Coordenadas": "40.303593426961, -3.43734073800214"
+ },
+ {
+   "Direccion": "Ctra de Loeches, 53",
+   "Latitud": 40.3041982727909,
+   "Longitud": -3.44516319811387,
+   "Coordenadas": "40.3041982727909, -3.44516319811387"
+ },
+ {
+   "Direccion": "Ctra de Loeches, 37",
+   "Latitud": 40.3033798020051,
+   "Longitud": -3.44372555622637,
+   "Coordenadas": "40.3033798020051, -3.44372555622637"
+ },
+ {
+   "Direccion": "Calle  Gran Vía, 26",
+   "Latitud": 40.3150283246195,
+   "Longitud": -3.48055215150424,
+   "Coordenadas": "40.3150283246195, -3.48055215150424"
+ },
+ {
+   "Direccion": "Calle  Peñón de Gibraltar, 46",
+   "Latitud": 40.2976638648742,
+   "Longitud": -3.44115784361857,
+   "Coordenadas": "40.2976638648742, -3.44115784361857"
+ },
+ {
+   "Direccion": "Calle  Gustavo Adolfo Bécquer, 41",
+   "Latitud": 40.3023054261081,
+   "Longitud": -3.43475647556119,
+   "Coordenadas": "40.3023054261081, -3.43475647556119"
+ },
+ {
+   "Direccion": "Calle de San José, 1",
+   "Latitud": 40.2992413733961,
+   "Longitud": -3.44104269673573,
+   "Coordenadas": "40.2992413733961, -3.44104269673573"
+ },
+ {
+   "Direccion": "Calle de los Almendros, 50",
+   "Latitud": 40.2985362239616,
+   "Longitud": -3.43433175491245,
+   "Coordenadas": "40.2985362239616, -3.43433175491245"
+ },
+ {
+   "Direccion": "Calle  Jorge Manrique, 3",
+   "Latitud": 40.3017908130643,
+   "Longitud": -3.43363197888396,
+   "Coordenadas": "40.3017908130643, -3.43363197888396"
+ },
+ {
+   "Direccion": "Calle de la Comprensión, 16",
+   "Latitud": 40.307229108598,
+   "Longitud": -3.44474594783422,
+   "Coordenadas": "40.307229108598, -3.44474594783422"
+ },
+ {
+   "Direccion": "Calle  Puerta del Campo, 12",
+   "Latitud": 40.3025212740583,
+   "Longitud": -3.4375582955679,
+   "Coordenadas": "40.3025212740583, -3.4375582955679"
+ },
+ {
+   "Direccion": "Avda del Ejército, 63",
+   "Latitud": 40.3036889627955,
+   "Longitud": -3.45079793429185,
+   "Coordenadas": "40.3036889627955, -3.45079793429185"
+ },
+ {
+   "Direccion": "Urb  Gran Hábitat, 8",
+   "Latitud": 40.3041686117807,
+   "Longitud": -3.43943549777232,
+   "Coordenadas": "40.3041686117807, -3.43943549777232"
+ },
+ {
+   "Direccion": "Paseo de la Misericordia, 10",
+   "Latitud": 40.3034011861192,
+   "Longitud": -3.4454478748239,
+   "Coordenadas": "40.3034011861192, -3.4454478748239"
+ }
+]
